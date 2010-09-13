@@ -1,0 +1,5785 @@
+lOG!!
+
+
+making a move
+time: 0.000253
+counts
+time: 0.000332
+ships: 100, 100
+centre
+time: 0.000378
+get desires
+time: 0.000397
+sorting
+time: 0.000434
+logging
+time: 0.00046
+
+Mine:
+2: des- 0.184639 pop- 100 req- 0
+
+All:
+22: des- 0.300798 pop- 20 req- 21
+20: des- 0.270136 pop- 48 req- 49
+2: des- 0.184639 pop- 100 req- 0
+18: des- 0.178562 pop- 60 req- 61
+13: des- 0.132949 pop- 35 req- 36
+8: des- 0.115255 pop- 67 req- 68
+12: des- 0.115153 pop- 20 req- 21
+5: des- 0.110542 pop- 46 req- 47
+0: des- 0.0852508 pop- 128 req- 129
+16: des- 0.0742221 pop- 55 req- 56
+14: des- 0.0697378 pop- 35 req- 36
+15: des- 0.0682335 pop- 55 req- 56
+6: des- 0.0606861 pop- 46 req- 47
+10: des- 0.0556409 pop- 57 req- 58
+9: des- 0.0554994 pop- 57 req- 58
+4: des- 0.0531543 pop- 79 req- 80
+11: des- 0.0503292 pop- 20 req- 21
+17: des- 0.0502578 pop- 60 req- 61
+3: des- 0.0489092 pop- 79 req- 80
+7: des- 0.045942 pop- 67 req- 68
+19: des- 0.0429919 pop- 48 req- 49
+21: des- 0.0426986 pop- 20 req- 21
+1: des- 0.021821 pop- 100 req- 101
+
+adjusting for fleets
+time: 0.000778
+
+adjusted:
+22: des- 0.300798 pop- 20 req- 21
+20: des- 0.270136 pop- 48 req- 49
+2: des- 0.184639 pop- 100 req- 0
+18: des- 0.178562 pop- 60 req- 61
+13: des- 0.132949 pop- 35 req- 36
+8: des- 0.115255 pop- 67 req- 68
+12: des- 0.115153 pop- 20 req- 21
+5: des- 0.110542 pop- 46 req- 47
+0: des- 0.0852508 pop- 128 req- 129
+16: des- 0.0742221 pop- 55 req- 56
+14: des- 0.0697378 pop- 35 req- 36
+15: des- 0.0682335 pop- 55 req- 56
+6: des- 0.0606861 pop- 46 req- 47
+10: des- 0.0556409 pop- 57 req- 58
+9: des- 0.0554994 pop- 57 req- 58
+4: des- 0.0531543 pop- 79 req- 80
+11: des- 0.0503292 pop- 20 req- 21
+17: des- 0.0502578 pop- 60 req- 61
+3: des- 0.0489092 pop- 79 req- 80
+7: des- 0.045942 pop- 67 req- 68
+19: des- 0.0429919 pop- 48 req- 49
+21: des- 0.0426986 pop- 20 req- 21
+1: des- 0.021821 pop- 100 req- 101
+
+moves:
+time: 0.001081
+sp 2 : 0.184639 tp 22 : 0.300798
+time: 0.001104
+sending some ships
+order: 2=>22(50)
+dec ships tp send
+++iter
+done
+next
+orders: 1
+
+all done
+
+time: 0.001185
+
+
+making a move
+time: 0.000249
+counts
+time: 0.000305
+ships: 55, 5
+centre
+time: 0.000342
+get desires
+time: 0.000361
+sorting
+time: 0.00039
+logging
+time: 0.000416
+
+Mine:
+2: des- 0.190534 pop- 55 req- 0
+
+All:
+22: des- 0.300232 pop- 20 req- 21
+20: des- 0.26889 pop- 48 req- 49
+2: des- 0.190534 pop- 55 req- 0
+18: des- 0.177523 pop- 60 req- 61
+13: des- 0.132507 pop- 35 req- 36
+12: des- 0.114937 pop- 20 req- 21
+8: des- 0.114502 pop- 67 req- 68
+5: des- 0.110054 pop- 46 req- 47
+0: des- 0.0841309 pop- 128 req- 129
+16: des- 0.0738277 pop- 55 req- 56
+14: des- 0.0695057 pop- 35 req- 36
+15: des- 0.0678709 pop- 55 req- 56
+6: des- 0.0604183 pop- 46 req- 47
+10: des- 0.055334 pop- 57 req- 58
+9: des- 0.0551932 pop- 57 req- 58
+4: des- 0.0527406 pop- 79 req- 80
+11: des- 0.0502346 pop- 20 req- 21
+17: des- 0.0499653 pop- 60 req- 61
+3: des- 0.0485286 pop- 79 req- 80
+7: des- 0.0456417 pop- 67 req- 68
+19: des- 0.0427936 pop- 48 req- 49
+21: des- 0.0426184 pop- 20 req- 21
+1: des- 0.0235347 pop- 5 req- 6
+
+adjusting for fleets
+time: 0.000717
+
+adjusted:
+22: des- 0.300232 pop- 20 req- -29
+20: des- 0.26889 pop- 48 req- 49
+2: des- 0.190534 pop- 55 req- 0
+18: des- 0.177523 pop- 60 req- 61
+13: des- 0.132507 pop- 35 req- 36
+12: des- 0.114937 pop- 20 req- 21
+8: des- 0.114502 pop- 67 req- 68
+5: des- 0.110054 pop- 46 req- 47
+0: des- 0.0841309 pop- 128 req- 129
+16: des- 0.0738277 pop- 55 req- 56
+14: des- 0.0695057 pop- 35 req- 36
+15: des- 0.0678709 pop- 55 req- 56
+6: des- 0.0604183 pop- 46 req- 47
+10: des- 0.055334 pop- 57 req- 58
+9: des- 0.0551932 pop- 57 req- 58
+4: des- 0.0527406 pop- 79 req- 80
+11: des- 0.0502346 pop- 20 req- 21
+17: des- 0.0499653 pop- 60 req- 61
+3: des- 0.0485286 pop- 79 req- 80
+7: des- 0.0456417 pop- 67 req- 68
+19: des- 0.0427936 pop- 48 req- 49
+21: des- 0.0426184 pop- 20 req- 21
+1: des- 0.0235347 pop- 5 req- 6
+
+moves:
+time: 0.004614
+sp 2 : 0.190534 tp 22 : 0.300232
+time: 0.004639
+sending all ships needed
+order: 2=>22(-46)
+next
+sp 2 : 0.190534 tp 20 : 0.26889
+time: 0.004682
+sending some ships
+order: 2=>20(51)
+dec ships tp send
+++iter
+done
+next
+orders: 2
+
+all done
+
+time: 0.004811
+
+
+making a move
+time: 0.000293
+counts
+time: 0.000355
+ships: 9, 10
+centre
+time: 0.000392
+get desires
+time: 0.000412
+sorting
+time: 0.00044
+logging
+time: 0.000467
+
+Mine:
+2: des- 0.198394 pop- 9 req- 0
+
+All:
+22: des- 0.30004 pop- 20 req- 21
+20: des- 0.268466 pop- 48 req- 49
+2: des- 0.198394 pop- 9 req- 0
+18: des- 0.177169 pop- 60 req- 61
+13: des- 0.132356 pop- 35 req- 36
+12: des- 0.114863 pop- 20 req- 21
+8: des- 0.114245 pop- 67 req- 68
+5: des- 0.109888 pop- 46 req- 47
+0: des- 0.08375 pop- 128 req- 129
+16: des- 0.0736936 pop- 55 req- 56
+14: des- 0.0694268 pop- 35 req- 36
+15: des- 0.0677475 pop- 55 req- 56
+6: des- 0.0603272 pop- 46 req- 47
+10: des- 0.0552296 pop- 57 req- 58
+9: des- 0.0550891 pop- 57 req- 58
+4: des- 0.0525999 pop- 79 req- 80
+11: des- 0.0502024 pop- 20 req- 21
+17: des- 0.0498658 pop- 60 req- 61
+3: des- 0.0483991 pop- 79 req- 80
+7: des- 0.0455396 pop- 67 req- 68
+19: des- 0.0427262 pop- 48 req- 49
+21: des- 0.0425911 pop- 20 req- 21
+1: des- 0.0234255 pop- 10 req- 11
+
+adjusting for fleets
+time: 0.000771
+
+adjusted:
+22: des- 0.30004 pop- 20 req- -29
+20: des- 0.268466 pop- 48 req- -2
+2: des- 0.198394 pop- 9 req- 0
+18: des- 0.177169 pop- 60 req- 61
+13: des- 0.132356 pop- 35 req- 36
+12: des- 0.114863 pop- 20 req- 21
+8: des- 0.114245 pop- 67 req- 68
+5: des- 0.109888 pop- 46 req- 47
+0: des- 0.08375 pop- 128 req- 129
+16: des- 0.0736936 pop- 55 req- 56
+14: des- 0.0694268 pop- 35 req- 36
+15: des- 0.0677475 pop- 55 req- 56
+6: des- 0.0603272 pop- 46 req- 47
+10: des- 0.0552296 pop- 57 req- 58
+9: des- 0.0550891 pop- 57 req- 58
+4: des- 0.0525999 pop- 79 req- 80
+11: des- 0.0502024 pop- 20 req- 21
+17: des- 0.0498658 pop- 60 req- 61
+3: des- 0.0483991 pop- 79 req- 80
+7: des- 0.0455396 pop- 67 req- 68
+19: des- 0.0427262 pop- 48 req- 49
+21: des- 0.0425911 pop- 20 req- 21
+1: des- 0.0234255 pop- 10 req- 11
+
+moves:
+time: 0.001078
+sp 2 : 0.198394 tp 22 : 0.30004
+time: 0.001101
+orders: 0
+
+all done
+
+time: 0.001122
+
+
+making a move
+time: 0.000264
+counts
+time: 0.000319
+ships: 14, 15
+centre
+time: 0.000355
+get desires
+time: 0.000374
+sorting
+time: 0.000402
+logging
+time: 0.000428
+
+Mine:
+2: des- 0.197524 pop- 14 req- 0
+
+All:
+22: des- 0.300088 pop- 20 req- 21
+20: des- 0.268572 pop- 48 req- 49
+2: des- 0.197524 pop- 14 req- 0
+18: des- 0.177258 pop- 60 req- 61
+13: des- 0.132394 pop- 35 req- 36
+12: des- 0.114881 pop- 20 req- 21
+8: des- 0.11431 pop- 67 req- 68
+5: des- 0.10993 pop- 46 req- 47
+0: des- 0.0838454 pop- 128 req- 129
+16: des- 0.0737272 pop- 55 req- 56
+14: des- 0.0694466 pop- 35 req- 36
+15: des- 0.0677784 pop- 55 req- 56
+6: des- 0.06035 pop- 46 req- 47
+10: des- 0.0552557 pop- 57 req- 58
+9: des- 0.0551152 pop- 57 req- 58
+4: des- 0.0526352 pop- 79 req- 80
+11: des- 0.0502105 pop- 20 req- 21
+17: des- 0.0498907 pop- 60 req- 61
+3: des- 0.0484315 pop- 79 req- 80
+7: des- 0.0455652 pop- 67 req- 68
+19: des- 0.0427431 pop- 48 req- 49
+21: des- 0.0425979 pop- 20 req- 21
+1: des- 0.0233229 pop- 15 req- 16
+
+adjusting for fleets
+time: 0.000724
+
+adjusted:
+22: des- 0.300088 pop- 20 req- -29
+20: des- 0.268572 pop- 48 req- -2
+2: des- 0.197524 pop- 14 req- 0
+18: des- 0.177258 pop- 60 req- 61
+13: des- 0.132394 pop- 35 req- 36
+12: des- 0.114881 pop- 20 req- 21
+8: des- 0.11431 pop- 67 req- 68
+5: des- 0.10993 pop- 46 req- 47
+0: des- 0.0838454 pop- 128 req- 129
+16: des- 0.0737272 pop- 55 req- 56
+14: des- 0.0694466 pop- 35 req- 36
+15: des- 0.0677784 pop- 55 req- 56
+6: des- 0.06035 pop- 46 req- 47
+10: des- 0.0552557 pop- 57 req- 58
+9: des- 0.0551152 pop- 57 req- 58
+4: des- 0.0526352 pop- 79 req- 80
+11: des- 0.0502105 pop- 20 req- 21
+17: des- 0.0498907 pop- 60 req- 61
+3: des- 0.0484315 pop- 79 req- 80
+7: des- 0.0455652 pop- 67 req- 68
+19: des- 0.0427431 pop- 48 req- 49
+21: des- 0.0425979 pop- 20 req- 21
+1: des- 0.0233229 pop- 15 req- 16
+
+moves:
+time: 0.001026
+sp 2 : 0.197524 tp 22 : 0.300088
+time: 0.001049
+orders: 0
+
+all done
+
+time: 0.00107
+
+
+making a move
+time: 0.000284
+counts
+time: 0.000349
+ships: 49, 20
+centre
+time: 0.000386
+get desires
+time: 0.000406
+sorting
+time: 0.000435
+logging
+time: 0.000463
+
+Mine:
+22: des- 0.153462 pop- 30 req- 0
+2: des- 0.0981462 pop- 19 req- 0
+
+All:
+20: des- 0.186982 pop- 48 req- 49
+22: des- 0.153462 pop- 30 req- 0
+12: des- 0.129898 pop- 20 req- 21
+18: des- 0.129033 pop- 60 req- 61
+13: des- 0.116407 pop- 35 req- 36
+5: des- 0.111844 pop- 46 req- 47
+2: des- 0.0981462 pop- 19 req- 0
+8: des- 0.0926868 pop- 67 req- 68
+0: des- 0.0755469 pop- 128 req- 129
+15: des- 0.0678749 pop- 55 req- 56
+16: des- 0.0642276 pop- 55 req- 56
+14: des- 0.0636586 pop- 35 req- 36
+9: des- 0.0570701 pop- 57 req- 58
+4: des- 0.0551861 pop- 79 req- 80
+6: des- 0.0546818 pop- 46 req- 47
+10: des- 0.0495538 pop- 57 req- 58
+17: des- 0.0481263 pop- 60 req- 61
+11: des- 0.0462331 pop- 20 req- 21
+7: des- 0.0447034 pop- 67 req- 68
+3: des- 0.0439347 pop- 79 req- 80
+19: des- 0.0411851 pop- 48 req- 49
+21: des- 0.0403191 pop- 20 req- 21
+1: des- 0.0220484 pop- 20 req- 21
+
+adjusting for fleets
+time: 0.000826
+
+adjusted:
+20: des- 0.186982 pop- 48 req- -2
+22: des- 0.153462 pop- 30 req- 0
+12: des- 0.129898 pop- 20 req- 21
+18: des- 0.129033 pop- 60 req- 61
+13: des- 0.116407 pop- 35 req- 36
+5: des- 0.111844 pop- 46 req- 47
+2: des- 0.0981462 pop- 19 req- 0
+8: des- 0.0926868 pop- 67 req- 68
+0: des- 0.0755469 pop- 128 req- 129
+15: des- 0.0678749 pop- 55 req- 56
+16: des- 0.0642276 pop- 55 req- 56
+14: des- 0.0636586 pop- 35 req- 36
+9: des- 0.0570701 pop- 57 req- 58
+4: des- 0.0551861 pop- 79 req- 80
+6: des- 0.0546818 pop- 46 req- 47
+10: des- 0.0495538 pop- 57 req- 58
+17: des- 0.0481263 pop- 60 req- 61
+11: des- 0.0462331 pop- 20 req- 21
+7: des- 0.0447034 pop- 67 req- 68
+3: des- 0.0439347 pop- 79 req- 80
+19: des- 0.0411851 pop- 48 req- 49
+21: des- 0.0403191 pop- 20 req- 21
+1: des- 0.0220484 pop- 20 req- 21
+
+moves:
+time: 0.00113
+sp 2 : 0.0981462 tp 20 : 0.186982
+time: 0.001546
+sp 22 : 0.153462 tp 20 : 0.186982
+time: 0.001575
+orders: 0
+
+all done
+
+time: 0.001597
+
+
+making a move
+time: 0.00024
+counts
+time: 0.000297
+ships: 60, 25
+centre
+time: 0.000333
+get desires
+time: 0.000354
+sorting
+time: 0.000383
+logging
+time: 0.000412
+
+Mine:
+22: des- 0.1215 pop- 33 req- 0
+2: des- 0.116036 pop- 24 req- 0
+20: des- 0.0417239 pop- 3 req- 0
+
+All:
+18: des- 0.134768 pop- 60 req- 61
+12: des- 0.12564 pop- 20 req- 21
+22: des- 0.1215 pop- 33 req- 0
+13: des- 0.117399 pop- 35 req- 36
+2: des- 0.116036 pop- 24 req- 0
+5: des- 0.110116 pop- 46 req- 47
+8: des- 0.0957756 pop- 67 req- 68
+0: des- 0.0759433 pop- 128 req- 129
+15: des- 0.0672289 pop- 55 req- 56
+16: des- 0.0653453 pop- 55 req- 56
+14: des- 0.0640936 pop- 35 req- 36
+9: des- 0.0562879 pop- 57 req- 58
+6: des- 0.0552467 pop- 46 req- 47
+4: des- 0.0543031 pop- 79 req- 80
+10: des- 0.0502897 pop- 57 req- 58
+17: des- 0.0480623 pop- 60 req- 61
+11: des- 0.0466624 pop- 20 req- 21
+7: des- 0.0445214 pop- 67 req- 68
+3: des- 0.0444873 pop- 79 req- 80
+20: des- 0.0417239 pop- 3 req- 0
+19: des- 0.0411881 pop- 48 req- 49
+21: des- 0.0404962 pop- 20 req- 21
+1: des- 0.0220185 pop- 25 req- 26
+
+adjusting for fleets
+time: 0.000731
+
+adjusted:
+18: des- 0.134768 pop- 60 req- 61
+12: des- 0.12564 pop- 20 req- 21
+22: des- 0.1215 pop- 33 req- 0
+13: des- 0.117399 pop- 35 req- 36
+2: des- 0.116036 pop- 24 req- 0
+5: des- 0.110116 pop- 46 req- 47
+8: des- 0.0957756 pop- 67 req- 68
+0: des- 0.0759433 pop- 128 req- 129
+15: des- 0.0672289 pop- 55 req- 56
+16: des- 0.0653453 pop- 55 req- 56
+14: des- 0.0640936 pop- 35 req- 36
+9: des- 0.0562879 pop- 57 req- 58
+6: des- 0.0552467 pop- 46 req- 47
+4: des- 0.0543031 pop- 79 req- 80
+10: des- 0.0502897 pop- 57 req- 58
+17: des- 0.0480623 pop- 60 req- 61
+11: des- 0.0466624 pop- 20 req- 21
+7: des- 0.0445214 pop- 67 req- 68
+3: des- 0.0444873 pop- 79 req- 80
+20: des- 0.0417239 pop- 3 req- 0
+19: des- 0.0411881 pop- 48 req- 49
+21: des- 0.0404962 pop- 20 req- 21
+1: des- 0.0220185 pop- 25 req- 26
+
+moves:
+time: 0.001031
+sp 20 : 0.0417239 tp 18 : 0.134768
+time: 0.001055
+sp 2 : 0.116036 tp 18 : 0.134768
+time: 0.001077
+sp 22 : 0.1215 tp 18 : 0.134768
+time: 0.001099
+orders: 0
+
+all done
+
+time: 0.001121
+
+
+making a move
+time: 0.000256
+counts
+time: 0.000311
+ships: 72, 30
+centre
+time: 0.000347
+get desires
+time: 0.000368
+sorting
+time: 0.000396
+logging
+time: 0.000425
+
+Mine:
+2: des- 0.136397 pop- 29 req- 0
+22: des- 0.102694 pop- 36 req- 0
+20: des- 0.0443668 pop- 7 req- 0
+
+All:
+18: des- 0.140372 pop- 60 req- 61
+2: des- 0.136397 pop- 29 req- 0
+12: des- 0.122049 pop- 20 req- 21
+13: des- 0.118104 pop- 35 req- 36
+5: des- 0.108593 pop- 46 req- 47
+22: des- 0.102694 pop- 36 req- 0
+8: des- 0.0988647 pop- 67 req- 68
+0: des- 0.0765582 pop- 128 req- 129
+15: des- 0.0667345 pop- 55 req- 56
+16: des- 0.0664404 pop- 55 req- 56
+14: des- 0.0644884 pop- 35 req- 36
+6: des- 0.0557993 pop- 46 req- 47
+9: des- 0.0557004 pop- 57 req- 58
+4: des- 0.0536817 pop- 79 req- 80
+10: des- 0.0510381 pop- 57 req- 58
+17: des- 0.0480742 pop- 60 req- 61
+11: des- 0.0470483 pop- 20 req- 21
+3: des- 0.0451003 pop- 79 req- 80
+7: des- 0.0444425 pop- 67 req- 68
+20: des- 0.0443668 pop- 7 req- 0
+19: des- 0.0412361 pop- 48 req- 49
+21: des- 0.0406568 pop- 20 req- 21
+1: des- 0.021983 pop- 30 req- 31
+
+adjusting for fleets
+time: 0.000773
+
+adjusted:
+18: des- 0.140372 pop- 60 req- 61
+2: des- 0.136397 pop- 29 req- 0
+12: des- 0.122049 pop- 20 req- 21
+13: des- 0.118104 pop- 35 req- 36
+5: des- 0.108593 pop- 46 req- 47
+22: des- 0.102694 pop- 36 req- 0
+8: des- 0.0988647 pop- 67 req- 68
+0: des- 0.0765582 pop- 128 req- 129
+15: des- 0.0667345 pop- 55 req- 56
+16: des- 0.0664404 pop- 55 req- 56
+14: des- 0.0644884 pop- 35 req- 36
+6: des- 0.0557993 pop- 46 req- 47
+9: des- 0.0557004 pop- 57 req- 58
+4: des- 0.0536817 pop- 79 req- 80
+10: des- 0.0510381 pop- 57 req- 58
+17: des- 0.0480742 pop- 60 req- 61
+11: des- 0.0470483 pop- 20 req- 21
+3: des- 0.0451003 pop- 79 req- 80
+7: des- 0.0444425 pop- 67 req- 68
+20: des- 0.0443668 pop- 7 req- 0
+19: des- 0.0412361 pop- 48 req- 49
+21: des- 0.0406568 pop- 20 req- 21
+1: des- 0.021983 pop- 30 req- 31
+
+moves:
+time: 0.00183
+sp 20 : 0.0443668 tp 18 : 0.140372
+time: 0.001853
+sp 22 : 0.102694 tp 18 : 0.140372
+time: 0.001875
+sp 2 : 0.136397 tp 18 : 0.140372
+time: 0.001897
+orders: 0
+
+all done
+
+time: 0.001918
+
+
+making a move
+time: 0.000222
+counts
+time: 0.000264
+ships: 84, 35
+centre
+time: 0.000298
+get desires
+time: 0.00032
+sorting
+time: 0.000347
+logging
+time: 0.000375
+
+Mine:
+2: des- 0.15439 pop- 34 req- 0
+22: des- 0.0922672 pop- 39 req- 0
+20: des- 0.0464383 pop- 11 req- 0
+
+All:
+2: des- 0.15439 pop- 34 req- 0
+18: des- 0.14466 pop- 60 req- 61
+12: des- 0.119575 pop- 20 req- 21
+13: des- 0.11853 pop- 35 req- 36
+5: des- 0.107487 pop- 46 req- 47
+8: des- 0.101214 pop- 67 req- 68
+22: des- 0.0922672 pop- 39 req- 0
+0: des- 0.0770094 pop- 128 req- 129
+16: des- 0.0672495 pop- 55 req- 56
+15: des- 0.0663839 pop- 55 req- 56
+14: des- 0.0647662 pop- 35 req- 36
+6: des- 0.0562018 pop- 46 req- 47
+9: des- 0.0552938 pop- 57 req- 58
+4: des- 0.0532581 pop- 79 req- 80
+10: des- 0.0515941 pop- 57 req- 58
+17: des- 0.0480862 pop- 60 req- 61
+11: des- 0.0473268 pop- 20 req- 21
+20: des- 0.0464383 pop- 11 req- 0
+3: des- 0.0455594 pop- 79 req- 80
+7: des- 0.0443919 pop- 67 req- 68
+19: des- 0.0412732 pop- 48 req- 49
+21: des- 0.0407715 pop- 20 req- 21
+1: des- 0.0219315 pop- 35 req- 36
+
+adjusting for fleets
+time: 0.000695
+
+adjusted:
+2: des- 0.15439 pop- 34 req- 0
+18: des- 0.14466 pop- 60 req- 61
+12: des- 0.119575 pop- 20 req- 21
+13: des- 0.11853 pop- 35 req- 36
+5: des- 0.107487 pop- 46 req- 47
+8: des- 0.101214 pop- 67 req- 68
+22: des- 0.0922672 pop- 39 req- 0
+0: des- 0.0770094 pop- 128 req- 129
+16: des- 0.0672495 pop- 55 req- 56
+15: des- 0.0663839 pop- 55 req- 56
+14: des- 0.0647662 pop- 35 req- 36
+6: des- 0.0562018 pop- 46 req- 47
+9: des- 0.0552938 pop- 57 req- 58
+4: des- 0.0532581 pop- 79 req- 80
+10: des- 0.0515941 pop- 57 req- 58
+17: des- 0.0480862 pop- 60 req- 61
+11: des- 0.0473268 pop- 20 req- 21
+20: des- 0.0464383 pop- 11 req- 0
+3: des- 0.0455594 pop- 79 req- 80
+7: des- 0.0443919 pop- 67 req- 68
+19: des- 0.0412732 pop- 48 req- 49
+21: des- 0.0407715 pop- 20 req- 21
+1: des- 0.0219315 pop- 35 req- 36
+
+moves:
+time: 0.001038
+sp 20 : 0.0464383 tp 2 : 0.15439
+time: 0.001061
+sp 22 : 0.0922672 tp 2 : 0.15439
+time: 0.001083
+orders: 0
+
+all done
+
+time: 0.001104
+
+
+making a move
+time: 0.000251
+counts
+time: 0.000309
+ships: 96, 40
+centre
+time: 0.000345
+get desires
+time: 0.000367
+sorting
+time: 0.000395
+logging
+time: 0.000424
+
+Mine:
+2: des- 0.169802 pop- 39 req- 0
+22: des- 0.0856347 pop- 42 req- 0
+20: des- 0.0480957 pop- 15 req- 0
+
+All:
+2: des- 0.169802 pop- 39 req- 0
+18: des- 0.148052 pop- 60 req- 61
+13: des- 0.118809 pop- 35 req- 36
+12: des- 0.117772 pop- 20 req- 21
+5: des- 0.106656 pop- 46 req- 47
+8: des- 0.103068 pop- 67 req- 68
+22: des- 0.0856347 pop- 42 req- 0
+0: des- 0.077365 pop- 128 req- 129
+16: des- 0.0678751 pop- 55 req- 56
+15: des- 0.0661264 pop- 55 req- 56
+14: des- 0.0649744 pop- 35 req- 36
+6: des- 0.0565105 pop- 46 req- 47
+9: des- 0.0549992 pop- 57 req- 58
+4: des- 0.0529557 pop- 79 req- 80
+10: des- 0.0520262 pop- 57 req- 58
+17: des- 0.0481001 pop- 60 req- 61
+20: des- 0.0480957 pop- 15 req- 0
+11: des- 0.0475381 pop- 20 req- 21
+3: des- 0.0459195 pop- 79 req- 80
+7: des- 0.0443602 pop- 67 req- 68
+19: des- 0.0413046 pop- 48 req- 49
+21: des- 0.0408583 pop- 20 req- 21
+1: des- 0.0218717 pop- 40 req- 41
+
+adjusting for fleets
+time: 0.000771
+
+adjusted:
+2: des- 0.169802 pop- 39 req- 0
+18: des- 0.148052 pop- 60 req- 61
+13: des- 0.118809 pop- 35 req- 36
+12: des- 0.117772 pop- 20 req- 21
+5: des- 0.106656 pop- 46 req- 47
+8: des- 0.103068 pop- 67 req- 68
+22: des- 0.0856347 pop- 42 req- 0
+0: des- 0.077365 pop- 128 req- 129
+16: des- 0.0678751 pop- 55 req- 56
+15: des- 0.0661264 pop- 55 req- 56
+14: des- 0.0649744 pop- 35 req- 36
+6: des- 0.0565105 pop- 46 req- 47
+9: des- 0.0549992 pop- 57 req- 58
+4: des- 0.0529557 pop- 79 req- 80
+10: des- 0.0520262 pop- 57 req- 58
+17: des- 0.0481001 pop- 60 req- 61
+20: des- 0.0480957 pop- 15 req- 0
+11: des- 0.0475381 pop- 20 req- 21
+3: des- 0.0459195 pop- 79 req- 80
+7: des- 0.0443602 pop- 67 req- 68
+19: des- 0.0413046 pop- 48 req- 49
+21: des- 0.0408583 pop- 20 req- 21
+1: des- 0.0218717 pop- 40 req- 41
+
+moves:
+time: 0.001069
+sp 20 : 0.0480957 tp 2 : 0.169802
+time: 0.001092
+sp 22 : 0.0856347 tp 2 : 0.169802
+time: 0.001113
+orders: 0
+
+all done
+
+time: 0.001134
+
+
+making a move
+time: 0.000228
+counts
+time: 0.000276
+ships: 108, 45
+centre
+time: 0.000311
+get desires
+time: 0.000332
+sorting
+time: 0.00036
+logging
+time: 0.000388
+
+Mine:
+2: des- 0.18265 pop- 44 req- 0
+22: des- 0.0810342 pop- 45 req- 0
+20: des- 0.0494442 pop- 19 req- 0
+
+All:
+2: des- 0.18265 pop- 44 req- 0
+18: des- 0.150808 pop- 60 req- 61
+13: des- 0.119005 pop- 35 req- 36
+12: des- 0.116402 pop- 20 req- 21
+5: des- 0.106013 pop- 46 req- 47
+8: des- 0.104572 pop- 67 req- 68
+22: des- 0.0810342 pop- 45 req- 0
+0: des- 0.0776597 pop- 128 req- 129
+16: des- 0.0683758 pop- 55 req- 56
+15: des- 0.0659322 pop- 55 req- 56
+14: des- 0.0651378 pop- 35 req- 36
+6: des- 0.0567567 pop- 46 req- 47
+9: des- 0.0547786 pop- 57 req- 58
+4: des- 0.0527328 pop- 79 req- 80
+10: des- 0.0523738 pop- 57 req- 58
+20: des- 0.0494442 pop- 19 req- 0
+17: des- 0.0481161 pop- 60 req- 61
+11: des- 0.0477046 pop- 20 req- 21
+3: des- 0.0462119 pop- 79 req- 80
+7: des- 0.0443416 pop- 67 req- 68
+19: des- 0.0413327 pop- 48 req- 49
+21: des- 0.0409269 pop- 20 req- 21
+1: des- 0.0218075 pop- 45 req- 46
+
+adjusting for fleets
+time: 0.000704
+
+adjusted:
+2: des- 0.18265 pop- 44 req- 0
+18: des- 0.150808 pop- 60 req- 61
+13: des- 0.119005 pop- 35 req- 36
+12: des- 0.116402 pop- 20 req- 21
+5: des- 0.106013 pop- 46 req- 47
+8: des- 0.104572 pop- 67 req- 68
+22: des- 0.0810342 pop- 45 req- 0
+0: des- 0.0776597 pop- 128 req- 129
+16: des- 0.0683758 pop- 55 req- 56
+15: des- 0.0659322 pop- 55 req- 56
+14: des- 0.0651378 pop- 35 req- 36
+6: des- 0.0567567 pop- 46 req- 47
+9: des- 0.0547786 pop- 57 req- 58
+4: des- 0.0527328 pop- 79 req- 80
+10: des- 0.0523738 pop- 57 req- 58
+20: des- 0.0494442 pop- 19 req- 0
+17: des- 0.0481161 pop- 60 req- 61
+11: des- 0.0477046 pop- 20 req- 21
+3: des- 0.0462119 pop- 79 req- 80
+7: des- 0.0443416 pop- 67 req- 68
+19: des- 0.0413327 pop- 48 req- 49
+21: des- 0.0409269 pop- 20 req- 21
+1: des- 0.0218075 pop- 45 req- 46
+
+moves:
+time: 0.001
+sp 20 : 0.0494442 tp 2 : 0.18265
+time: 0.001023
+sp 22 : 0.0810342 tp 2 : 0.18265
+time: 0.001044
+orders: 0
+
+all done
+
+time: 0.001066
+
+
+making a move
+time: 0.000268
+counts
+time: 0.000324
+ships: 120, 50
+centre
+time: 0.00036
+get desires
+time: 0.000381
+sorting
+time: 0.000409
+logging
+time: 0.000438
+
+Mine:
+2: des- 0.193115 pop- 49 req- 0
+22: des- 0.077647 pop- 48 req- 0
+20: des- 0.0505563 pop- 23 req- 0
+
+All:
+2: des- 0.193115 pop- 49 req- 0
+18: des- 0.153095 pop- 60 req- 61
+13: des- 0.119151 pop- 35 req- 36
+12: des- 0.115327 pop- 20 req- 21
+8: des- 0.10582 pop- 67 req- 68
+5: des- 0.105503 pop- 46 req- 47
+0: des- 0.0779133 pop- 128 req- 129
+22: des- 0.077647 pop- 48 req- 0
+16: des- 0.0687877 pop- 55 req- 56
+15: des- 0.0657829 pop- 55 req- 56
+14: des- 0.0652708 pop- 35 req- 36
+6: des- 0.056959 pop- 46 req- 47
+9: des- 0.0546094 pop- 57 req- 58
+10: des- 0.0526609 pop- 57 req- 58
+4: des- 0.0525646 pop- 79 req- 80
+20: des- 0.0505563 pop- 23 req- 0
+17: des- 0.0481338 pop- 60 req- 61
+11: des- 0.0478396 pop- 20 req- 21
+3: des- 0.046456 pop- 79 req- 80
+7: des- 0.0443323 pop- 67 req- 68
+19: des- 0.0413587 pop- 48 req- 49
+21: des- 0.0409829 pop- 20 req- 21
+1: des- 0.021741 pop- 50 req- 51
+
+adjusting for fleets
+time: 0.000787
+
+adjusted:
+2: des- 0.193115 pop- 49 req- 0
+18: des- 0.153095 pop- 60 req- 61
+13: des- 0.119151 pop- 35 req- 36
+12: des- 0.115327 pop- 20 req- 21
+8: des- 0.10582 pop- 67 req- 68
+5: des- 0.105503 pop- 46 req- 47
+0: des- 0.0779133 pop- 128 req- 129
+22: des- 0.077647 pop- 48 req- 0
+16: des- 0.0687877 pop- 55 req- 56
+15: des- 0.0657829 pop- 55 req- 56
+14: des- 0.0652708 pop- 35 req- 36
+6: des- 0.056959 pop- 46 req- 47
+9: des- 0.0546094 pop- 57 req- 58
+10: des- 0.0526609 pop- 57 req- 58
+4: des- 0.0525646 pop- 79 req- 80
+20: des- 0.0505563 pop- 23 req- 0
+17: des- 0.0481338 pop- 60 req- 61
+11: des- 0.0478396 pop- 20 req- 21
+3: des- 0.046456 pop- 79 req- 80
+7: des- 0.0443323 pop- 67 req- 68
+19: des- 0.0413587 pop- 48 req- 49
+21: des- 0.0409829 pop- 20 req- 21
+1: des- 0.021741 pop- 50 req- 51
+
+moves:
+time: 0.001084
+sp 20 : 0.0505563 tp 2 : 0.193115
+time: 0.001106
+sp 22 : 0.077647 tp 2 : 0.193115
+time: 0.001127
+orders: 0
+
+all done
+
+time: 0.001148
+
+
+making a move
+time: 0.000248
+counts
+time: 0.0003
+ships: 132, 5
+centre
+time: 0.000337
+get desires
+time: 0.000358
+sorting
+time: 0.000386
+logging
+time: 0.000414
+
+Mine:
+2: des- 0.201073 pop- 54 req- 0
+22: des- 0.0749026 pop- 51 req- 0
+20: des- 0.0514343 pop- 27 req- 0
+
+All:
+2: des- 0.201073 pop- 54 req- 0
+18: des- 0.154684 pop- 60 req- 61
+13: des- 0.119114 pop- 35 req- 36
+12: des- 0.114381 pop- 20 req- 21
+8: des- 0.106611 pop- 67 req- 68
+5: des- 0.104917 pop- 46 req- 47
+0: des- 0.0777467 pop- 128 req- 129
+22: des- 0.0749026 pop- 51 req- 0
+16: des- 0.0689947 pop- 55 req- 56
+15: des- 0.0655342 pop- 55 req- 56
+14: des- 0.0652997 pop- 35 req- 36
+6: des- 0.0570338 pop- 46 req- 47
+9: des- 0.0543631 pop- 57 req- 58
+10: des- 0.0527927 pop- 57 req- 58
+4: des- 0.0522807 pop- 79 req- 80
+20: des- 0.0514343 pop- 27 req- 0
+17: des- 0.0480467 pop- 60 req- 61
+11: des- 0.0479177 pop- 20 req- 21
+3: des- 0.0465265 pop- 79 req- 80
+7: des- 0.0442198 pop- 67 req- 68
+19: des- 0.0413108 pop- 48 req- 49
+21: des- 0.0410007 pop- 20 req- 21
+1: des- 0.022599 pop- 5 req- 6
+
+adjusting for fleets
+time: 0.000737
+
+adjusted:
+2: des- 0.201073 pop- 54 req- 0
+18: des- 0.154684 pop- 60 req- 61
+13: des- 0.119114 pop- 35 req- 36
+12: des- 0.114381 pop- 20 req- 21
+8: des- 0.106611 pop- 67 req- 68
+5: des- 0.104917 pop- 46 req- 47
+0: des- 0.0777467 pop- 128 req- 129
+22: des- 0.0749026 pop- 51 req- 0
+16: des- 0.0689947 pop- 55 req- 56
+15: des- 0.0655342 pop- 55 req- 56
+14: des- 0.0652997 pop- 35 req- 36
+6: des- 0.0570338 pop- 46 req- 47
+9: des- 0.0543631 pop- 57 req- 58
+10: des- 0.0527927 pop- 57 req- 58
+4: des- 0.0522807 pop- 79 req- 80
+20: des- 0.0514343 pop- 27 req- 0
+17: des- 0.0480467 pop- 60 req- 61
+11: des- 0.0479177 pop- 20 req- 21
+3: des- 0.0465265 pop- 79 req- 80
+7: des- 0.0442198 pop- 67 req- 68
+19: des- 0.0413108 pop- 48 req- 49
+21: des- 0.0410007 pop- 20 req- 21
+1: des- 0.022599 pop- 5 req- 6
+
+moves:
+time: 0.001057
+sp 20 : 0.0514343 tp 2 : 0.201073
+time: 0.00108
+sp 22 : 0.0749026 tp 2 : 0.201073
+time: 0.001103
+reinforcements
+next
+orders: 1
+
+all done
+
+time: 0.001136
+
+
+making a move
+time: 0.000234
+counts
+time: 0.000284
+ships: 144, 10
+centre
+time: 0.00032
+get desires
+time: 0.000341
+sorting
+time: 0.000369
+logging
+time: 0.000422
+
+Mine:
+2: des- 0.207591 pop- 59 req- 0
+22: des- 0.0728315 pop- 54 req- 0
+20: des- 0.0522085 pop- 31 req- 0
+
+All:
+2: des- 0.207591 pop- 59 req- 0
+18: des- 0.156347 pop- 60 req- 61
+13: des- 0.119211 pop- 35 req- 36
+12: des- 0.113674 pop- 20 req- 21
+8: des- 0.107523 pop- 67 req- 68
+5: des- 0.104586 pop- 46 req- 47
+0: des- 0.0779594 pop- 128 req- 129
+22: des- 0.0728315 pop- 54 req- 0
+16: des- 0.0692946 pop- 55 req- 56
+15: des- 0.0654462 pop- 55 req- 56
+14: des- 0.0653972 pop- 35 req- 36
+6: des- 0.0571824 pop- 46 req- 47
+9: des- 0.0542616 pop- 57 req- 58
+10: des- 0.0530038 pop- 57 req- 58
+20: des- 0.0522085 pop- 31 req- 0
+4: des- 0.0521853 pop- 79 req- 80
+17: des- 0.0480699 pop- 60 req- 61
+11: des- 0.0480136 pop- 20 req- 21
+3: des- 0.0467108 pop- 79 req- 80
+7: des- 0.0442254 pop- 67 req- 68
+19: des- 0.0413361 pop- 48 req- 49
+21: des- 0.0410416 pop- 20 req- 21
+1: des- 0.0225154 pop- 10 req- 11
+
+adjusting for fleets
+time: 0.000742
+
+adjusted:
+2: des- 0.207591 pop- 59 req- 0
+18: des- 0.156347 pop- 60 req- 61
+13: des- 0.119211 pop- 35 req- 36
+12: des- 0.113674 pop- 20 req- 21
+8: des- 0.107523 pop- 67 req- 68
+5: des- 0.104586 pop- 46 req- 47
+0: des- 0.0779594 pop- 128 req- 129
+22: des- 0.0728315 pop- 54 req- 0
+16: des- 0.0692946 pop- 55 req- 56
+15: des- 0.0654462 pop- 55 req- 56
+14: des- 0.0653972 pop- 35 req- 36
+6: des- 0.0571824 pop- 46 req- 47
+9: des- 0.0542616 pop- 57 req- 58
+10: des- 0.0530038 pop- 57 req- 58
+20: des- 0.0522085 pop- 31 req- 0
+4: des- 0.0521853 pop- 79 req- 80
+17: des- 0.0480699 pop- 60 req- 61
+11: des- 0.0480136 pop- 20 req- 21
+3: des- 0.0467108 pop- 79 req- 80
+7: des- 0.0442254 pop- 67 req- 68
+19: des- 0.0413361 pop- 48 req- 49
+21: des- 0.0410416 pop- 20 req- 21
+1: des- 0.0225154 pop- 10 req- 11
+
+moves:
+time: 0.001219
+sp 20 : 0.0522085 tp 2 : 0.207591
+time: 0.001242
+sp 22 : 0.0728315 tp 2 : 0.207591
+time: 0.001264
+reinforcements
+next
+orders: 1
+
+all done
+
+time: 0.001297
+
+
+making a move
+time: 0.000271
+counts
+time: 0.000332
+ships: 156, 15
+centre
+time: 0.00037
+get desires
+time: 0.000392
+sorting
+time: 0.000421
+logging
+time: 0.000463
+
+Mine:
+2: des- 0.21262 pop- 64 req- 0
+22: des- 0.071141 pop- 57 req- 0
+20: des- 0.0528649 pop- 35 req- 0
+
+All:
+2: des- 0.21262 pop- 64 req- 0
+18: des- 0.157791 pop- 60 req- 61
+13: des- 0.119292 pop- 35 req- 36
+12: des- 0.113085 pop- 20 req- 21
+8: des- 0.108317 pop- 67 req- 68
+5: des- 0.104312 pop- 46 req- 47
+0: des- 0.0781547 pop- 128 req- 129
+22: des- 0.071141 pop- 57 req- 0
+16: des- 0.0695555 pop- 55 req- 56
+14: des- 0.0654825 pop- 35 req- 36
+15: des- 0.0653769 pop- 55 req- 56
+6: des- 0.0573123 pop- 46 req- 47
+9: des- 0.0541808 pop- 57 req- 58
+10: des- 0.0531882 pop- 57 req- 58
+20: des- 0.0528649 pop- 35 req- 0
+4: des- 0.0521115 pop- 79 req- 80
+11: des- 0.0480962 pop- 20 req- 21
+17: des- 0.0480937 pop- 60 req- 61
+3: des- 0.0468735 pop- 79 req- 80
+7: des- 0.0442346 pop- 67 req- 68
+19: des- 0.0413604 pop- 48 req- 49
+21: des- 0.0410774 pop- 20 req- 21
+1: des- 0.0224325 pop- 15 req- 16
+
+adjusting for fleets
+time: 0.000787
+
+adjusted:
+2: des- 0.21262 pop- 64 req- 0
+18: des- 0.157791 pop- 60 req- 61
+13: des- 0.119292 pop- 35 req- 36
+12: des- 0.113085 pop- 20 req- 21
+8: des- 0.108317 pop- 67 req- 68
+5: des- 0.104312 pop- 46 req- 47
+0: des- 0.0781547 pop- 128 req- 129
+22: des- 0.071141 pop- 57 req- 0
+16: des- 0.0695555 pop- 55 req- 56
+14: des- 0.0654825 pop- 35 req- 36
+15: des- 0.0653769 pop- 55 req- 56
+6: des- 0.0573123 pop- 46 req- 47
+9: des- 0.0541808 pop- 57 req- 58
+10: des- 0.0531882 pop- 57 req- 58
+20: des- 0.0528649 pop- 35 req- 0
+4: des- 0.0521115 pop- 79 req- 80
+11: des- 0.0480962 pop- 20 req- 21
+17: des- 0.0480937 pop- 60 req- 61
+3: des- 0.0468735 pop- 79 req- 80
+7: des- 0.0442346 pop- 67 req- 68
+19: des- 0.0413604 pop- 48 req- 49
+21: des- 0.0410774 pop- 20 req- 21
+1: des- 0.0224325 pop- 15 req- 16
+
+moves:
+time: 0.00109
+sp 20 : 0.0528649 tp 2 : 0.21262
+time: 0.001113
+sp 22 : 0.071141 tp 2 : 0.21262
+time: 0.001135
+reinforcements
+next
+orders: 1
+
+all done
+
+time: 0.001169
+
+
+making a move
+time: 0.000241
+counts
+time: 0.000298
+ships: 168, 20
+centre
+time: 0.00034
+get desires
+time: 0.000383
+sorting
+time: 0.000412
+logging
+time: 0.000439
+
+Mine:
+2: des- 0.216436 pop- 69 req- 0
+22: des- 0.0697317 pop- 60 req- 0
+20: des- 0.0534251 pop- 39 req- 0
+
+All:
+2: des- 0.216436 pop- 69 req- 0
+18: des- 0.15906 pop- 60 req- 61
+13: des- 0.119363 pop- 35 req- 36
+12: des- 0.112587 pop- 20 req- 21
+8: des- 0.109017 pop- 67 req- 68
+5: des- 0.104083 pop- 46 req- 47
+0: des- 0.0783361 pop- 128 req- 129
+16: des- 0.0697854 pop- 55 req- 56
+22: des- 0.0697317 pop- 60 req- 0
+14: des- 0.0655581 pop- 35 req- 36
+15: des- 0.0653222 pop- 55 req- 56
+6: des- 0.0574273 pop- 46 req- 47
+9: des- 0.0541159 pop- 57 req- 58
+20: des- 0.0534251 pop- 39 req- 0
+10: des- 0.0533514 pop- 57 req- 58
+4: des- 0.0520543 pop- 79 req- 80
+11: des- 0.0481683 pop- 20 req- 21
+17: des- 0.0481179 pop- 60 req- 61
+3: des- 0.047019 pop- 79 req- 80
+7: des- 0.0442465 pop- 67 req- 68
+19: des- 0.0413838 pop- 48 req- 49
+21: des- 0.041109 pop- 20 req- 21
+1: des- 0.0223508 pop- 20 req- 21
+
+adjusting for fleets
+time: 0.000753
+
+adjusted:
+2: des- 0.216436 pop- 69 req- 0
+18: des- 0.15906 pop- 60 req- 61
+13: des- 0.119363 pop- 35 req- 36
+12: des- 0.112587 pop- 20 req- 21
+8: des- 0.109017 pop- 67 req- 68
+5: des- 0.104083 pop- 46 req- 47
+0: des- 0.0783361 pop- 128 req- 129
+16: des- 0.0697854 pop- 55 req- 56
+22: des- 0.0697317 pop- 60 req- 0
+14: des- 0.0655581 pop- 35 req- 36
+15: des- 0.0653222 pop- 55 req- 56
+6: des- 0.0574273 pop- 46 req- 47
+9: des- 0.0541159 pop- 57 req- 58
+20: des- 0.0534251 pop- 39 req- 0
+10: des- 0.0533514 pop- 57 req- 58
+4: des- 0.0520543 pop- 79 req- 80
+11: des- 0.0481683 pop- 20 req- 21
+17: des- 0.0481179 pop- 60 req- 61
+3: des- 0.047019 pop- 79 req- 80
+7: des- 0.0442465 pop- 67 req- 68
+19: des- 0.0413838 pop- 48 req- 49
+21: des- 0.041109 pop- 20 req- 21
+1: des- 0.0223508 pop- 20 req- 21
+
+moves:
+time: 0.001792
+sp 20 : 0.0534251 tp 2 : 0.216436
+time: 0.001814
+sp 22 : 0.0697317 tp 2 : 0.216436
+time: 0.001836
+reinforcements
+next
+orders: 1
+
+all done
+
+time: 0.001868
+
+
+making a move
+time: 0.000315
+counts
+time: 0.000379
+ships: 180, 25
+centre
+time: 0.000416
+get desires
+time: 0.000444
+sorting
+time: 0.000473
+logging
+time: 0.000501
+
+Mine:
+2: des- 0.219278 pop- 74 req- 0
+22: des- 0.0685361 pop- 63 req- 0
+20: des- 0.0539058 pop- 43 req- 0
+
+All:
+2: des- 0.219278 pop- 74 req- 0
+18: des- 0.160185 pop- 60 req- 61
+13: des- 0.119427 pop- 35 req- 36
+12: des- 0.112161 pop- 20 req- 21
+8: des- 0.109639 pop- 67 req- 68
+5: des- 0.10389 pop- 46 req- 47
+0: des- 0.078506 pop- 128 req- 129
+16: des- 0.0699902 pop- 55 req- 56
+22: des- 0.0685361 pop- 63 req- 0
+14: des- 0.0656261 pop- 35 req- 36
+15: des- 0.065279 pop- 55 req- 56
+6: des- 0.0575302 pop- 46 req- 47
+9: des- 0.0540637 pop- 57 req- 58
+20: des- 0.0539058 pop- 43 req- 0
+10: des- 0.0534972 pop- 57 req- 58
+4: des- 0.0520102 pop- 79 req- 80
+11: des- 0.048232 pop- 20 req- 21
+17: des- 0.0481424 pop- 60 req- 61
+3: des- 0.0471504 pop- 79 req- 80
+7: des- 0.0442605 pop- 67 req- 68
+19: des- 0.0414065 pop- 48 req- 49
+21: des- 0.0411373 pop- 20 req- 21
+1: des- 0.0222703 pop- 25 req- 26
+
+adjusting for fleets
+time: 0.000837
+
+adjusted:
+2: des- 0.219278 pop- 74 req- 0
+18: des- 0.160185 pop- 60 req- 61
+13: des- 0.119427 pop- 35 req- 36
+12: des- 0.112161 pop- 20 req- 21
+8: des- 0.109639 pop- 67 req- 68
+5: des- 0.10389 pop- 46 req- 47
+0: des- 0.078506 pop- 128 req- 129
+16: des- 0.0699902 pop- 55 req- 56
+22: des- 0.0685361 pop- 63 req- 0
+14: des- 0.0656261 pop- 35 req- 36
+15: des- 0.065279 pop- 55 req- 56
+6: des- 0.0575302 pop- 46 req- 47
+9: des- 0.0540637 pop- 57 req- 58
+20: des- 0.0539058 pop- 43 req- 0
+10: des- 0.0534972 pop- 57 req- 58
+4: des- 0.0520102 pop- 79 req- 80
+11: des- 0.048232 pop- 20 req- 21
+17: des- 0.0481424 pop- 60 req- 61
+3: des- 0.0471504 pop- 79 req- 80
+7: des- 0.0442605 pop- 67 req- 68
+19: des- 0.0414065 pop- 48 req- 49
+21: des- 0.0411373 pop- 20 req- 21
+1: des- 0.0222703 pop- 25 req- 26
+
+moves:
+time: 0.001137
+sp 20 : 0.0539058 tp 2 : 0.219278
+time: 0.00116
+sp 22 : 0.0685361 tp 2 : 0.219278
+time: 0.001181
+reinforcements
+next
+orders: 1
+
+all done
+
+time: 0.001214
+
+
+making a move
+time: 0.000297
+counts
+time: 0.00036
+ships: 192, 30
+centre
+time: 0.000429
+get desires
+time: 0.000451
+sorting
+time: 0.000479
+logging
+time: 0.000507
+
+Mine:
+2: des- 0.221342 pop- 79 req- 0
+22: des- 0.067507 pop- 66 req- 0
+20: des- 0.0543203 pop- 47 req- 0
+
+All:
+2: des- 0.221342 pop- 79 req- 0
+18: des- 0.16119 pop- 60 req- 61
+13: des- 0.119484 pop- 35 req- 36
+12: des- 0.111792 pop- 20 req- 21
+8: des- 0.110196 pop- 67 req- 68
+5: des- 0.103726 pop- 46 req- 47
+0: des- 0.0786662 pop- 128 req- 129
+16: des- 0.0701743 pop- 55 req- 56
+22: des- 0.067507 pop- 66 req- 0
+14: des- 0.0656878 pop- 35 req- 36
+15: des- 0.065245 pop- 55 req- 56
+6: des- 0.0576233 pop- 46 req- 47
+20: des- 0.0543203 pop- 47 req- 0
+9: des- 0.0540215 pop- 57 req- 58
+10: des- 0.0536287 pop- 57 req- 58
+4: des- 0.0519764 pop- 79 req- 80
+11: des- 0.0482887 pop- 20 req- 21
+17: des- 0.0481669 pop- 60 req- 61
+3: des- 0.04727 pop- 79 req- 80
+7: des- 0.044276 pop- 67 req- 68
+19: des- 0.0414285 pop- 48 req- 49
+21: des- 0.0411629 pop- 20 req- 21
+1: des- 0.0221914 pop- 30 req- 31
+
+adjusting for fleets
+time: 0.000823
+
+adjusted:
+2: des- 0.221342 pop- 79 req- 0
+18: des- 0.16119 pop- 60 req- 61
+13: des- 0.119484 pop- 35 req- 36
+12: des- 0.111792 pop- 20 req- 21
+8: des- 0.110196 pop- 67 req- 68
+5: des- 0.103726 pop- 46 req- 47
+0: des- 0.0786662 pop- 128 req- 129
+16: des- 0.0701743 pop- 55 req- 56
+22: des- 0.067507 pop- 66 req- 0
+14: des- 0.0656878 pop- 35 req- 36
+15: des- 0.065245 pop- 55 req- 56
+6: des- 0.0576233 pop- 46 req- 47
+20: des- 0.0543203 pop- 47 req- 0
+9: des- 0.0540215 pop- 57 req- 58
+10: des- 0.0536287 pop- 57 req- 58
+4: des- 0.0519764 pop- 79 req- 80
+11: des- 0.0482887 pop- 20 req- 21
+17: des- 0.0481669 pop- 60 req- 61
+3: des- 0.04727 pop- 79 req- 80
+7: des- 0.044276 pop- 67 req- 68
+19: des- 0.0414285 pop- 48 req- 49
+21: des- 0.0411629 pop- 20 req- 21
+1: des- 0.0221914 pop- 30 req- 31
+
+moves:
+time: 0.001125
+sp 20 : 0.0543203 tp 2 : 0.221342
+time: 0.001148
+sp 22 : 0.067507 tp 2 : 0.221342
+time: 0.00117
+reinforcements
+next
+orders: 1
+
+all done
+
+time: 0.001203
+
+
+making a move
+time: 0.000237
+counts
+time: 0.00029
+ships: 204, 35
+centre
+time: 0.000325
+get desires
+time: 0.000347
+sorting
+time: 0.000374
+logging
+time: 0.000401
+
+Mine:
+2: des- 0.222791 pop- 84 req- 0
+22: des- 0.0666101 pop- 69 req- 0
+20: des- 0.0546791 pop- 51 req- 0
+
+All:
+2: des- 0.222791 pop- 84 req- 0
+18: des- 0.162095 pop- 60 req- 61
+13: des- 0.119536 pop- 35 req- 36
+12: des- 0.111471 pop- 20 req- 21
+8: des- 0.1107 pop- 67 req- 68
+5: des- 0.103586 pop- 46 req- 47
+0: des- 0.0788182 pop- 128 req- 129
+16: des- 0.0703412 pop- 55 req- 56
+22: des- 0.0666101 pop- 69 req- 0
+14: des- 0.0657443 pop- 35 req- 36
+15: des- 0.0652185 pop- 55 req- 56
+6: des- 0.0577082 pop- 46 req- 47
+20: des- 0.0546791 pop- 51 req- 0
+9: des- 0.0539874 pop- 57 req- 58
+10: des- 0.0537483 pop- 57 req- 58
+4: des- 0.051951 pop- 79 req- 80
+11: des- 0.0483398 pop- 20 req- 21
+17: des- 0.0481914 pop- 60 req- 61
+3: des- 0.0473799 pop- 79 req- 80
+7: des- 0.0442927 pop- 67 req- 68
+19: des- 0.0414499 pop- 48 req- 49
+21: des- 0.0411863 pop- 20 req- 21
+1: des- 0.022114 pop- 35 req- 36
+
+adjusting for fleets
+time: 0.00072
+
+adjusted:
+2: des- 0.222791 pop- 84 req- 0
+18: des- 0.162095 pop- 60 req- 61
+13: des- 0.119536 pop- 35 req- 36
+12: des- 0.111471 pop- 20 req- 21
+8: des- 0.1107 pop- 67 req- 68
+5: des- 0.103586 pop- 46 req- 47
+0: des- 0.0788182 pop- 128 req- 129
+16: des- 0.0703412 pop- 55 req- 56
+22: des- 0.0666101 pop- 69 req- 0
+14: des- 0.0657443 pop- 35 req- 36
+15: des- 0.0652185 pop- 55 req- 56
+6: des- 0.0577082 pop- 46 req- 47
+20: des- 0.0546791 pop- 51 req- 0
+9: des- 0.0539874 pop- 57 req- 58
+10: des- 0.0537483 pop- 57 req- 58
+4: des- 0.051951 pop- 79 req- 80
+11: des- 0.0483398 pop- 20 req- 21
+17: des- 0.0481914 pop- 60 req- 61
+3: des- 0.0473799 pop- 79 req- 80
+7: des- 0.0442927 pop- 67 req- 68
+19: des- 0.0414499 pop- 48 req- 49
+21: des- 0.0411863 pop- 20 req- 21
+1: des- 0.022114 pop- 35 req- 36
+
+moves:
+time: 0.001021
+sp 20 : 0.0546791 tp 2 : 0.222791
+time: 0.001044
+reinforcements
+next
+sp 22 : 0.0666101 tp 18 : 0.162095
+time: 0.001079
+sending some ships
+order: 22=>18(19)
+dec ships tp send
+++iter
+done
+next
+orders: 2
+
+all done
+
+time: 0.001167
+
+
+making a move
+time: 0.000263
+counts
+time: 0.000324
+ships: 197, 40
+centre
+time: 0.000361
+get desires
+time: 0.000383
+sorting
+time: 0.000412
+logging
+time: 0.000441
+
+Mine:
+2: des- 0.240871 pop- 89 req- 0
+22: des- 0.0609277 pop- 53 req- 0
+20: des- 0.0593297 pop- 55 req- 0
+
+All:
+2: des- 0.240871 pop- 89 req- 0
+18: des- 0.170388 pop- 60 req- 61
+13: des- 0.120268 pop- 35 req- 36
+8: des- 0.11479 pop- 67 req- 68
+12: des- 0.108773 pop- 20 req- 21
+5: des- 0.102299 pop- 46 req- 47
+0: des- 0.0794302 pop- 128 req- 129
+16: des- 0.0716605 pop- 55 req- 56
+14: des- 0.0662396 pop- 35 req- 36
+15: des- 0.0648106 pop- 55 req- 56
+22: des- 0.0609277 pop- 53 req- 0
+20: des- 0.0593297 pop- 55 req- 0
+6: des- 0.0583643 pop- 46 req- 47
+10: des- 0.0546124 pop- 57 req- 58
+9: des- 0.053484 pop- 57 req- 58
+4: des- 0.051397 pop- 79 req- 80
+11: des- 0.0488118 pop- 20 req- 21
+17: des- 0.0482371 pop- 60 req- 61
+3: des- 0.0480595 pop- 79 req- 80
+7: des- 0.0442381 pop- 67 req- 68
+19: des- 0.0415307 pop- 48 req- 49
+21: des- 0.0414004 pop- 20 req- 21
+1: des- 0.0221148 pop- 40 req- 41
+
+adjusting for fleets
+time: 0.000772
+
+adjusted:
+2: des- 0.240871 pop- 89 req- 0
+18: des- 0.170388 pop- 60 req- 42
+13: des- 0.120268 pop- 35 req- 36
+8: des- 0.11479 pop- 67 req- 68
+12: des- 0.108773 pop- 20 req- 21
+5: des- 0.102299 pop- 46 req- 47
+0: des- 0.0794302 pop- 128 req- 129
+16: des- 0.0716605 pop- 55 req- 56
+14: des- 0.0662396 pop- 35 req- 36
+15: des- 0.0648106 pop- 55 req- 56
+22: des- 0.0609277 pop- 53 req- 0
+20: des- 0.0593297 pop- 55 req- 0
+6: des- 0.0583643 pop- 46 req- 47
+10: des- 0.0546124 pop- 57 req- 58
+9: des- 0.053484 pop- 57 req- 58
+4: des- 0.051397 pop- 79 req- 80
+11: des- 0.0488118 pop- 20 req- 21
+17: des- 0.0482371 pop- 60 req- 61
+3: des- 0.0480595 pop- 79 req- 80
+7: des- 0.0442381 pop- 67 req- 68
+19: des- 0.0415307 pop- 48 req- 49
+21: des- 0.0414004 pop- 20 req- 21
+1: des- 0.0221148 pop- 40 req- 41
+
+moves:
+time: 0.001094
+sp 20 : 0.0593297 tp 2 : 0.240871
+time: 0.001117
+reinforcements
+next
+sp 22 : 0.0609277 tp 18 : 0.170388
+time: 0.001151
+sending some ships
+order: 22=>18(3)
+dec ships tp send
+++iter
+done
+next
+orders: 2
+
+all done
+
+time: 0.001208
+
+
+making a move
+time: 0.000259
+counts
+time: 0.000323
+ships: 209, 45
+centre
+time: 0.000371
+get desires
+time: 0.000392
+sorting
+time: 0.000421
+logging
+time: 0.000448
+
+Mine:
+2: des- 0.238574 pop- 94 req- 0
+22: des- 0.0605717 pop- 56 req- 0
+20: des- 0.0594255 pop- 59 req- 0
+
+All:
+2: des- 0.238574 pop- 94 req- 0
+18: des- 0.170805 pop- 60 req- 61
+13: des- 0.120263 pop- 35 req- 36
+8: des- 0.115047 pop- 67 req- 68
+12: des- 0.108642 pop- 20 req- 21
+5: des- 0.102243 pop- 46 req- 47
+0: des- 0.0795376 pop- 128 req- 129
+16: des- 0.071743 pop- 55 req- 56
+14: des- 0.0662627 pop- 35 req- 36
+15: des- 0.0648104 pop- 55 req- 56
+22: des- 0.0605717 pop- 56 req- 0
+20: des- 0.0594255 pop- 59 req- 0
+6: des- 0.0584061 pop- 46 req- 47
+10: des- 0.0546766 pop- 57 req- 58
+9: des- 0.0534833 pop- 57 req- 58
+4: des- 0.0514079 pop- 79 req- 80
+11: des- 0.0488321 pop- 20 req- 21
+17: des- 0.0482578 pop- 60 req- 61
+3: des- 0.0481253 pop- 79 req- 80
+7: des- 0.0442576 pop- 67 req- 68
+19: des- 0.0415463 pop- 48 req- 49
+21: des- 0.0414097 pop- 20 req- 21
+1: des- 0.0220343 pop- 45 req- 46
+
+adjusting for fleets
+time: 0.000767
+
+adjusted:
+2: des- 0.238574 pop- 94 req- 0
+18: des- 0.170805 pop- 60 req- 42
+13: des- 0.120263 pop- 35 req- 36
+8: des- 0.115047 pop- 67 req- 68
+12: des- 0.108642 pop- 20 req- 21
+5: des- 0.102243 pop- 46 req- 47
+0: des- 0.0795376 pop- 128 req- 129
+16: des- 0.071743 pop- 55 req- 56
+14: des- 0.0662627 pop- 35 req- 36
+15: des- 0.0648104 pop- 55 req- 56
+22: des- 0.0605717 pop- 56 req- 0
+20: des- 0.0594255 pop- 59 req- 0
+6: des- 0.0584061 pop- 46 req- 47
+10: des- 0.0546766 pop- 57 req- 58
+9: des- 0.0534833 pop- 57 req- 58
+4: des- 0.0514079 pop- 79 req- 80
+11: des- 0.0488321 pop- 20 req- 21
+17: des- 0.0482578 pop- 60 req- 61
+3: des- 0.0481253 pop- 79 req- 80
+7: des- 0.0442576 pop- 67 req- 68
+19: des- 0.0415463 pop- 48 req- 49
+21: des- 0.0414097 pop- 20 req- 21
+1: des- 0.0220343 pop- 45 req- 46
+
+moves:
+time: 0.001093
+sp 20 : 0.0594255 tp 2 : 0.238574
+time: 0.001116
+reinforcements
+next
+sp 22 : 0.0605717 tp 18 : 0.170805
+time: 0.00115
+sending some ships
+order: 22=>18(6)
+dec ships tp send
+++iter
+done
+next
+orders: 2
+
+all done
+
+time: 0.001212
+
+
+making a move
+time: 0.000249
+counts
+time: 0.00031
+ships: 215, 50
+centre
+time: 0.000345
+get desires
+time: 0.000366
+sorting
+time: 0.000394
+logging
+time: 0.000422
+
+Mine:
+2: des- 0.235155 pop- 99 req- 0
+20: des- 0.0610394 pop- 63 req- 0
+22: des- 0.0588823 pop- 53 req- 0
+
+All:
+2: des- 0.235155 pop- 99 req- 0
+18: des- 0.17373 pop- 60 req- 61
+13: des- 0.120446 pop- 35 req- 36
+8: des- 0.116508 pop- 67 req- 68
+12: des- 0.107768 pop- 20 req- 21
+5: des- 0.101812 pop- 46 req- 47
+0: des- 0.0797836 pop- 128 req- 129
+16: des- 0.0722003 pop- 55 req- 56
+14: des- 0.0664227 pop- 35 req- 36
+15: des- 0.064685 pop- 55 req- 56
+20: des- 0.0610394 pop- 63 req- 0
+22: des- 0.0588823 pop- 53 req- 0
+6: des- 0.0586307 pop- 46 req- 47
+10: des- 0.0549832 pop- 57 req- 58
+9: des- 0.0533327 pop- 57 req- 58
+4: des- 0.0512508 pop- 79 req- 80
+11: des- 0.0489873 pop- 20 req- 21
+3: des- 0.0483763 pop- 79 req- 80
+17: des- 0.0482832 pop- 60 req- 61
+7: des- 0.0442528 pop- 67 req- 68
+19: des- 0.0415796 pop- 48 req- 49
+21: des- 0.0414792 pop- 20 req- 21
+1: des- 0.0219788 pop- 50 req- 51
+
+adjusting for fleets
+time: 0.000741
+
+adjusted:
+2: des- 0.235155 pop- 99 req- 0
+18: des- 0.17373 pop- 60 req- 36
+13: des- 0.120446 pop- 35 req- 36
+8: des- 0.116508 pop- 67 req- 68
+12: des- 0.107768 pop- 20 req- 21
+5: des- 0.101812 pop- 46 req- 47
+0: des- 0.0797836 pop- 128 req- 129
+16: des- 0.0722003 pop- 55 req- 56
+14: des- 0.0664227 pop- 35 req- 36
+15: des- 0.064685 pop- 55 req- 56
+20: des- 0.0610394 pop- 63 req- 0
+22: des- 0.0588823 pop- 53 req- 0
+6: des- 0.0586307 pop- 46 req- 47
+10: des- 0.0549832 pop- 57 req- 58
+9: des- 0.0533327 pop- 57 req- 58
+4: des- 0.0512508 pop- 79 req- 80
+11: des- 0.0489873 pop- 20 req- 21
+3: des- 0.0483763 pop- 79 req- 80
+17: des- 0.0482832 pop- 60 req- 61
+7: des- 0.0442528 pop- 67 req- 68
+19: des- 0.0415796 pop- 48 req- 49
+21: des- 0.0414792 pop- 20 req- 21
+1: des- 0.0219788 pop- 50 req- 51
+
+moves:
+time: 0.001044
+sp 22 : 0.0588823 tp 2 : 0.235155
+time: 0.001066
+reinforcements
+next
+sp 20 : 0.0610394 tp 18 : 0.17373
+time: 0.0011
+sending some ships
+order: 20=>18(13)
+dec ships tp send
+++iter
+done
+next
+orders: 2
+
+all done
+
+time: 0.001161
+
+
+making a move
+time: 0.000266
+counts
+time: 0.00032
+ships: 214, 5
+centre
+time: 0.000355
+get desires
+time: 0.000375
+sorting
+time: 0.000403
+logging
+time: 0.000431
+
+Mine:
+2: des- 0.255694 pop- 104 req- 0
+22: des- 0.0618167 pop- 56 req- 0
+20: des- 0.0580002 pop- 54 req- 0
+
+All:
+2: des- 0.255694 pop- 104 req- 0
+18: des- 0.169294 pop- 60 req- 61
+13: des- 0.120964 pop- 35 req- 36
+8: des- 0.113953 pop- 67 req- 68
+12: des- 0.109737 pop- 20 req- 21
+5: des- 0.10308 pop- 46 req- 47
+0: des- 0.079586 pop- 128 req- 129
+16: des- 0.0715462 pop- 55 req- 56
+14: des- 0.06637 pop- 35 req- 36
+15: des- 0.0650921 pop- 55 req- 56
+22: des- 0.0618167 pop- 56 req- 0
+6: des- 0.0583746 pop- 46 req- 47
+20: des- 0.0580002 pop- 54 req- 0
+10: des- 0.0544835 pop- 57 req- 58
+9: des- 0.0536891 pop- 57 req- 58
+4: des- 0.0515782 pop- 79 req- 80
+11: des- 0.0488218 pop- 20 req- 21
+17: des- 0.0483383 pop- 60 req- 61
+3: des- 0.047942 pop- 79 req- 80
+7: des- 0.0443343 pop- 67 req- 68
+19: des- 0.0415969 pop- 48 req- 49
+21: des- 0.0414452 pop- 20 req- 21
+1: des- 0.0227837 pop- 5 req- 6
+
+adjusting for fleets
+time: 0.000767
+
+adjusted:
+2: des- 0.255694 pop- 104 req- 0
+18: des- 0.169294 pop- 60 req- 23
+13: des- 0.120964 pop- 35 req- 36
+8: des- 0.113953 pop- 67 req- 68
+12: des- 0.109737 pop- 20 req- 21
+5: des- 0.10308 pop- 46 req- 47
+0: des- 0.079586 pop- 128 req- 129
+16: des- 0.0715462 pop- 55 req- 56
+14: des- 0.06637 pop- 35 req- 36
+15: des- 0.0650921 pop- 55 req- 56
+22: des- 0.0618167 pop- 56 req- 0
+6: des- 0.0583746 pop- 46 req- 47
+20: des- 0.0580002 pop- 54 req- 0
+10: des- 0.0544835 pop- 57 req- 58
+9: des- 0.0536891 pop- 57 req- 58
+4: des- 0.0515782 pop- 79 req- 80
+11: des- 0.0488218 pop- 20 req- 21
+17: des- 0.0483383 pop- 60 req- 61
+3: des- 0.047942 pop- 79 req- 80
+7: des- 0.0443343 pop- 67 req- 68
+19: des- 0.0415969 pop- 48 req- 49
+21: des- 0.0414452 pop- 20 req- 21
+1: des- 0.0227837 pop- 5 req- 6
+
+moves:
+time: 0.0013
+sp 20 : 0.0580002 tp 2 : 0.255694
+time: 0.00159
+reinforcements
+next
+sp 22 : 0.0618167 tp 18 : 0.169294
+time: 0.001629
+sending some ships
+order: 22=>18(6)
+dec ships tp send
+++iter
+done
+next
+orders: 2
+
+all done
+
+time: 0.001693
+
+
+making a move
+time: 0.000296
+counts
+time: 0.000352
+ships: 120, 10
+centre
+time: 0.000387
+get desires
+time: 0.000408
+sorting
+time: 0.000436
+logging
+time: 0.000464
+
+Mine:
+2: des- 0.150699 pop- 9 req- 0
+20: des- 0.0632093 pop- 58 req- 0
+22: des- 0.0588714 pop- 53 req- 0
+
+All:
+18: des- 0.164793 pop- 60 req- 61
+2: des- 0.150699 pop- 9 req- 0
+8: des- 0.114427 pop- 67 req- 68
+13: des- 0.112562 pop- 35 req- 36
+12: des- 0.103727 pop- 20 req- 21
+5: des- 0.0965609 pop- 46 req- 47
+0: des- 0.0752415 pop- 128 req- 129
+16: des- 0.0699366 pop- 55 req- 56
+14: des- 0.0639349 pop- 35 req- 36
+20: des- 0.0632093 pop- 58 req- 0
+15: des- 0.0622756 pop- 55 req- 56
+22: des- 0.0588714 pop- 53 req- 0
+6: des- 0.0567934 pop- 46 req- 47
+10: des- 0.0538758 pop- 57 req- 58
+9: des- 0.0518287 pop- 57 req- 58
+4: des- 0.0498238 pop- 79 req- 80
+11: des- 0.0478316 pop- 20 req- 21
+3: des- 0.0473682 pop- 79 req- 80
+17: des- 0.0467393 pop- 60 req- 61
+7: des- 0.0429143 pop- 67 req- 68
+21: des- 0.0405278 pop- 20 req- 21
+19: des- 0.0404551 pop- 48 req- 49
+1: des- 0.0221275 pop- 10 req- 11
+
+adjusting for fleets
+time: 0.000781
+
+adjusted:
+18: des- 0.164793 pop- 60 req- 17
+2: des- 0.150699 pop- 9 req- 0
+8: des- 0.114427 pop- 67 req- 68
+13: des- 0.112562 pop- 35 req- 36
+12: des- 0.103727 pop- 20 req- 21
+5: des- 0.0965609 pop- 46 req- 47
+0: des- 0.0752415 pop- 128 req- 129
+16: des- 0.0699366 pop- 55 req- 56
+14: des- 0.0639349 pop- 35 req- 36
+20: des- 0.0632093 pop- 58 req- 0
+15: des- 0.0622756 pop- 55 req- 56
+22: des- 0.0588714 pop- 53 req- 0
+6: des- 0.0567934 pop- 46 req- 47
+10: des- 0.0538758 pop- 57 req- 58
+9: des- 0.0518287 pop- 57 req- 58
+4: des- 0.0498238 pop- 79 req- 80
+11: des- 0.0478316 pop- 20 req- 21
+3: des- 0.0473682 pop- 79 req- 80
+17: des- 0.0467393 pop- 60 req- 61
+7: des- 0.0429143 pop- 67 req- 68
+21: des- 0.0405278 pop- 20 req- 21
+19: des- 0.0404551 pop- 48 req- 49
+1: des- 0.0221275 pop- 10 req- 11
+
+moves:
+time: 0.001082
+sp 22 : 0.0588714 tp 18 : 0.164793
+time: 0.001104
+sending some ships
+order: 22=>18(3)
+dec ships tp send
+++iter
+done
+next
+sp 20 : 0.0632093 tp 18 : 0.164793
+time: 0.001161
+sending some ships
+order: 20=>18(8)
+dec ships tp send
+++iter
+done
+next
+sp 2 : 0.150699 tp 18 : 0.164793
+time: 0.001224
+orders: 2
+
+all done
+
+time: 0.001245
+
+
+making a move
+time: 0.000256
+counts
+time: 0.000305
+ships: 124, 15
+centre
+time: 0.000339
+get desires
+time: 0.00036
+sorting
+time: 0.000387
+logging
+time: 0.000415
+
+Mine:
+2: des- 0.159641 pop- 14 req- 0
+22: des- 0.0622724 pop- 56 req- 0
+20: des- 0.0597157 pop- 54 req- 0
+
+All:
+18: des- 0.161502 pop- 60 req- 61
+2: des- 0.159641 pop- 14 req- 0
+13: des- 0.113388 pop- 35 req- 36
+8: des- 0.112252 pop- 67 req- 68
+12: des- 0.105778 pop- 20 req- 21
+5: des- 0.0980159 pop- 46 req- 47
+0: des- 0.075538 pop- 128 req- 129
+16: des- 0.0695151 pop- 55 req- 56
+14: des- 0.0640368 pop- 35 req- 36
+15: des- 0.0628477 pop- 55 req- 56
+22: des- 0.0622724 pop- 56 req- 0
+20: des- 0.0597157 pop- 54 req- 0
+6: des- 0.0566937 pop- 46 req- 47
+10: des- 0.0535232 pop- 57 req- 58
+9: des- 0.0523202 pop- 57 req- 58
+4: des- 0.0503229 pop- 79 req- 80
+11: des- 0.0477387 pop- 20 req- 21
+3: des- 0.0471002 pop- 79 req- 80
+17: des- 0.0469334 pop- 60 req- 61
+7: des- 0.043131 pop- 67 req- 68
+19: des- 0.040571 pop- 48 req- 49
+21: des- 0.0405507 pop- 20 req- 21
+1: des- 0.022066 pop- 15 req- 16
+
+adjusting for fleets
+time: 0.000738
+
+adjusted:
+18: des- 0.161502 pop- 60 req- 9
+2: des- 0.159641 pop- 14 req- 0
+13: des- 0.113388 pop- 35 req- 36
+8: des- 0.112252 pop- 67 req- 68
+12: des- 0.105778 pop- 20 req- 21
+5: des- 0.0980159 pop- 46 req- 47
+0: des- 0.075538 pop- 128 req- 129
+16: des- 0.0695151 pop- 55 req- 56
+14: des- 0.0640368 pop- 35 req- 36
+15: des- 0.0628477 pop- 55 req- 56
+22: des- 0.0622724 pop- 56 req- 0
+20: des- 0.0597157 pop- 54 req- 0
+6: des- 0.0566937 pop- 46 req- 47
+10: des- 0.0535232 pop- 57 req- 58
+9: des- 0.0523202 pop- 57 req- 58
+4: des- 0.0503229 pop- 79 req- 80
+11: des- 0.0477387 pop- 20 req- 21
+3: des- 0.0471002 pop- 79 req- 80
+17: des- 0.0469334 pop- 60 req- 61
+7: des- 0.043131 pop- 67 req- 68
+19: des- 0.040571 pop- 48 req- 49
+21: des- 0.0405507 pop- 20 req- 21
+1: des- 0.022066 pop- 15 req- 16
+
+moves:
+time: 0.001085
+sp 20 : 0.0597157 tp 18 : 0.161502
+time: 0.001108
+sending some ships
+order: 20=>18(4)
+dec ships tp send
+++iter
+done
+next
+sp 22 : 0.0622724 tp 18 : 0.161502
+time: 0.001166
+sending some ships
+order: 22=>18(6)
+dec ships tp send
+++iter
+done
+next
+sp 2 : 0.159641 tp 18 : 0.161502
+time: 0.001229
+orders: 2
+
+all done
+
+time: 0.00125
+
+
+making a move
+time: 0.000387
+counts
+time: 0.000438
+ships: 130, 20
+centre
+time: 0.000472
+get desires
+time: 0.000493
+sorting
+time: 0.000618
+logging
+time: 0.000648
+
+Mine:
+2: des- 0.161859 pop- 19 req- 0
+20: des- 0.0626788 pop- 58 req- 0
+22: des- 0.059192 pop- 53 req- 0
+
+All:
+18: des- 0.167986 pop- 47 req- 48
+2: des- 0.161859 pop- 19 req- 0
+8: des- 0.11458 pop- 67 req- 68
+13: des- 0.113905 pop- 35 req- 36
+12: des- 0.104559 pop- 20 req- 21
+5: des- 0.0975134 pop- 46 req- 47
+0: des- 0.0759184 pop- 128 req- 129
+16: des- 0.070259 pop- 55 req- 56
+14: des- 0.0643463 pop- 35 req- 36
+15: des- 0.0626933 pop- 55 req- 56
+20: des- 0.0626788 pop- 58 req- 0
+22: des- 0.059192 pop- 53 req- 0
+6: des- 0.0570761 pop- 46 req- 47
+10: des- 0.0540116 pop- 57 req- 58
+9: des- 0.0520919 pop- 57 req- 58
+4: des- 0.0500623 pop- 79 req- 80
+11: des- 0.0480165 pop- 20 req- 21
+3: des- 0.0474832 pop- 79 req- 80
+17: des- 0.0469882 pop- 60 req- 61
+7: des- 0.0431285 pop- 67 req- 68
+21: des- 0.0406865 pop- 20 req- 21
+19: des- 0.0406367 pop- 48 req- 49
+1: des- 0.0220327 pop- 20 req- 21
+
+adjusting for fleets
+time: 0.001126
+
+adjusted:
+18: des- 0.167986 pop- 47 req- 3
+2: des- 0.161859 pop- 19 req- 0
+8: des- 0.11458 pop- 67 req- 68
+13: des- 0.113905 pop- 35 req- 36
+12: des- 0.104559 pop- 20 req- 21
+5: des- 0.0975134 pop- 46 req- 47
+0: des- 0.0759184 pop- 128 req- 129
+16: des- 0.070259 pop- 55 req- 56
+14: des- 0.0643463 pop- 35 req- 36
+15: des- 0.0626933 pop- 55 req- 56
+20: des- 0.0626788 pop- 58 req- 0
+22: des- 0.059192 pop- 53 req- 0
+6: des- 0.0570761 pop- 46 req- 47
+10: des- 0.0540116 pop- 57 req- 58
+9: des- 0.0520919 pop- 57 req- 58
+4: des- 0.0500623 pop- 79 req- 80
+11: des- 0.0480165 pop- 20 req- 21
+3: des- 0.0474832 pop- 79 req- 80
+17: des- 0.0469882 pop- 60 req- 61
+7: des- 0.0431285 pop- 67 req- 68
+21: des- 0.0406865 pop- 20 req- 21
+19: des- 0.0406367 pop- 48 req- 49
+1: des- 0.0220327 pop- 20 req- 21
+
+moves:
+time: 0.00143
+sp 22 : 0.059192 tp 18 : 0.167986
+time: 0.001453
+sending some ships
+order: 22=>18(3)
+dec ships tp send
+++iter
+done
+next
+sp 20 : 0.0626788 tp 18 : 0.167986
+time: 0.00151
+sending all ships needed
+order: 20=>18(4)
+next
+sp 20 : 0.0626788 tp 2 : 0.161859
+time: 0.001551
+reinforcements
+order: 20=>2(17)
+next
+orders: 3
+
+all done
+
+time: 0.001596
+
+
+making a move
+time: 0.000321
+counts
+time: 0.000383
+ships: 125, 25
+centre
+time: 0.00042
+get desires
+time: 0.000441
+sorting
+time: 0.00047
+logging
+time: 0.000669
+
+Mine:
+2: des- 0.172783 pop- 24 req- 0
+22: des- 0.0672942 pop- 56 req- 0
+20: des- 0.0559276 pop- 45 req- 0
+
+All:
+2: des- 0.172783 pop- 24 req- 0
+18: des- 0.159732 pop- 47 req- 48
+13: des- 0.114921 pop- 35 req- 36
+8: des- 0.109652 pop- 67 req- 68
+12: des- 0.108779 pop- 20 req- 21
+5: des- 0.100239 pop- 46 req- 47
+0: des- 0.0760581 pop- 128 req- 129
+16: des- 0.0690869 pop- 55 req- 56
+22: des- 0.0672942 pop- 56 req- 0
+14: des- 0.0643085 pop- 35 req- 36
+15: des- 0.0637086 pop- 55 req- 56
+6: des- 0.056658 pop- 46 req- 47
+20: des- 0.0559276 pop- 45 req- 0
+10: des- 0.0531164 pop- 57 req- 58
+9: des- 0.0530184 pop- 57 req- 58
+4: des- 0.0510065 pop- 79 req- 80
+11: des- 0.0476925 pop- 20 req- 21
+17: des- 0.047248 pop- 60 req- 61
+3: des- 0.046778 pop- 79 req- 80
+7: des- 0.0434587 pop- 67 req- 68
+19: des- 0.04077 pop- 48 req- 49
+21: des- 0.0406382 pop- 20 req- 21
+1: des- 0.0219551 pop- 25 req- 26
+
+adjusting for fleets
+time: 0.00104
+
+adjusted:
+2: des- 0.172783 pop- 24 req- -17
+18: des- 0.159732 pop- 47 req- 3
+13: des- 0.114921 pop- 35 req- 36
+8: des- 0.109652 pop- 67 req- 68
+12: des- 0.108779 pop- 20 req- 21
+5: des- 0.100239 pop- 46 req- 47
+0: des- 0.0760581 pop- 128 req- 129
+16: des- 0.0690869 pop- 55 req- 56
+22: des- 0.0672942 pop- 56 req- 0
+14: des- 0.0643085 pop- 35 req- 36
+15: des- 0.0637086 pop- 55 req- 56
+6: des- 0.056658 pop- 46 req- 47
+20: des- 0.0559276 pop- 45 req- 0
+10: des- 0.0531164 pop- 57 req- 58
+9: des- 0.0530184 pop- 57 req- 58
+4: des- 0.0510065 pop- 79 req- 80
+11: des- 0.0476925 pop- 20 req- 21
+17: des- 0.047248 pop- 60 req- 61
+3: des- 0.046778 pop- 79 req- 80
+7: des- 0.0434587 pop- 67 req- 68
+19: des- 0.04077 pop- 48 req- 49
+21: des- 0.0406382 pop- 20 req- 21
+1: des- 0.0219551 pop- 25 req- 26
+
+moves:
+time: 0.004115
+sp 20 : 0.0559276 tp 2 : 0.172783
+time: 0.004142
+sp 22 : 0.0672942 tp 2 : 0.172783
+time: 0.004163
+reinforcements
+order: 22=>2(16)
+next
+orders: 1
+
+all done
+
+time: 0.004211
+
+
+making a move
+time: 0.000272
+counts
+time: 0.000325
+ships: 121, 30
+centre
+time: 0.000361
+get desires
+time: 0.000382
+sorting
+time: 0.00041
+logging
+time: 0.000437
+
+Mine:
+2: des- 0.178255 pop- 29 req- 0
+20: des- 0.0632936 pop- 49 req- 0
+22: des- 0.0591109 pop- 43 req- 0
+
+All:
+2: des- 0.178255 pop- 29 req- 0
+18: des- 0.174754 pop- 20 req- 21
+13: des- 0.115574 pop- 35 req- 36
+8: des- 0.115188 pop- 67 req- 68
+12: des- 0.105161 pop- 20 req- 21
+5: des- 0.0984011 pop- 46 req- 47
+0: des- 0.0765641 pop- 128 req- 129
+16: des- 0.0707481 pop- 55 req- 56
+14: des- 0.0648675 pop- 35 req- 36
+20: des- 0.0632936 pop- 49 req- 0
+15: des- 0.0630598 pop- 55 req- 56
+22: des- 0.0591109 pop- 43 req- 0
+6: des- 0.0574515 pop- 46 req- 47
+10: des- 0.0542259 pop- 57 req- 58
+9: des- 0.0522644 pop- 57 req- 58
+4: des- 0.050168 pop- 79 req- 80
+11: des- 0.0482896 pop- 20 req- 21
+3: des- 0.047624 pop- 79 req- 80
+17: des- 0.0472264 pop- 60 req- 61
+7: des- 0.0433069 pop- 67 req- 68
+21: des- 0.0408927 pop- 20 req- 21
+19: des- 0.0408207 pop- 48 req- 49
+1: des- 0.0219577 pop- 30 req- 31
+
+adjusting for fleets
+time: 0.000756
+
+adjusted:
+2: des- 0.178255 pop- 29 req- -33
+18: des- 0.174754 pop- 20 req- 3
+13: des- 0.115574 pop- 35 req- 36
+8: des- 0.115188 pop- 67 req- 68
+12: des- 0.105161 pop- 20 req- 21
+5: des- 0.0984011 pop- 46 req- 47
+0: des- 0.0765641 pop- 128 req- 129
+16: des- 0.0707481 pop- 55 req- 56
+14: des- 0.0648675 pop- 35 req- 36
+20: des- 0.0632936 pop- 49 req- 0
+15: des- 0.0630598 pop- 55 req- 56
+22: des- 0.0591109 pop- 43 req- 0
+6: des- 0.0574515 pop- 46 req- 47
+10: des- 0.0542259 pop- 57 req- 58
+9: des- 0.0522644 pop- 57 req- 58
+4: des- 0.050168 pop- 79 req- 80
+11: des- 0.0482896 pop- 20 req- 21
+3: des- 0.047624 pop- 79 req- 80
+17: des- 0.0472264 pop- 60 req- 61
+7: des- 0.0433069 pop- 67 req- 68
+21: des- 0.0408927 pop- 20 req- 21
+19: des- 0.0408207 pop- 48 req- 49
+1: des- 0.0219577 pop- 30 req- 31
+
+moves:
+time: 0.001077
+sp 22 : 0.0591109 tp 2 : 0.178255
+time: 0.0011
+sp 20 : 0.0632936 tp 2 : 0.178255
+time: 0.001122
+orders: 0
+
+all done
+
+time: 0.001143
+
+
+making a move
+time: 0.000266
+counts
+time: 0.000314
+ships: 133, 35
+centre
+time: 0.000348
+get desires
+time: 0.000369
+sorting
+time: 0.000396
+logging
+time: 0.000424
+
+Mine:
+2: des- 0.180789 pop- 34 req- 0
+20: des- 0.0631989 pop- 53 req- 0
+22: des- 0.0588187 pop- 46 req- 0
+
+All:
+2: des- 0.180789 pop- 34 req- 0
+18: des- 0.175374 pop- 20 req- 21
+13: des- 0.115929 pop- 35 req- 36
+8: des- 0.115471 pop- 67 req- 68
+12: des- 0.105264 pop- 20 req- 21
+5: des- 0.0986097 pop- 46 req- 47
+0: des- 0.0768557 pop- 128 req- 129
+16: des- 0.0709109 pop- 55 req- 56
+14: des- 0.0649978 pop- 35 req- 36
+20: des- 0.0631989 pop- 53 req- 0
+15: des- 0.0631743 pop- 55 req- 56
+22: des- 0.0588187 pop- 46 req- 0
+6: des- 0.057566 pop- 46 req- 47
+10: des- 0.0543241 pop- 57 req- 58
+9: des- 0.0523373 pop- 57 req- 58
+4: des- 0.0502471 pop- 79 req- 80
+11: des- 0.0483565 pop- 20 req- 21
+3: des- 0.0477203 pop- 79 req- 80
+17: des- 0.0473145 pop- 60 req- 61
+7: des- 0.0433852 pop- 67 req- 68
+21: des- 0.0409429 pop- 20 req- 21
+19: des- 0.040885 pop- 48 req- 49
+1: des- 0.0218918 pop- 35 req- 36
+
+adjusting for fleets
+time: 0.000776
+
+adjusted:
+2: des- 0.180789 pop- 34 req- -33
+18: des- 0.175374 pop- 20 req- 3
+13: des- 0.115929 pop- 35 req- 36
+8: des- 0.115471 pop- 67 req- 68
+12: des- 0.105264 pop- 20 req- 21
+5: des- 0.0986097 pop- 46 req- 47
+0: des- 0.0768557 pop- 128 req- 129
+16: des- 0.0709109 pop- 55 req- 56
+14: des- 0.0649978 pop- 35 req- 36
+20: des- 0.0631989 pop- 53 req- 0
+15: des- 0.0631743 pop- 55 req- 56
+22: des- 0.0588187 pop- 46 req- 0
+6: des- 0.057566 pop- 46 req- 47
+10: des- 0.0543241 pop- 57 req- 58
+9: des- 0.0523373 pop- 57 req- 58
+4: des- 0.0502471 pop- 79 req- 80
+11: des- 0.0483565 pop- 20 req- 21
+3: des- 0.0477203 pop- 79 req- 80
+17: des- 0.0473145 pop- 60 req- 61
+7: des- 0.0433852 pop- 67 req- 68
+21: des- 0.0409429 pop- 20 req- 21
+19: des- 0.040885 pop- 48 req- 49
+1: des- 0.0218918 pop- 35 req- 36
+
+moves:
+time: 0.00528
+sp 22 : 0.0588187 tp 2 : 0.180789
+time: 0.005303
+sp 20 : 0.0631989 tp 2 : 0.180789
+time: 0.005325
+reinforcements
+order: 20=>2(9)
+next
+orders: 1
+
+all done
+
+time: 0.005376
+
+
+making a move
+time: 0.000286
+counts
+time: 0.000351
+ships: 153, 40
+centre
+time: 0.000388
+get desires
+time: 0.000409
+sorting
+time: 0.000439
+logging
+time: 0.000468
+
+Mine:
+2: des- 0.215041 pop- 56 req- 0
+22: des- 0.0621168 pop- 49 req- 0
+20: des- 0.0591845 pop- 48 req- 0
+
+All:
+2: des- 0.215041 pop- 56 req- 0
+18: des- 0.173736 pop- 14 req- 15
+13: des- 0.118284 pop- 35 req- 36
+8: des- 0.113404 pop- 67 req- 68
+12: des- 0.108234 pop- 20 req- 21
+5: des- 0.101164 pop- 46 req- 47
+0: des- 0.0779081 pop- 128 req- 129
+16: des- 0.070818 pop- 55 req- 56
+14: des- 0.0655418 pop- 35 req- 36
+15: des- 0.0642089 pop- 55 req- 56
+22: des- 0.0621168 pop- 49 req- 0
+20: des- 0.0591845 pop- 48 req- 0
+6: des- 0.0577645 pop- 46 req- 47
+10: des- 0.0541147 pop- 57 req- 58
+9: des- 0.0531133 pop- 57 req- 58
+4: des- 0.0510036 pop- 79 req- 80
+11: des- 0.0484571 pop- 20 req- 21
+17: des- 0.0477799 pop- 60 req- 61
+3: des- 0.0475777 pop- 79 req- 80
+7: des- 0.0438358 pop- 67 req- 68
+19: des- 0.0411968 pop- 48 req- 49
+21: des- 0.0411338 pop- 20 req- 21
+1: des- 0.0219369 pop- 40 req- 41
+
+adjusting for fleets
+time: 0.000789
+
+adjusted:
+2: des- 0.215041 pop- 56 req- -25
+18: des- 0.173736 pop- 14 req- 3
+13: des- 0.118284 pop- 35 req- 36
+8: des- 0.113404 pop- 67 req- 68
+12: des- 0.108234 pop- 20 req- 21
+5: des- 0.101164 pop- 46 req- 47
+0: des- 0.0779081 pop- 128 req- 129
+16: des- 0.070818 pop- 55 req- 56
+14: des- 0.0655418 pop- 35 req- 36
+15: des- 0.0642089 pop- 55 req- 56
+22: des- 0.0621168 pop- 49 req- 0
+20: des- 0.0591845 pop- 48 req- 0
+6: des- 0.0577645 pop- 46 req- 47
+10: des- 0.0541147 pop- 57 req- 58
+9: des- 0.0531133 pop- 57 req- 58
+4: des- 0.0510036 pop- 79 req- 80
+11: des- 0.0484571 pop- 20 req- 21
+17: des- 0.0477799 pop- 60 req- 61
+3: des- 0.0475777 pop- 79 req- 80
+7: des- 0.0438358 pop- 67 req- 68
+19: des- 0.0411968 pop- 48 req- 49
+21: des- 0.0411338 pop- 20 req- 21
+1: des- 0.0219369 pop- 40 req- 41
+
+moves:
+time: 0.001094
+sp 20 : 0.0591845 tp 2 : 0.215041
+time: 0.001117
+sp 22 : 0.0621168 tp 2 : 0.215041
+time: 0.001139
+orders: 0
+
+all done
+
+time: 0.001161
+
+
+making a move
+time: 0.000263
+counts
+time: 0.000321
+ships: 181, 45
+centre
+time: 0.000356
+get desires
+time: 0.000378
+sorting
+time: 0.000509
+logging
+time: 0.000784
+
+Mine:
+2: des- 0.232734 pop- 77 req- 0
+22: des- 0.0615228 pop- 52 req- 0
+20: des- 0.0589898 pop- 52 req- 0
+
+All:
+2: des- 0.232734 pop- 77 req- 0
+18: des- 0.17543 pop- 14 req- 15
+13: des- 0.119581 pop- 35 req- 36
+8: des- 0.114003 pop- 67 req- 68
+12: des- 0.108725 pop- 20 req- 21
+5: des- 0.101953 pop- 46 req- 47
+0: des- 0.078739 pop- 128 req- 129
+16: des- 0.0712657 pop- 55 req- 56
+14: des- 0.0659672 pop- 35 req- 36
+15: des- 0.0645888 pop- 55 req- 56
+22: des- 0.0615228 pop- 52 req- 0
+20: des- 0.0589898 pop- 52 req- 0
+6: des- 0.0581024 pop- 46 req- 47
+10: des- 0.0543581 pop- 57 req- 58
+9: des- 0.0533432 pop- 57 req- 58
+4: des- 0.0512296 pop- 79 req- 80
+11: des- 0.0486654 pop- 20 req- 21
+17: des- 0.0480446 pop- 60 req- 61
+3: des- 0.0478041 pop- 79 req- 80
+7: des- 0.0440648 pop- 67 req- 68
+19: des- 0.0413904 pop- 48 req- 49
+21: des- 0.0412964 pop- 20 req- 21
+1: des- 0.0219474 pop- 45 req- 46
+
+adjusting for fleets
+time: 0.001134
+
+adjusted:
+2: des- 0.232734 pop- 77 req- -9
+18: des- 0.17543 pop- 14 req- 3
+13: des- 0.119581 pop- 35 req- 36
+8: des- 0.114003 pop- 67 req- 68
+12: des- 0.108725 pop- 20 req- 21
+5: des- 0.101953 pop- 46 req- 47
+0: des- 0.078739 pop- 128 req- 129
+16: des- 0.0712657 pop- 55 req- 56
+14: des- 0.0659672 pop- 35 req- 36
+15: des- 0.0645888 pop- 55 req- 56
+22: des- 0.0615228 pop- 52 req- 0
+20: des- 0.0589898 pop- 52 req- 0
+6: des- 0.0581024 pop- 46 req- 47
+10: des- 0.0543581 pop- 57 req- 58
+9: des- 0.0533432 pop- 57 req- 58
+4: des- 0.0512296 pop- 79 req- 80
+11: des- 0.0486654 pop- 20 req- 21
+17: des- 0.0480446 pop- 60 req- 61
+3: des- 0.0478041 pop- 79 req- 80
+7: des- 0.0440648 pop- 67 req- 68
+19: des- 0.0413904 pop- 48 req- 49
+21: des- 0.0412964 pop- 20 req- 21
+1: des- 0.0219474 pop- 45 req- 46
+
+moves:
+time: 0.001435
+sp 20 : 0.0589898 tp 2 : 0.232734
+time: 0.001458
+reinforcements
+next
+sp 22 : 0.0615228 tp 18 : 0.17543
+time: 0.001491
+sending some ships
+order: 22=>18(2)
+dec ships tp send
+++iter
+done
+next
+orders: 2
+
+all done
+
+time: 0.001548
+
+
+making a move
+time: 0.000245
+counts
+time: 0.000293
+ships: 193, 50
+centre
+time: 0.000328
+get desires
+time: 0.000348
+sorting
+time: 0.000375
+logging
+time: 0.000401
+
+Mine:
+2: des- 0.231066 pop- 82 req- 0
+22: des- 0.0610794 pop- 55 req- 0
+20: des- 0.059106 pop- 56 req- 0
+
+All:
+2: des- 0.231066 pop- 82 req- 0
+18: des- 0.176739 pop- 8 req- 9
+13: des- 0.119593 pop- 35 req- 36
+8: des- 0.114279 pop- 67 req- 68
+12: des- 0.108574 pop- 20 req- 21
+5: des- 0.101885 pop- 46 req- 47
+0: des- 0.0788288 pop- 128 req- 129
+16: des- 0.0713538 pop- 55 req- 56
+14: des- 0.0659946 pop- 35 req- 36
+15: des- 0.0645797 pop- 55 req- 56
+22: des- 0.0610794 pop- 55 req- 0
+20: des- 0.059106 pop- 56 req- 0
+6: des- 0.0581467 pop- 46 req- 47
+10: des- 0.054423 pop- 57 req- 58
+9: des- 0.0533317 pop- 57 req- 58
+4: des- 0.0512254 pop- 79 req- 80
+11: des- 0.0486904 pop- 20 req- 21
+17: des- 0.0480604 pop- 60 req- 61
+3: des- 0.0478662 pop- 79 req- 80
+7: des- 0.0440775 pop- 67 req- 68
+19: des- 0.0414033 pop- 48 req- 49
+21: des- 0.0413077 pop- 20 req- 21
+1: des- 0.021863 pop- 50 req- 51
+
+adjusting for fleets
+time: 0.000718
+
+adjusted:
+2: des- 0.231066 pop- 82 req- -9
+18: des- 0.176739 pop- 8 req- 3
+13: des- 0.119593 pop- 35 req- 36
+8: des- 0.114279 pop- 67 req- 68
+12: des- 0.108574 pop- 20 req- 21
+5: des- 0.101885 pop- 46 req- 47
+0: des- 0.0788288 pop- 128 req- 129
+16: des- 0.0713538 pop- 55 req- 56
+14: des- 0.0659946 pop- 35 req- 36
+15: des- 0.0645797 pop- 55 req- 56
+22: des- 0.0610794 pop- 55 req- 0
+20: des- 0.059106 pop- 56 req- 0
+6: des- 0.0581467 pop- 46 req- 47
+10: des- 0.054423 pop- 57 req- 58
+9: des- 0.0533317 pop- 57 req- 58
+4: des- 0.0512254 pop- 79 req- 80
+11: des- 0.0486904 pop- 20 req- 21
+17: des- 0.0480604 pop- 60 req- 61
+3: des- 0.0478662 pop- 79 req- 80
+7: des- 0.0440775 pop- 67 req- 68
+19: des- 0.0414033 pop- 48 req- 49
+21: des- 0.0413077 pop- 20 req- 21
+1: des- 0.021863 pop- 50 req- 51
+
+moves:
+time: 0.005543
+sp 20 : 0.059106 tp 2 : 0.231066
+time: 0.00557
+reinforcements
+next
+sp 22 : 0.0610794 tp 18 : 0.176739
+time: 0.005605
+sending some ships
+order: 22=>18(5)
+dec ships tp send
+++iter
+done
+next
+orders: 2
+
+all done
+
+time: 0.005663
+
+
+making a move
+time: 0.000264
+counts
+time: 0.000325
+ships: 214, 5
+centre
+time: 0.000361
+get desires
+time: 0.000382
+sorting
+time: 0.000411
+logging
+time: 0.000439
+
+Mine:
+2: des- 0.237057 pop- 96 req- 0
+22: des- 0.0605634 pop- 58 req- 0
+20: des- 0.0588948 pop- 60 req- 0
+
+All:
+2: des- 0.237057 pop- 96 req- 0
+18: des- 0.177511 pop- 8 req- 9
+13: des- 0.120005 pop- 35 req- 36
+8: des- 0.114376 pop- 67 req- 68
+12: des- 0.108663 pop- 20 req- 21
+5: des- 0.102047 pop- 46 req- 47
+0: des- 0.0788796 pop- 128 req- 129
+16: des- 0.0714471 pop- 55 req- 56
+14: des- 0.0661091 pop- 35 req- 36
+15: des- 0.0646269 pop- 55 req- 56
+22: des- 0.0605634 pop- 58 req- 0
+20: des- 0.0588948 pop- 60 req- 0
+6: des- 0.0582195 pop- 46 req- 47
+10: des- 0.0544502 pop- 57 req- 58
+9: des- 0.0533322 pop- 57 req- 58
+4: des- 0.0511948 pop- 79 req- 80
+11: des- 0.0487546 pop- 20 req- 21
+17: des- 0.0480878 pop- 60 req- 61
+3: des- 0.0478637 pop- 79 req- 80
+7: des- 0.044087 pop- 67 req- 68
+19: des- 0.0414279 pop- 48 req- 49
+21: des- 0.0413535 pop- 20 req- 21
+1: des- 0.0227335 pop- 5 req- 6
+
+adjusting for fleets
+time: 0.000794
+
+adjusted:
+2: des- 0.237057 pop- 96 req- 0
+18: des- 0.177511 pop- 8 req- 3
+13: des- 0.120005 pop- 35 req- 36
+8: des- 0.114376 pop- 67 req- 68
+12: des- 0.108663 pop- 20 req- 21
+5: des- 0.102047 pop- 46 req- 47
+0: des- 0.0788796 pop- 128 req- 129
+16: des- 0.0714471 pop- 55 req- 56
+14: des- 0.0661091 pop- 35 req- 36
+15: des- 0.0646269 pop- 55 req- 56
+22: des- 0.0605634 pop- 58 req- 0
+20: des- 0.0588948 pop- 60 req- 0
+6: des- 0.0582195 pop- 46 req- 47
+10: des- 0.0544502 pop- 57 req- 58
+9: des- 0.0533322 pop- 57 req- 58
+4: des- 0.0511948 pop- 79 req- 80
+11: des- 0.0487546 pop- 20 req- 21
+17: des- 0.0480878 pop- 60 req- 61
+3: des- 0.0478637 pop- 79 req- 80
+7: des- 0.044087 pop- 67 req- 68
+19: des- 0.0414279 pop- 48 req- 49
+21: des- 0.0413535 pop- 20 req- 21
+1: des- 0.0227335 pop- 5 req- 6
+
+moves:
+time: 0.001098
+sp 20 : 0.0588948 tp 2 : 0.237057
+time: 0.001384
+reinforcements
+next
+sp 22 : 0.0605634 tp 18 : 0.177511
+time: 0.00142
+sending some ships
+order: 22=>18(8)
+dec ships tp send
+++iter
+done
+next
+orders: 2
+
+all done
+
+time: 0.001485
+
+
+making a move
+time: 0.000247
+counts
+time: 0.000302
+ships: 168, 10
+centre
+time: 0.000337
+get desires
+time: 0.000358
+sorting
+time: 0.000385
+logging
+time: 0.000413
+
+Mine:
+2: des- 0.187543 pop- 51 req- 0
+20: des- 0.0630382 pop- 64 req- 0
+22: des- 0.0577213 pop- 53 req- 0
+
+All:
+2: des- 0.187543 pop- 51 req- 0
+18: des- 0.180213 pop- 2 req- 3
+13: des- 0.116807 pop- 35 req- 36
+8: des- 0.116116 pop- 67 req- 68
+12: des- 0.105365 pop- 20 req- 21
+5: des- 0.098961 pop- 46 req- 47
+0: des- 0.0772516 pop- 128 req- 129
+16: des- 0.0712624 pop- 55 req- 56
+14: des- 0.065295 pop- 35 req- 36
+15: des- 0.0633333 pop- 55 req- 56
+20: des- 0.0630382 pop- 64 req- 0
+6: des- 0.0578065 pop- 46 req- 47
+22: des- 0.0577213 pop- 53 req- 0
+10: des- 0.0545051 pop- 57 req- 58
+9: des- 0.0523938 pop- 57 req- 58
+4: des- 0.0502716 pop- 79 req- 80
+11: des- 0.0485275 pop- 20 req- 21
+3: des- 0.0478541 pop- 79 req- 80
+17: des- 0.047443 pop- 60 req- 61
+7: des- 0.0434776 pop- 67 req- 68
+21: des- 0.0410613 pop- 20 req- 21
+19: des- 0.0409867 pop- 48 req- 49
+1: des- 0.0224467 pop- 10 req- 11
+
+adjusting for fleets
+time: 0.000728
+
+adjusted:
+2: des- 0.187543 pop- 51 req- 0
+18: des- 0.180213 pop- 2 req- -5
+13: des- 0.116807 pop- 35 req- 36
+8: des- 0.116116 pop- 67 req- 68
+12: des- 0.105365 pop- 20 req- 21
+5: des- 0.098961 pop- 46 req- 47
+0: des- 0.0772516 pop- 128 req- 129
+16: des- 0.0712624 pop- 55 req- 56
+14: des- 0.065295 pop- 35 req- 36
+15: des- 0.0633333 pop- 55 req- 56
+20: des- 0.0630382 pop- 64 req- 0
+6: des- 0.0578065 pop- 46 req- 47
+22: des- 0.0577213 pop- 53 req- 0
+10: des- 0.0545051 pop- 57 req- 58
+9: des- 0.0523938 pop- 57 req- 58
+4: des- 0.0502716 pop- 79 req- 80
+11: des- 0.0485275 pop- 20 req- 21
+3: des- 0.0478541 pop- 79 req- 80
+17: des- 0.047443 pop- 60 req- 61
+7: des- 0.0434776 pop- 67 req- 68
+21: des- 0.0410613 pop- 20 req- 21
+19: des- 0.0409867 pop- 48 req- 49
+1: des- 0.0224467 pop- 10 req- 11
+
+moves:
+time: 0.001027
+sp 22 : 0.0577213 tp 2 : 0.187543
+time: 0.001049
+reinforcements
+order: 22=>2(1)
+next
+sp 20 : 0.0630382 tp 18 : 0.180213
+time: 0.00109
+sending all ships needed
+order: 20=>18(-6)
+next
+sp 20 : 0.0630382 tp 13 : 0.116807
+time: 0.001131
+sending some ships
+order: 20=>13(20)
+dec ships tp send
+++iter
+done
+next
+orders: 3
+
+all done
+
+time: 0.001192
+
+
+making a move
+time: 0.00025
+counts
+time: 0.000303
+ships: 160, 15
+centre
+time: 0.000339
+get desires
+time: 0.000359
+sorting
+time: 0.000387
+logging
+time: 0.000414
+
+Mine:
+2: des- 0.210001 pop- 56 req- 0
+22: des- 0.0644733 pop- 56 req- 0
+20: des- 0.0568688 pop- 48 req- 0
+
+All:
+2: des- 0.210001 pop- 56 req- 0
+18: des- 0.17175 pop- 2 req- 3
+13: des- 0.117916 pop- 35 req- 36
+8: des- 0.111423 pop- 67 req- 68
+12: des- 0.10936 pop- 20 req- 21
+5: des- 0.101628 pop- 46 req- 47
+0: des- 0.0774123 pop- 128 req- 129
+16: des- 0.0701599 pop- 55 req- 56
+14: des- 0.0652851 pop- 35 req- 36
+22: des- 0.0644733 pop- 56 req- 0
+15: des- 0.064311 pop- 55 req- 56
+6: des- 0.0574243 pop- 46 req- 47
+20: des- 0.0568688 pop- 48 req- 0
+10: des- 0.0536665 pop- 57 req- 58
+9: des- 0.0532649 pop- 57 req- 58
+4: des- 0.0511503 pop- 79 req- 80
+11: des- 0.0482335 pop- 20 req- 21
+17: des- 0.0476979 pop- 60 req- 61
+3: des- 0.0471923 pop- 79 req- 80
+7: des- 0.0437941 pop- 67 req- 68
+19: des- 0.0411195 pop- 48 req- 49
+21: des- 0.0410255 pop- 20 req- 21
+1: des- 0.022372 pop- 15 req- 16
+
+adjusting for fleets
+time: 0.000764
+
+adjusted:
+2: des- 0.210001 pop- 56 req- 0
+18: des- 0.17175 pop- 2 req- -5
+13: des- 0.117916 pop- 35 req- 16
+8: des- 0.111423 pop- 67 req- 68
+12: des- 0.10936 pop- 20 req- 21
+5: des- 0.101628 pop- 46 req- 47
+0: des- 0.0774123 pop- 128 req- 129
+16: des- 0.0701599 pop- 55 req- 56
+14: des- 0.0652851 pop- 35 req- 36
+22: des- 0.0644733 pop- 56 req- 0
+15: des- 0.064311 pop- 55 req- 56
+6: des- 0.0574243 pop- 46 req- 47
+20: des- 0.0568688 pop- 48 req- 0
+10: des- 0.0536665 pop- 57 req- 58
+9: des- 0.0532649 pop- 57 req- 58
+4: des- 0.0511503 pop- 79 req- 80
+11: des- 0.0482335 pop- 20 req- 21
+17: des- 0.0476979 pop- 60 req- 61
+3: des- 0.0471923 pop- 79 req- 80
+7: des- 0.0437941 pop- 67 req- 68
+19: des- 0.0411195 pop- 48 req- 49
+21: des- 0.0410255 pop- 20 req- 21
+1: des- 0.022372 pop- 15 req- 16
+
+moves:
+time: 0.001468
+sp 20 : 0.0568688 tp 2 : 0.210001
+time: 0.001491
+sp 22 : 0.0644733 tp 2 : 0.210001
+time: 0.001512
+reinforcements
+next
+orders: 1
+
+all done
+
+time: 0.001547
+
+
+making a move
+time: 0.000245
+counts
+time: 0.00029
+ships: 172, 20
+centre
+time: 0.000324
+get desires
+time: 0.000345
+sorting
+time: 0.000372
+logging
+time: 0.000398
+
+Mine:
+2: des- 0.210996 pop- 61 req- 0
+22: des- 0.0637214 pop- 59 req- 0
+20: des- 0.0571605 pop- 52 req- 0
+
+All:
+2: des- 0.210996 pop- 61 req- 0
+18: des- 0.17257 pop- 2 req- 3
+13: des- 0.118056 pop- 35 req- 36
+8: des- 0.111908 pop- 67 req- 68
+12: des- 0.109149 pop- 20 req- 21
+5: des- 0.101584 pop- 46 req- 47
+0: des- 0.0776187 pop- 128 req- 129
+16: des- 0.0703378 pop- 55 req- 56
+14: des- 0.0653662 pop- 35 req- 36
+15: des- 0.0643258 pop- 55 req- 56
+22: des- 0.0637214 pop- 59 req- 0
+6: des- 0.0575238 pop- 46 req- 47
+20: des- 0.0571605 pop- 52 req- 0
+10: des- 0.0537898 pop- 57 req- 58
+9: des- 0.0532619 pop- 57 req- 58
+4: des- 0.0511568 pop- 79 req- 80
+11: des- 0.0482924 pop- 20 req- 21
+17: des- 0.0477436 pop- 60 req- 61
+3: des- 0.047308 pop- 79 req- 80
+7: des- 0.0438313 pop- 67 req- 68
+19: des- 0.0411555 pop- 48 req- 49
+21: des- 0.0410581 pop- 20 req- 21
+1: des- 0.0222891 pop- 20 req- 21
+
+adjusting for fleets
+time: 0.000715
+
+adjusted:
+2: des- 0.210996 pop- 61 req- 0
+18: des- 0.17257 pop- 2 req- -5
+13: des- 0.118056 pop- 35 req- 16
+8: des- 0.111908 pop- 67 req- 68
+12: des- 0.109149 pop- 20 req- 21
+5: des- 0.101584 pop- 46 req- 47
+0: des- 0.0776187 pop- 128 req- 129
+16: des- 0.0703378 pop- 55 req- 56
+14: des- 0.0653662 pop- 35 req- 36
+15: des- 0.0643258 pop- 55 req- 56
+22: des- 0.0637214 pop- 59 req- 0
+6: des- 0.0575238 pop- 46 req- 47
+20: des- 0.0571605 pop- 52 req- 0
+10: des- 0.0537898 pop- 57 req- 58
+9: des- 0.0532619 pop- 57 req- 58
+4: des- 0.0511568 pop- 79 req- 80
+11: des- 0.0482924 pop- 20 req- 21
+17: des- 0.0477436 pop- 60 req- 61
+3: des- 0.047308 pop- 79 req- 80
+7: des- 0.0438313 pop- 67 req- 68
+19: des- 0.0411555 pop- 48 req- 49
+21: des- 0.0410581 pop- 20 req- 21
+1: des- 0.0222891 pop- 20 req- 21
+
+moves:
+time: 0.004855
+sp 20 : 0.0571605 tp 2 : 0.210996
+time: 0.004879
+reinforcements
+next
+sp 22 : 0.0637214 tp 18 : 0.17257
+time: 0.004914
+sending all ships needed
+order: 22=>18(-1)
+next
+sp 22 : 0.0637214 tp 13 : 0.118056
+time: 0.004957
+sending some ships
+order: 22=>13(10)
+dec ships tp send
+++iter
+done
+next
+orders: 3
+
+all done
+
+time: 0.005022
+
+
+making a move
+time: 0.000269
+counts
+time: 0.000328
+ships: 174, 25
+centre
+time: 0.000364
+get desires
+time: 0.000386
+sorting
+time: 0.000414
+logging
+time: 0.000443
+
+Mine:
+2: des- 0.214383 pop- 66 req- 0
+20: des- 0.0603504 pop- 56 req- 0
+22: des- 0.0601467 pop- 52 req- 0
+
+All:
+2: des- 0.214383 pop- 66 req- 0
+18: des- 0.178212 pop- 2 req- 3
+13: des- 0.118482 pop- 35 req- 36
+8: des- 0.114636 pop- 67 req- 68
+12: des- 0.10746 pop- 20 req- 21
+5: des- 0.100781 pop- 46 req- 47
+0: des- 0.0780471 pop- 128 req- 129
+16: des- 0.0712018 pop- 55 req- 56
+14: des- 0.065683 pop- 35 req- 36
+15: des- 0.0640794 pop- 55 req- 56
+20: des- 0.0603504 pop- 56 req- 0
+22: des- 0.0601467 pop- 52 req- 0
+6: des- 0.0579524 pop- 46 req- 47
+10: des- 0.0543643 pop- 57 req- 58
+9: des- 0.0529565 pop- 57 req- 58
+4: des- 0.0508275 pop- 79 req- 80
+11: des- 0.0485967 pop- 20 req- 21
+17: des- 0.0477842 pop- 60 req- 61
+3: des- 0.0477676 pop- 79 req- 80
+7: des- 0.0438099 pop- 67 req- 68
+19: des- 0.0412148 pop- 48 req- 49
+21: des- 0.0411963 pop- 20 req- 21
+1: des- 0.0222515 pop- 25 req- 26
+
+adjusting for fleets
+time: 0.000807
+
+adjusted:
+2: des- 0.214383 pop- 66 req- 0
+18: des- 0.178212 pop- 2 req- -5
+13: des- 0.118482 pop- 35 req- 6
+8: des- 0.114636 pop- 67 req- 68
+12: des- 0.10746 pop- 20 req- 21
+5: des- 0.100781 pop- 46 req- 47
+0: des- 0.0780471 pop- 128 req- 129
+16: des- 0.0712018 pop- 55 req- 56
+14: des- 0.065683 pop- 35 req- 36
+15: des- 0.0640794 pop- 55 req- 56
+20: des- 0.0603504 pop- 56 req- 0
+22: des- 0.0601467 pop- 52 req- 0
+6: des- 0.0579524 pop- 46 req- 47
+10: des- 0.0543643 pop- 57 req- 58
+9: des- 0.0529565 pop- 57 req- 58
+4: des- 0.0508275 pop- 79 req- 80
+11: des- 0.0485967 pop- 20 req- 21
+17: des- 0.0477842 pop- 60 req- 61
+3: des- 0.0477676 pop- 79 req- 80
+7: des- 0.0438099 pop- 67 req- 68
+19: des- 0.0412148 pop- 48 req- 49
+21: des- 0.0411963 pop- 20 req- 21
+1: des- 0.0222515 pop- 25 req- 26
+
+moves:
+time: 0.001107
+sp 22 : 0.0601467 tp 2 : 0.214383
+time: 0.001129
+reinforcements
+next
+sp 20 : 0.0603504 tp 18 : 0.178212
+time: 0.001163
+sending all ships needed
+order: 20=>18(-6)
+next
+sp 20 : 0.0603504 tp 13 : 0.118482
+time: 0.001204
+sending some ships
+order: 20=>13(12)
+dec ships tp send
+++iter
+done
+next
+orders: 3
+
+all done
+
+time: 0.001267
+
+
+making a move
+time: 0.000275
+counts
+time: 0.000338
+ships: 174, 30
+centre
+time: 0.000374
+get desires
+time: 0.000396
+sorting
+time: 0.000425
+logging
+time: 0.000453
+
+Mine:
+2: des- 0.22802 pop- 71 req- 0
+22: des- 0.0638493 pop- 55 req- 0
+20: des- 0.0570703 pop- 48 req- 0
+
+All:
+2: des- 0.22802 pop- 71 req- 0
+18: des- 0.173561 pop- 2 req- 3
+13: des- 0.119172 pop- 35 req- 36
+8: des- 0.112119 pop- 67 req- 68
+12: des- 0.109749 pop- 20 req- 21
+5: des- 0.102345 pop- 46 req- 47
+0: des- 0.0782136 pop- 128 req- 129
+16: des- 0.0706234 pop- 55 req- 56
+14: des- 0.065704 pop- 35 req- 36
+15: des- 0.0646596 pop- 55 req- 56
+22: des- 0.0638493 pop- 55 req- 0
+6: des- 0.0577645 pop- 46 req- 47
+20: des- 0.0570703 pop- 48 req- 0
+10: des- 0.0539241 pop- 57 req- 58
+9: des- 0.0534668 pop- 57 req- 58
+4: des- 0.051346 pop- 79 req- 80
+11: des- 0.0484464 pop- 20 req- 21
+17: des- 0.04795 pop- 60 req- 61
+3: des- 0.0474275 pop- 79 req- 80
+7: des- 0.044009 pop- 67 req- 68
+19: des- 0.0413055 pop- 48 req- 49
+21: des- 0.0411869 pop- 20 req- 21
+1: des- 0.0221742 pop- 30 req- 31
+
+adjusting for fleets
+time: 0.000772
+
+adjusted:
+2: des- 0.22802 pop- 71 req- 0
+18: des- 0.173561 pop- 2 req- -5
+13: des- 0.119172 pop- 35 req- -6
+8: des- 0.112119 pop- 67 req- 68
+12: des- 0.109749 pop- 20 req- 21
+5: des- 0.102345 pop- 46 req- 47
+0: des- 0.0782136 pop- 128 req- 129
+16: des- 0.0706234 pop- 55 req- 56
+14: des- 0.065704 pop- 35 req- 36
+15: des- 0.0646596 pop- 55 req- 56
+22: des- 0.0638493 pop- 55 req- 0
+6: des- 0.0577645 pop- 46 req- 47
+20: des- 0.0570703 pop- 48 req- 0
+10: des- 0.0539241 pop- 57 req- 58
+9: des- 0.0534668 pop- 57 req- 58
+4: des- 0.051346 pop- 79 req- 80
+11: des- 0.0484464 pop- 20 req- 21
+17: des- 0.04795 pop- 60 req- 61
+3: des- 0.0474275 pop- 79 req- 80
+7: des- 0.044009 pop- 67 req- 68
+19: des- 0.0413055 pop- 48 req- 49
+21: des- 0.0411869 pop- 20 req- 21
+1: des- 0.0221742 pop- 30 req- 31
+
+moves:
+time: 0.001077
+sp 20 : 0.0570703 tp 2 : 0.22802
+time: 0.0011
+sp 22 : 0.0638493 tp 2 : 0.22802
+time: 0.001122
+reinforcements
+next
+orders: 1
+
+all done
+
+time: 0.001155
+
+
+making a move
+time: 0.000251
+counts
+time: 0.000393
+ships: 186, 35
+centre
+time: 0.000442
+get desires
+time: 0.000463
+sorting
+time: 0.000491
+logging
+time: 0.000518
+
+Mine:
+2: des- 0.227582 pop- 76 req- 0
+22: des- 0.0632072 pop- 58 req- 0
+20: des- 0.0573205 pop- 52 req- 0
+
+All:
+2: des- 0.227582 pop- 76 req- 0
+18: des- 0.174219 pop- 2 req- 3
+13: des- 0.119228 pop- 35 req- 36
+8: des- 0.11254 pop- 67 req- 68
+12: des- 0.10953 pop- 20 req- 21
+5: des- 0.102265 pop- 46 req- 47
+0: des- 0.0783734 pop- 128 req- 129
+16: des- 0.0707666 pop- 55 req- 56
+14: des- 0.0657566 pop- 35 req- 36
+15: des- 0.0646567 pop- 55 req- 56
+22: des- 0.0632072 pop- 58 req- 0
+6: des- 0.05784 pop- 46 req- 47
+20: des- 0.0573205 pop- 52 req- 0
+10: des- 0.0540278 pop- 57 req- 58
+9: des- 0.0534561 pop- 57 req- 58
+4: des- 0.0513465 pop- 79 req- 80
+11: des- 0.0484892 pop- 20 req- 21
+17: des- 0.0479813 pop- 60 req- 61
+3: des- 0.0475268 pop- 79 req- 80
+7: des- 0.0440349 pop- 67 req- 68
+19: des- 0.0413304 pop- 48 req- 49
+21: des- 0.0412082 pop- 20 req- 21
+1: des- 0.0220911 pop- 35 req- 36
+
+adjusting for fleets
+time: 0.000838
+
+adjusted:
+2: des- 0.227582 pop- 76 req- 0
+18: des- 0.174219 pop- 2 req- -5
+13: des- 0.119228 pop- 35 req- -6
+8: des- 0.11254 pop- 67 req- 68
+12: des- 0.10953 pop- 20 req- 21
+5: des- 0.102265 pop- 46 req- 47
+0: des- 0.0783734 pop- 128 req- 129
+16: des- 0.0707666 pop- 55 req- 56
+14: des- 0.0657566 pop- 35 req- 36
+15: des- 0.0646567 pop- 55 req- 56
+22: des- 0.0632072 pop- 58 req- 0
+6: des- 0.05784 pop- 46 req- 47
+20: des- 0.0573205 pop- 52 req- 0
+10: des- 0.0540278 pop- 57 req- 58
+9: des- 0.0534561 pop- 57 req- 58
+4: des- 0.0513465 pop- 79 req- 80
+11: des- 0.0484892 pop- 20 req- 21
+17: des- 0.0479813 pop- 60 req- 61
+3: des- 0.0475268 pop- 79 req- 80
+7: des- 0.0440349 pop- 67 req- 68
+19: des- 0.0413304 pop- 48 req- 49
+21: des- 0.0412082 pop- 20 req- 21
+1: des- 0.0220911 pop- 35 req- 36
+
+moves:
+time: 0.001143
+sp 20 : 0.0573205 tp 2 : 0.227582
+time: 0.001165
+reinforcements
+next
+sp 22 : 0.0632072 tp 18 : 0.174219
+time: 0.001199
+sending all ships needed
+order: 22=>18(-1)
+next
+sp 22 : 0.0632072 tp 13 : 0.119228
+time: 0.001242
+sending some ships
+order: 22=>13(9)
+dec ships tp send
+++iter
+done
+next
+orders: 3
+
+all done
+
+time: 0.001302
+
+
+making a move
+time: 0.000259
+counts
+time: 0.000308
+ships: 189, 40
+centre
+time: 0.000341
+get desires
+time: 0.000362
+sorting
+time: 0.000389
+logging
+time: 0.000416
+
+Mine:
+2: des- 0.230138 pop- 81 req- 0
+22: des- 0.0602394 pop- 52 req- 0
+20: des- 0.059941 pop- 56 req- 0
+
+All:
+2: des- 0.230138 pop- 81 req- 0
+18: des- 0.179026 pop- 2 req- 3
+13: des- 0.119582 pop- 35 req- 36
+8: des- 0.114852 pop- 67 req- 68
+12: des- 0.108086 pop- 20 req- 21
+5: des- 0.101571 pop- 46 req- 47
+0: des- 0.0787461 pop- 128 req- 129
+16: des- 0.0715016 pop- 55 req- 56
+14: des- 0.0660243 pop- 35 req- 36
+15: des- 0.0644469 pop- 55 req- 56
+22: des- 0.0602394 pop- 52 req- 0
+20: des- 0.059941 pop- 56 req- 0
+6: des- 0.0582041 pop- 46 req- 47
+10: des- 0.0545159 pop- 57 req- 58
+9: des- 0.0531985 pop- 57 req- 58
+4: des- 0.0510706 pop- 79 req- 80
+11: des- 0.048746 pop- 20 req- 21
+17: des- 0.0480168 pop- 60 req- 61
+3: des- 0.0479191 pop- 79 req- 80
+7: des- 0.0440183 pop- 67 req- 68
+19: des- 0.0413812 pop- 48 req- 49
+21: des- 0.0413244 pop- 20 req- 21
+1: des- 0.0220473 pop- 40 req- 41
+
+adjusting for fleets
+time: 0.001178
+
+adjusted:
+2: des- 0.230138 pop- 81 req- 0
+18: des- 0.179026 pop- 2 req- -5
+13: des- 0.119582 pop- 35 req- -15
+8: des- 0.114852 pop- 67 req- 68
+12: des- 0.108086 pop- 20 req- 21
+5: des- 0.101571 pop- 46 req- 47
+0: des- 0.0787461 pop- 128 req- 129
+16: des- 0.0715016 pop- 55 req- 56
+14: des- 0.0660243 pop- 35 req- 36
+15: des- 0.0644469 pop- 55 req- 56
+22: des- 0.0602394 pop- 52 req- 0
+20: des- 0.059941 pop- 56 req- 0
+6: des- 0.0582041 pop- 46 req- 47
+10: des- 0.0545159 pop- 57 req- 58
+9: des- 0.0531985 pop- 57 req- 58
+4: des- 0.0510706 pop- 79 req- 80
+11: des- 0.048746 pop- 20 req- 21
+17: des- 0.0480168 pop- 60 req- 61
+3: des- 0.0479191 pop- 79 req- 80
+7: des- 0.0440183 pop- 67 req- 68
+19: des- 0.0413812 pop- 48 req- 49
+21: des- 0.0413244 pop- 20 req- 21
+1: des- 0.0220473 pop- 40 req- 41
+
+moves:
+time: 0.001507
+sp 20 : 0.059941 tp 2 : 0.230138
+time: 0.00153
+reinforcements
+next
+sp 22 : 0.0602394 tp 18 : 0.179026
+time: 0.001564
+sending all ships needed
+order: 22=>18(-1)
+next
+sp 22 : 0.0602394 tp 13 : 0.119582
+time: 0.001606
+sending some ships
+order: 22=>13(3)
+dec ships tp send
+++iter
+done
+next
+orders: 3
+
+all done
+
+time: 0.00166
+
+
+making a move
+time: 0.000374
+counts
+time: 0.00042
+ships: 201, 45
+centre
+time: 0.000454
+get desires
+time: 0.000475
+sorting
+time: 0.000503
+logging
+time: 0.00053
+
+Mine:
+2: des- 0.228423 pop- 86 req- 0
+20: des- 0.0599961 pop- 60 req- 0
+22: des- 0.0599093 pop- 55 req- 0
+
+All:
+2: des- 0.228423 pop- 86 req- 0
+18: des- 0.179332 pop- 2 req- 3
+13: des- 0.119609 pop- 35 req- 36
+8: des- 0.115102 pop- 67 req- 68
+12: des- 0.107988 pop- 20 req- 21
+5: des- 0.101548 pop- 46 req- 47
+0: des- 0.0788774 pop- 128 req- 129
+16: des- 0.0715891 pop- 55 req- 56
+14: des- 0.0660566 pop- 35 req- 36
+15: des- 0.0644617 pop- 55 req- 56
+20: des- 0.0599961 pop- 60 req- 0
+22: des- 0.0599093 pop- 55 req- 0
+6: des- 0.0582519 pop- 46 req- 47
+10: des- 0.0545824 pop- 57 req- 58
+9: des- 0.0532092 pop- 57 req- 58
+4: des- 0.0510937 pop- 79 req- 80
+11: des- 0.0487692 pop- 20 req- 21
+17: des- 0.0480458 pop- 60 req- 61
+3: des- 0.0479885 pop- 79 req- 80
+7: des- 0.044046 pop- 67 req- 68
+19: des- 0.0414025 pop- 48 req- 49
+21: des- 0.041337 pop- 20 req- 21
+1: des- 0.0219649 pop- 45 req- 46
+
+adjusting for fleets
+time: 0.000854
+
+adjusted:
+2: des- 0.228423 pop- 86 req- 0
+18: des- 0.179332 pop- 2 req- -5
+13: des- 0.119609 pop- 35 req- -15
+8: des- 0.115102 pop- 67 req- 68
+12: des- 0.107988 pop- 20 req- 21
+5: des- 0.101548 pop- 46 req- 47
+0: des- 0.0788774 pop- 128 req- 129
+16: des- 0.0715891 pop- 55 req- 56
+14: des- 0.0660566 pop- 35 req- 36
+15: des- 0.0644617 pop- 55 req- 56
+20: des- 0.0599961 pop- 60 req- 0
+22: des- 0.0599093 pop- 55 req- 0
+6: des- 0.0582519 pop- 46 req- 47
+10: des- 0.0545824 pop- 57 req- 58
+9: des- 0.0532092 pop- 57 req- 58
+4: des- 0.0510937 pop- 79 req- 80
+11: des- 0.0487692 pop- 20 req- 21
+17: des- 0.0480458 pop- 60 req- 61
+3: des- 0.0479885 pop- 79 req- 80
+7: des- 0.044046 pop- 67 req- 68
+19: des- 0.0414025 pop- 48 req- 49
+21: des- 0.041337 pop- 20 req- 21
+1: des- 0.0219649 pop- 45 req- 46
+
+moves:
+time: 0.00116
+sp 22 : 0.0599093 tp 2 : 0.228423
+time: 0.001183
+reinforcements
+next
+sp 20 : 0.0599961 tp 18 : 0.179332
+time: 0.001217
+sending all ships needed
+order: 20=>18(-6)
+next
+sp 20 : 0.0599961 tp 13 : 0.119609
+time: 0.001259
+sending some ships
+order: 20=>13(16)
+dec ships tp send
+++iter
+done
+next
+orders: 3
+
+all done
+
+time: 0.00132
+
+
+making a move
+time: 0.000376
+counts
+time: 0.000468
+ships: 203, 50
+centre
+time: 0.000505
+get desires
+time: 0.000527
+sorting
+time: 0.000555
+logging
+time: 0.000583
+
+Mine:
+2: des- 0.277676 pop- 91 req- 0
+22: des- 0.0610107 pop- 58 req- 0
+20: des- 0.0584067 pop- 48 req- 0
+18: des- 0.0356724 pop- 6 req- 0
+
+All:
+2: des- 0.277676 pop- 91 req- 0
+13: des- 0.121677 pop- 35 req- 36
+8: des- 0.114258 pop- 67 req- 68
+12: des- 0.109834 pop- 20 req- 21
+5: des- 0.103351 pop- 46 req- 47
+0: des- 0.0797798 pop- 128 req- 129
+16: des- 0.0717566 pop- 55 req- 56
+14: des- 0.0665821 pop- 35 req- 36
+15: des- 0.0651898 pop- 55 req- 56
+22: des- 0.0610107 pop- 58 req- 0
+6: des- 0.0585274 pop- 46 req- 47
+20: des- 0.0584067 pop- 48 req- 0
+10: des- 0.0545726 pop- 57 req- 58
+9: des- 0.053706 pop- 57 req- 58
+4: des- 0.0515549 pop- 79 req- 80
+11: des- 0.0489413 pop- 20 req- 21
+17: des- 0.0484088 pop- 60 req- 61
+3: des- 0.0479876 pop- 79 req- 80
+7: des- 0.0443749 pop- 67 req- 68
+19: des- 0.0416551 pop- 48 req- 49
+21: des- 0.0415289 pop- 20 req- 21
+18: des- 0.0356724 pop- 6 req- 0
+1: des- 0.0219978 pop- 50 req- 51
+
+adjusting for fleets
+time: 0.00343
+
+adjusted:
+2: des- 0.277676 pop- 91 req- 0
+13: des- 0.121677 pop- 35 req- -31
+8: des- 0.114258 pop- 67 req- 68
+12: des- 0.109834 pop- 20 req- 21
+5: des- 0.103351 pop- 46 req- 47
+0: des- 0.0797798 pop- 128 req- 129
+16: des- 0.0717566 pop- 55 req- 56
+14: des- 0.0665821 pop- 35 req- 36
+15: des- 0.0651898 pop- 55 req- 56
+22: des- 0.0610107 pop- 58 req- 0
+6: des- 0.0585274 pop- 46 req- 47
+20: des- 0.0584067 pop- 48 req- 0
+10: des- 0.0545726 pop- 57 req- 58
+9: des- 0.053706 pop- 57 req- 58
+4: des- 0.0515549 pop- 79 req- 80
+11: des- 0.0489413 pop- 20 req- 21
+17: des- 0.0484088 pop- 60 req- 61
+3: des- 0.0479876 pop- 79 req- 80
+7: des- 0.0443749 pop- 67 req- 68
+19: des- 0.0416551 pop- 48 req- 49
+21: des- 0.0415289 pop- 20 req- 21
+18: des- 0.0356724 pop- 6 req- 0
+1: des- 0.0219978 pop- 50 req- 51
+
+moves:
+time: 0.003777
+sp 18 : 0.0356724 tp 2 : 0.277676
+time: 0.0038
+sp 20 : 0.0584067 tp 2 : 0.277676
+time: 0.003821
+sp 22 : 0.0610107 tp 2 : 0.277676
+time: 0.003842
+reinforcements
+next
+orders: 1
+
+all done
+
+time: 0.003875
+
+
+making a move
+time: 0.000278
+counts
+time: 0.000327
+ships: 216, 5
+centre
+time: 0.000363
+get desires
+time: 0.000384
+sorting
+time: 0.000436
+logging
+time: 0.000565
+
+Mine:
+2: des- 0.275613 pop- 96 req- 0
+22: des- 0.0600407 pop- 61 req- 0
+20: des- 0.0587785 pop- 52 req- 0
+18: des- 0.0358627 pop- 7 req- 0
+
+All:
+2: des- 0.275613 pop- 96 req- 0
+13: des- 0.121634 pop- 35 req- 36
+8: des- 0.114607 pop- 67 req- 68
+12: des- 0.109428 pop- 20 req- 21
+5: des- 0.103054 pop- 46 req- 47
+0: des- 0.0795931 pop- 128 req- 129
+16: des- 0.0718284 pop- 55 req- 56
+14: des- 0.0665826 pop- 35 req- 36
+15: des- 0.0650465 pop- 55 req- 56
+22: des- 0.0600407 pop- 61 req- 0
+20: des- 0.0587785 pop- 52 req- 0
+6: des- 0.0585435 pop- 46 req- 47
+10: des- 0.0546087 pop- 57 req- 58
+9: des- 0.0535675 pop- 57 req- 58
+4: des- 0.0513865 pop- 79 req- 80
+11: des- 0.0489752 pop- 20 req- 21
+17: des- 0.0483424 pop- 60 req- 61
+3: des- 0.0479834 pop- 79 req- 80
+7: des- 0.0442949 pop- 67 req- 68
+19: des- 0.0416159 pop- 48 req- 49
+21: des- 0.0415339 pop- 20 req- 21
+18: des- 0.0358627 pop- 7 req- 0
+1: des- 0.0228458 pop- 5 req- 6
+
+adjusting for fleets
+time: 0.001768
+
+adjusted:
+2: des- 0.275613 pop- 96 req- 0
+13: des- 0.121634 pop- 35 req- -31
+8: des- 0.114607 pop- 67 req- 68
+12: des- 0.109428 pop- 20 req- 21
+5: des- 0.103054 pop- 46 req- 47
+0: des- 0.0795931 pop- 128 req- 129
+16: des- 0.0718284 pop- 55 req- 56
+14: des- 0.0665826 pop- 35 req- 36
+15: des- 0.0650465 pop- 55 req- 56
+22: des- 0.0600407 pop- 61 req- 0
+20: des- 0.0587785 pop- 52 req- 0
+6: des- 0.0585435 pop- 46 req- 47
+10: des- 0.0546087 pop- 57 req- 58
+9: des- 0.0535675 pop- 57 req- 58
+4: des- 0.0513865 pop- 79 req- 80
+11: des- 0.0489752 pop- 20 req- 21
+17: des- 0.0483424 pop- 60 req- 61
+3: des- 0.0479834 pop- 79 req- 80
+7: des- 0.0442949 pop- 67 req- 68
+19: des- 0.0416159 pop- 48 req- 49
+21: des- 0.0415339 pop- 20 req- 21
+18: des- 0.0358627 pop- 7 req- 0
+1: des- 0.0228458 pop- 5 req- 6
+
+moves:
+time: 0.002079
+sp 18 : 0.0358627 tp 2 : 0.275613
+time: 0.002102
+sp 20 : 0.0587785 tp 2 : 0.275613
+time: 0.002124
+reinforcements
+next
+sp 22 : 0.0600407 tp 13 : 0.121634
+time: 0.002159
+sending all ships needed
+order: 22=>13(-12)
+next
+sp 22 : 0.0600407 tp 8 : 0.114607
+time: 0.002202
+sending some ships
+order: 22=>8(23)
+dec ships tp send
+++iter
+done
+next
+orders: 3
+
+all done
+
+time: 0.002267
+
+
+making a move
+time: 0.000263
+counts
+time: 0.000308
+ships: 156, 10
+centre
+time: 0.000342
+get desires
+time: 0.000363
+sorting
+time: 0.00039
+logging
+time: 0.000417
+
+Mine:
+2: des- 0.19168 pop- 51 req- 0
+20: des- 0.070151 pop- 56 req- 0
+22: des- 0.0525178 pop- 41 req- 0
+18: des- 0.0386164 pop- 8 req- 0
+
+All:
+2: des- 0.19168 pop- 51 req- 0
+13: des- 0.121581 pop- 15 req- 16
+8: des- 0.121556 pop- 67 req- 68
+12: des- 0.103458 pop- 20 req- 21
+5: des- 0.0986618 pop- 46 req- 47
+0: des- 0.0785807 pop- 128 req- 129
+16: des- 0.073265 pop- 55 req- 56
+20: des- 0.070151 pop- 56 req- 0
+14: des- 0.0664114 pop- 35 req- 36
+15: des- 0.0633322 pop- 55 req- 56
+6: des- 0.0589375 pop- 46 req- 47
+10: des- 0.0556876 pop- 57 req- 58
+22: des- 0.0525178 pop- 41 req- 0
+9: des- 0.0520839 pop- 57 req- 58
+4: des- 0.0498349 pop- 79 req- 80
+11: des- 0.0493489 pop- 20 req- 21
+3: des- 0.048742 pop- 79 req- 80
+17: des- 0.0477591 pop- 60 req- 61
+7: des- 0.0436217 pop- 67 req- 68
+21: des- 0.0415263 pop- 20 req- 21
+19: des- 0.0412806 pop- 48 req- 49
+18: des- 0.0386164 pop- 8 req- 0
+1: des- 0.0226928 pop- 10 req- 11
+
+adjusting for fleets
+time: 0.000749
+
+adjusted:
+2: des- 0.19168 pop- 51 req- 0
+13: des- 0.121581 pop- 15 req- -31
+8: des- 0.121556 pop- 67 req- 45
+12: des- 0.103458 pop- 20 req- 21
+5: des- 0.0986618 pop- 46 req- 47
+0: des- 0.0785807 pop- 128 req- 129
+16: des- 0.073265 pop- 55 req- 56
+20: des- 0.070151 pop- 56 req- 0
+14: des- 0.0664114 pop- 35 req- 36
+15: des- 0.0633322 pop- 55 req- 56
+6: des- 0.0589375 pop- 46 req- 47
+10: des- 0.0556876 pop- 57 req- 58
+22: des- 0.0525178 pop- 41 req- 0
+9: des- 0.0520839 pop- 57 req- 58
+4: des- 0.0498349 pop- 79 req- 80
+11: des- 0.0493489 pop- 20 req- 21
+3: des- 0.048742 pop- 79 req- 80
+17: des- 0.0477591 pop- 60 req- 61
+7: des- 0.0436217 pop- 67 req- 68
+21: des- 0.0415263 pop- 20 req- 21
+19: des- 0.0412806 pop- 48 req- 49
+18: des- 0.0386164 pop- 8 req- 0
+1: des- 0.0226928 pop- 10 req- 11
+
+moves:
+time: 0.001078
+sp 18 : 0.0386164 tp 2 : 0.19168
+time: 0.001101
+sp 22 : 0.0525178 tp 2 : 0.19168
+time: 0.001122
+sp 20 : 0.070151 tp 2 : 0.19168
+time: 0.001143
+reinforcements
+order: 20=>2(2)
+next
+orders: 1
+
+all done
+
+time: 0.001183
+
+
+making a move
+time: 0.000274
+counts
+time: 0.000331
+ships: 169, 15
+centre
+time: 0.000367
+get desires
+time: 0.000388
+sorting
+time: 0.000416
+logging
+time: 0.000444
+
+Mine:
+2: des- 0.192355 pop- 56 req- 0
+20: des- 0.069969 pop- 60 req- 0
+22: des- 0.0523167 pop- 44 req- 0
+18: des- 0.0386675 pop- 9 req- 0
+
+All:
+2: des- 0.192355 pop- 56 req- 0
+13: des- 0.121798 pop- 15 req- 16
+8: des- 0.12179 pop- 67 req- 68
+12: des- 0.103526 pop- 20 req- 21
+5: des- 0.0988124 pop- 46 req- 47
+0: des- 0.0788347 pop- 128 req- 129
+16: des- 0.0733949 pop- 55 req- 56
+20: des- 0.069969 pop- 60 req- 0
+14: des- 0.0665073 pop- 35 req- 36
+15: des- 0.0634236 pop- 55 req- 56
+6: des- 0.0590268 pop- 46 req- 47
+10: des- 0.0557699 pop- 57 req- 58
+22: des- 0.0523167 pop- 44 req- 0
+9: des- 0.0521468 pop- 57 req- 58
+4: des- 0.0499086 pop- 79 req- 80
+11: des- 0.0493966 pop- 20 req- 21
+3: des- 0.048828 pop- 79 req- 80
+17: des- 0.0478318 pop- 60 req- 61
+7: des- 0.0436888 pop- 67 req- 68
+21: des- 0.0415624 pop- 20 req- 21
+19: des- 0.0413329 pop- 48 req- 49
+18: des- 0.0386675 pop- 9 req- 0
+1: des- 0.0226094 pop- 15 req- 16
+
+adjusting for fleets
+time: 0.001331
+
+adjusted:
+2: des- 0.192355 pop- 56 req- 0
+13: des- 0.121798 pop- 15 req- -31
+8: des- 0.12179 pop- 67 req- 45
+12: des- 0.103526 pop- 20 req- 21
+5: des- 0.0988124 pop- 46 req- 47
+0: des- 0.0788347 pop- 128 req- 129
+16: des- 0.0733949 pop- 55 req- 56
+20: des- 0.069969 pop- 60 req- 0
+14: des- 0.0665073 pop- 35 req- 36
+15: des- 0.0634236 pop- 55 req- 56
+6: des- 0.0590268 pop- 46 req- 47
+10: des- 0.0557699 pop- 57 req- 58
+22: des- 0.0523167 pop- 44 req- 0
+9: des- 0.0521468 pop- 57 req- 58
+4: des- 0.0499086 pop- 79 req- 80
+11: des- 0.0493966 pop- 20 req- 21
+3: des- 0.048828 pop- 79 req- 80
+17: des- 0.0478318 pop- 60 req- 61
+7: des- 0.0436888 pop- 67 req- 68
+21: des- 0.0415624 pop- 20 req- 21
+19: des- 0.0413329 pop- 48 req- 49
+18: des- 0.0386675 pop- 9 req- 0
+1: des- 0.0226094 pop- 15 req- 16
+
+moves:
+time: 0.001635
+sp 18 : 0.0386675 tp 2 : 0.192355
+time: 0.001657
+sp 22 : 0.0523167 tp 2 : 0.192355
+time: 0.001679
+sp 20 : 0.069969 tp 2 : 0.192355
+time: 0.0017
+reinforcements
+order: 20=>2(2)
+next
+orders: 1
+
+all done
+
+time: 0.001741
+
+
+making a move
+time: 0.000256
+counts
+time: 0.0003
+ships: 182, 20
+centre
+time: 0.000335
+get desires
+time: 0.000356
+sorting
+time: 0.000383
+logging
+time: 0.000411
+
+Mine:
+2: des- 0.192743 pop- 61 req- 0
+20: des- 0.0697533 pop- 64 req- 0
+22: des- 0.0521126 pop- 47 req- 0
+18: des- 0.0387051 pop- 10 req- 0
+
+All:
+2: des- 0.192743 pop- 61 req- 0
+13: des- 0.123051 pop- 5 req- 6
+8: des- 0.121939 pop- 67 req- 68
+12: des- 0.103571 pop- 20 req- 21
+5: des- 0.0989134 pop- 46 req- 47
+0: des- 0.0789849 pop- 128 req- 129
+16: des- 0.0734811 pop- 55 req- 56
+20: des- 0.0697533 pop- 64 req- 0
+14: des- 0.0665754 pop- 35 req- 36
+15: des- 0.0634801 pop- 55 req- 56
+6: des- 0.0590866 pop- 46 req- 47
+10: des- 0.0558205 pop- 57 req- 58
+9: des- 0.052182 pop- 57 req- 58
+22: des- 0.0521126 pop- 47 req- 0
+4: des- 0.0499465 pop- 79 req- 80
+11: des- 0.0494316 pop- 20 req- 21
+3: des- 0.048877 pop- 79 req- 80
+17: des- 0.0478762 pop- 60 req- 61
+7: des- 0.0437278 pop- 67 req- 68
+21: des- 0.0415883 pop- 20 req- 21
+19: des- 0.0413654 pop- 48 req- 49
+18: des- 0.0387051 pop- 10 req- 0
+1: des- 0.0225235 pop- 20 req- 21
+
+adjusting for fleets
+time: 0.001023
+
+adjusted:
+2: des- 0.192743 pop- 61 req- 0
+13: des- 0.123051 pop- 5 req- -31
+8: des- 0.121939 pop- 67 req- 45
+12: des- 0.103571 pop- 20 req- 21
+5: des- 0.0989134 pop- 46 req- 47
+0: des- 0.0789849 pop- 128 req- 129
+16: des- 0.0734811 pop- 55 req- 56
+20: des- 0.0697533 pop- 64 req- 0
+14: des- 0.0665754 pop- 35 req- 36
+15: des- 0.0634801 pop- 55 req- 56
+6: des- 0.0590866 pop- 46 req- 47
+10: des- 0.0558205 pop- 57 req- 58
+9: des- 0.052182 pop- 57 req- 58
+22: des- 0.0521126 pop- 47 req- 0
+4: des- 0.0499465 pop- 79 req- 80
+11: des- 0.0494316 pop- 20 req- 21
+3: des- 0.048877 pop- 79 req- 80
+17: des- 0.0478762 pop- 60 req- 61
+7: des- 0.0437278 pop- 67 req- 68
+21: des- 0.0415883 pop- 20 req- 21
+19: des- 0.0413654 pop- 48 req- 49
+18: des- 0.0387051 pop- 10 req- 0
+1: des- 0.0225235 pop- 20 req- 21
+
+moves:
+time: 0.005103
+sp 18 : 0.0387051 tp 2 : 0.192743
+time: 0.005128
+sp 22 : 0.0521126 tp 2 : 0.192743
+time: 0.00515
+sp 20 : 0.0697533 tp 2 : 0.192743
+time: 0.005172
+reinforcements
+order: 20=>2(1)
+next
+orders: 1
+
+all done
+
+time: 0.005213
+
+
+making a move
+time: 0.000276
+counts
+time: 0.000335
+ships: 202, 25
+centre
+time: 0.000371
+get desires
+time: 0.000394
+sorting
+time: 0.000423
+logging
+time: 0.000454
+
+Mine:
+2: des- 0.244948 pop- 66 req- 0
+20: des- 0.066869 pop- 68 req- 0
+22: des- 0.0514928 pop- 50 req- 0
+18: des- 0.0397211 pop- 11 req- 0
+13: des- 0.0254814 pop- 7 req- 0
+
+All:
+2: des- 0.244948 pop- 66 req- 0
+8: des- 0.122677 pop- 67 req- 68
+12: des- 0.105483 pop- 20 req- 21
+5: des- 0.101563 pop- 46 req- 47
+0: des- 0.0812232 pop- 128 req- 129
+16: des- 0.0746499 pop- 55 req- 56
+14: des- 0.067924 pop- 35 req- 36
+20: des- 0.066869 pop- 68 req- 0
+15: des- 0.0646637 pop- 55 req- 56
+6: des- 0.0600457 pop- 46 req- 47
+10: des- 0.0563274 pop- 57 req- 58
+9: des- 0.0528734 pop- 57 req- 58
+22: des- 0.0514928 pop- 50 req- 0
+4: des- 0.0505541 pop- 79 req- 80
+11: des- 0.0500544 pop- 20 req- 21
+3: des- 0.0492989 pop- 79 req- 80
+17: des- 0.0486316 pop- 60 req- 61
+7: des- 0.0443584 pop- 67 req- 68
+21: des- 0.0420937 pop- 20 req- 21
+19: des- 0.0419201 pop- 48 req- 49
+18: des- 0.0397211 pop- 11 req- 0
+13: des- 0.0254814 pop- 7 req- 0
+1: des- 0.0227289 pop- 25 req- 26
+
+adjusting for fleets
+time: 0.000804
+
+adjusted:
+2: des- 0.244948 pop- 66 req- 0
+8: des- 0.122677 pop- 67 req- 45
+12: des- 0.105483 pop- 20 req- 21
+5: des- 0.101563 pop- 46 req- 47
+0: des- 0.0812232 pop- 128 req- 129
+16: des- 0.0746499 pop- 55 req- 56
+14: des- 0.067924 pop- 35 req- 36
+20: des- 0.066869 pop- 68 req- 0
+15: des- 0.0646637 pop- 55 req- 56
+6: des- 0.0600457 pop- 46 req- 47
+10: des- 0.0563274 pop- 57 req- 58
+9: des- 0.0528734 pop- 57 req- 58
+22: des- 0.0514928 pop- 50 req- 0
+4: des- 0.0505541 pop- 79 req- 80
+11: des- 0.0500544 pop- 20 req- 21
+3: des- 0.0492989 pop- 79 req- 80
+17: des- 0.0486316 pop- 60 req- 61
+7: des- 0.0443584 pop- 67 req- 68
+21: des- 0.0420937 pop- 20 req- 21
+19: des- 0.0419201 pop- 48 req- 49
+18: des- 0.0397211 pop- 11 req- 0
+13: des- 0.0254814 pop- 7 req- -25
+1: des- 0.0227289 pop- 25 req- 26
+
+moves:
+time: 0.001114
+sp 13 : 0.0254814 tp 2 : 0.244948
+time: 0.001138
+sp 18 : 0.0397211 tp 2 : 0.244948
+time: 0.00116
+sp 22 : 0.0514928 tp 2 : 0.244948
+time: 0.001182
+reinforcements
+next
+sp 20 : 0.066869 tp 8 : 0.122677
+time: 0.001217
+sending some ships
+order: 20=>8(18)
+dec ships tp send
+++iter
+done
+next
+orders: 2
+
+all done
+
+time: 0.001283
+
+
+making a move
+time: 0.000272
+counts
+time: 0.000328
+ships: 202, 30
+centre
+time: 0.000363
+get desires
+time: 0.000385
+sorting
+time: 0.000413
+logging
+time: 0.000441
+
+Mine:
+2: des- 0.450343 pop- 71 req- 0
+20: des- 0.0605951 pop- 54 req- 0
+22: des- 0.0536828 pop- 53 req- 0
+18: des- 0.0390007 pop- 12 req- 0
+13: des- 0.0263496 pop- 12 req- 0
+
+All:
+2: des- 0.450343 pop- 71 req- 0
+8: des- 0.119622 pop- 67 req- 68
+12: des- 0.109621 pop- 20 req- 21
+5: des- 0.105664 pop- 46 req- 47
+0: des- 0.0831549 pop- 128 req- 129
+16: des- 0.0747463 pop- 55 req- 56
+14: des- 0.0690179 pop- 35 req- 36
+15: des- 0.0662907 pop- 55 req- 56
+20: des- 0.0605951 pop- 54 req- 0
+6: des- 0.0605324 pop- 46 req- 47
+10: des- 0.056115 pop- 57 req- 58
+9: des- 0.0539873 pop- 57 req- 58
+22: des- 0.0536828 pop- 53 req- 0
+4: des- 0.0515867 pop- 79 req- 80
+11: des- 0.0503444 pop- 20 req- 21
+17: des- 0.0494069 pop- 60 req- 61
+3: des- 0.0491437 pop- 79 req- 80
+7: des- 0.0450679 pop- 67 req- 68
+21: des- 0.0424733 pop- 20 req- 21
+19: des- 0.0424491 pop- 48 req- 49
+18: des- 0.0390007 pop- 12 req- 0
+13: des- 0.0263496 pop- 12 req- 0
+1: des- 0.0228895 pop- 30 req- 31
+
+adjusting for fleets
+time: 0.00148
+
+adjusted:
+2: des- 0.450343 pop- 71 req- 0
+8: des- 0.119622 pop- 67 req- 27
+12: des- 0.109621 pop- 20 req- 21
+5: des- 0.105664 pop- 46 req- 47
+0: des- 0.0831549 pop- 128 req- 129
+16: des- 0.0747463 pop- 55 req- 56
+14: des- 0.0690179 pop- 35 req- 36
+15: des- 0.0662907 pop- 55 req- 56
+20: des- 0.0605951 pop- 54 req- 0
+6: des- 0.0605324 pop- 46 req- 47
+10: des- 0.056115 pop- 57 req- 58
+9: des- 0.0539873 pop- 57 req- 58
+22: des- 0.0536828 pop- 53 req- 0
+4: des- 0.0515867 pop- 79 req- 80
+11: des- 0.0503444 pop- 20 req- 21
+17: des- 0.0494069 pop- 60 req- 61
+3: des- 0.0491437 pop- 79 req- 80
+7: des- 0.0450679 pop- 67 req- 68
+21: des- 0.0424733 pop- 20 req- 21
+19: des- 0.0424491 pop- 48 req- 49
+18: des- 0.0390007 pop- 12 req- 0
+13: des- 0.0263496 pop- 12 req- -25
+1: des- 0.0228895 pop- 30 req- 31
+
+moves:
+time: 0.001783
+sp 13 : 0.0263496 tp 2 : 0.450343
+time: 0.001805
+sp 18 : 0.0390007 tp 2 : 0.450343
+time: 0.001827
+sp 22 : 0.0536828 tp 2 : 0.450343
+time: 0.001848
+reinforcements
+next
+sp 20 : 0.0605951 tp 8 : 0.119622
+time: 0.001882
+sending some ships
+order: 20=>8(4)
+dec ships tp send
+++iter
+done
+next
+orders: 2
+
+all done
+
+time: 0.001939
+
+
+making a move
+time: 0.000375
+counts
+time: 0.000426
+ships: 229, 35
+centre
+time: 0.000462
+get desires
+time: 0.000484
+sorting
+time: 0.000512
+logging
+time: 0.000541
+
+Mine:
+2: des- 0.41933 pop- 76 req- 0
+20: des- 0.0567405 pop- 58 req- 0
+22: des- 0.0513491 pop- 56 req- 0
+18: des- 0.0403281 pop- 13 req- 0
+13: des- 0.0276469 pop- 26 req- 0
+
+All:
+2: des- 0.41933 pop- 76 req- 0
+8: des- 0.120484 pop- 67 req- 68
+12: des- 0.112403 pop- 20 req- 21
+5: des- 0.11005 pop- 46 req- 47
+0: des- 0.0869301 pop- 128 req- 129
+16: des- 0.0765831 pop- 55 req- 56
+14: des- 0.0712309 pop- 35 req- 36
+15: des- 0.0681874 pop- 55 req- 56
+6: des- 0.0620738 pop- 46 req- 47
+10: des- 0.0569054 pop- 57 req- 58
+20: des- 0.0567405 pop- 58 req- 0
+9: des- 0.0550406 pop- 57 req- 58
+4: des- 0.052494 pop- 79 req- 80
+22: des- 0.0513491 pop- 56 req- 0
+11: des- 0.0513374 pop- 20 req- 21
+17: des- 0.0506184 pop- 60 req- 61
+3: des- 0.0498046 pop- 79 req- 80
+7: des- 0.0460678 pop- 67 req- 68
+19: des- 0.0433317 pop- 48 req- 49
+21: des- 0.0432784 pop- 20 req- 21
+18: des- 0.0403281 pop- 13 req- 0
+13: des- 0.0276469 pop- 26 req- 0
+1: des- 0.0232789 pop- 35 req- 36
+
+adjusting for fleets
+time: 0.001144
+
+adjusted:
+2: des- 0.41933 pop- 76 req- 0
+8: des- 0.120484 pop- 67 req- 27
+12: des- 0.112403 pop- 20 req- 21
+5: des- 0.11005 pop- 46 req- 47
+0: des- 0.0869301 pop- 128 req- 129
+16: des- 0.0765831 pop- 55 req- 56
+14: des- 0.0712309 pop- 35 req- 36
+15: des- 0.0681874 pop- 55 req- 56
+6: des- 0.0620738 pop- 46 req- 47
+10: des- 0.0569054 pop- 57 req- 58
+20: des- 0.0567405 pop- 58 req- 0
+9: des- 0.0550406 pop- 57 req- 58
+4: des- 0.052494 pop- 79 req- 80
+22: des- 0.0513491 pop- 56 req- 0
+11: des- 0.0513374 pop- 20 req- 21
+17: des- 0.0506184 pop- 60 req- 61
+3: des- 0.0498046 pop- 79 req- 80
+7: des- 0.0460678 pop- 67 req- 68
+19: des- 0.0433317 pop- 48 req- 49
+21: des- 0.0432784 pop- 20 req- 21
+18: des- 0.0403281 pop- 13 req- 0
+13: des- 0.0276469 pop- 26 req- -16
+1: des- 0.0232789 pop- 35 req- 36
+
+moves:
+time: 0.001447
+sp 13 : 0.0276469 tp 2 : 0.41933
+time: 0.001469
+sp 18 : 0.0403281 tp 2 : 0.41933
+time: 0.001491
+sp 22 : 0.0513491 tp 2 : 0.41933
+time: 0.001513
+reinforcements
+next
+sp 20 : 0.0567405 tp 8 : 0.120484
+time: 0.001547
+sending some ships
+order: 20=>8(8)
+dec ships tp send
+++iter
+done
+next
+orders: 2
+
+all done
+
+time: 0.00161
+
+
+making a move
+time: 0.000268
+counts
+time: 0.000312
+ships: 239, 40
+centre
+time: 0.000345
+get desires
+time: 0.000367
+sorting
+time: 0.000393
+logging
+time: 0.000511
+
+Mine:
+2: des- 0.374478 pop- 81 req- 0
+20: des- 0.0544159 pop- 54 req- 0
+22: des- 0.0513444 pop- 59 req- 0
+18: des- 0.0400867 pop- 14 req- 0
+13: des- 0.0281883 pop- 31 req- 0
+
+All:
+2: des- 0.374478 pop- 81 req- 0
+8: des- 0.119434 pop- 67 req- 68
+12: des- 0.114402 pop- 20 req- 21
+5: des- 0.112409 pop- 46 req- 47
+0: des- 0.0883276 pop- 128 req- 129
+16: des- 0.0768739 pop- 55 req- 56
+14: des- 0.0719875 pop- 35 req- 36
+15: des- 0.0691233 pop- 55 req- 56
+6: des- 0.0624871 pop- 46 req- 47
+10: des- 0.0569449 pop- 57 req- 58
+9: des- 0.0556332 pop- 57 req- 58
+20: des- 0.0544159 pop- 54 req- 0
+4: des- 0.053037 pop- 79 req- 80
+11: des- 0.0515886 pop- 20 req- 21
+22: des- 0.0513444 pop- 59 req- 0
+17: des- 0.0511094 pop- 60 req- 61
+3: des- 0.0498561 pop- 79 req- 80
+7: des- 0.0465019 pop- 67 req- 68
+19: des- 0.0436716 pop- 48 req- 49
+21: des- 0.0435404 pop- 20 req- 21
+18: des- 0.0400867 pop- 14 req- 0
+13: des- 0.0281883 pop- 31 req- 0
+1: des- 0.023353 pop- 40 req- 41
+
+adjusting for fleets
+time: 0.00085
+
+adjusted:
+2: des- 0.374478 pop- 81 req- 0
+8: des- 0.119434 pop- 67 req- 19
+12: des- 0.114402 pop- 20 req- 21
+5: des- 0.112409 pop- 46 req- 47
+0: des- 0.0883276 pop- 128 req- 129
+16: des- 0.0768739 pop- 55 req- 56
+14: des- 0.0719875 pop- 35 req- 36
+15: des- 0.0691233 pop- 55 req- 56
+6: des- 0.0624871 pop- 46 req- 47
+10: des- 0.0569449 pop- 57 req- 58
+9: des- 0.0556332 pop- 57 req- 58
+20: des- 0.0544159 pop- 54 req- 0
+4: des- 0.053037 pop- 79 req- 80
+11: des- 0.0515886 pop- 20 req- 21
+22: des- 0.0513444 pop- 59 req- 0
+17: des- 0.0511094 pop- 60 req- 61
+3: des- 0.0498561 pop- 79 req- 80
+7: des- 0.0465019 pop- 67 req- 68
+19: des- 0.0436716 pop- 48 req- 49
+21: des- 0.0435404 pop- 20 req- 21
+18: des- 0.0400867 pop- 14 req- 0
+13: des- 0.0281883 pop- 31 req- -16
+1: des- 0.023353 pop- 40 req- 41
+
+moves:
+time: 0.003203
+sp 13 : 0.0281883 tp 2 : 0.374478
+time: 0.003226
+sp 18 : 0.0400867 tp 2 : 0.374478
+time: 0.003248
+sp 22 : 0.0513444 tp 2 : 0.374478
+time: 0.003269
+reinforcements
+next
+sp 20 : 0.0544159 tp 8 : 0.119434
+time: 0.003302
+sending some ships
+order: 20=>8(4)
+dec ships tp send
+++iter
+done
+next
+orders: 2
+
+all done
+
+time: 0.003359
+
+
+making a move
+time: 0.000255
+counts
+time: 0.000305
+ships: 273, 45
+centre
+time: 0.000339
+get desires
+time: 0.000361
+sorting
+time: 0.000389
+logging
+time: 0.000417
+
+Mine:
+2: des- 0.198878 pop- 86 req- 0
+20: des- 0.0502577 pop- 58 req- 0
+22: des- 0.0481023 pop- 62 req- 0
+18: des- 0.0411978 pop- 15 req- 0
+13: des- 0.02981 pop- 52 req- 0
+
+All:
+2: des- 0.198878 pop- 86 req- 0
+8: des- 0.119857 pop- 67 req- 68
+5: des- 0.11777 pop- 46 req- 47
+12: des- 0.117387 pop- 20 req- 21
+0: des- 0.0930484 pop- 128 req- 129
+16: des- 0.078948 pop- 55 req- 56
+14: des- 0.0746643 pop- 35 req- 36
+15: des- 0.0713868 pop- 55 req- 56
+6: des- 0.0642942 pop- 46 req- 47
+10: des- 0.0578062 pop- 57 req- 58
+9: des- 0.0568419 pop- 57 req- 58
+4: des- 0.0540632 pop- 79 req- 80
+11: des- 0.0527382 pop- 20 req- 21
+17: des- 0.0525484 pop- 60 req- 61
+3: des- 0.0505819 pop- 79 req- 80
+20: des- 0.0502577 pop- 58 req- 0
+22: des- 0.0481023 pop- 62 req- 0
+7: des- 0.0476801 pop- 67 req- 68
+19: des- 0.0447094 pop- 48 req- 49
+21: des- 0.0444806 pop- 20 req- 21
+18: des- 0.0411978 pop- 15 req- 0
+13: des- 0.02981 pop- 52 req- 0
+1: des- 0.0238321 pop- 45 req- 46
+
+adjusting for fleets
+time: 0.000923
+
+adjusted:
+2: des- 0.198878 pop- 86 req- 0
+8: des- 0.119857 pop- 67 req- 19
+5: des- 0.11777 pop- 46 req- 47
+12: des- 0.117387 pop- 20 req- 21
+0: des- 0.0930484 pop- 128 req- 129
+16: des- 0.078948 pop- 55 req- 56
+14: des- 0.0746643 pop- 35 req- 36
+15: des- 0.0713868 pop- 55 req- 56
+6: des- 0.0642942 pop- 46 req- 47
+10: des- 0.0578062 pop- 57 req- 58
+9: des- 0.0568419 pop- 57 req- 58
+4: des- 0.0540632 pop- 79 req- 80
+11: des- 0.0527382 pop- 20 req- 21
+17: des- 0.0525484 pop- 60 req- 61
+3: des- 0.0505819 pop- 79 req- 80
+20: des- 0.0502577 pop- 58 req- 0
+22: des- 0.0481023 pop- 62 req- 0
+7: des- 0.0476801 pop- 67 req- 68
+19: des- 0.0447094 pop- 48 req- 49
+21: des- 0.0444806 pop- 20 req- 21
+18: des- 0.0411978 pop- 15 req- 0
+13: des- 0.02981 pop- 52 req- 0
+1: des- 0.0238321 pop- 45 req- 46
+
+moves:
+time: 0.004673
+sp 13 : 0.02981 tp 2 : 0.198878
+time: 0.004696
+reinforcements
+next
+sp 18 : 0.0411978 tp 8 : 0.119857
+time: 0.004731
+sp 22 : 0.0481023 tp 8 : 0.119857
+time: 0.004752
+sending some ships
+order: 22=>8(12)
+dec ships tp send
+++iter
+done
+next
+sp 20 : 0.0502577 tp 8 : 0.119857
+time: 0.004822
+sending some ships
+order: 20=>8(8)
+dec ships tp send
+++iter
+done
+next
+orders: 3
+
+all done
+
+time: 0.00488
+
+
+making a move
+time: 0.000285
+counts
+time: 0.000347
+ships: 271, 50
+centre
+time: 0.000385
+get desires
+time: 0.000407
+sorting
+time: 0.000437
+logging
+time: 0.000467
+
+Mine:
+2: des- 0.159529 pop- 91 req- 0
+20: des- 0.0493443 pop- 54 req- 0
+22: des- 0.0463374 pop- 53 req- 0
+18: des- 0.0421957 pop- 16 req- 0
+13: des- 0.0306955 pop- 57 req- 0
+
+All:
+2: des- 0.159529 pop- 91 req- 0
+8: des- 0.120939 pop- 67 req- 68
+5: des- 0.119496 pop- 46 req- 47
+12: des- 0.117683 pop- 20 req- 21
+0: des- 0.0952654 pop- 128 req- 129
+16: des- 0.0802187 pop- 55 req- 56
+14: des- 0.0759828 pop- 35 req- 36
+15: des- 0.0721826 pop- 55 req- 56
+6: des- 0.0652619 pop- 46 req- 47
+10: des- 0.0583831 pop- 57 req- 58
+9: des- 0.0571709 pop- 57 req- 58
+4: des- 0.054293 pop- 79 req- 80
+11: des- 0.0533669 pop- 20 req- 21
+17: des- 0.0531542 pop- 60 req- 61
+3: des- 0.0510405 pop- 79 req- 80
+20: des- 0.0493443 pop- 54 req- 0
+7: des- 0.0481393 pop- 67 req- 68
+22: des- 0.0463374 pop- 53 req- 0
+19: des- 0.0451607 pop- 48 req- 49
+21: des- 0.0449413 pop- 20 req- 21
+18: des- 0.0421957 pop- 16 req- 0
+13: des- 0.0306955 pop- 57 req- 0
+1: des- 0.0240001 pop- 50 req- 51
+
+adjusting for fleets
+time: 0.000812
+
+adjusted:
+2: des- 0.159529 pop- 91 req- 0
+8: des- 0.120939 pop- 67 req- -1
+5: des- 0.119496 pop- 46 req- 47
+12: des- 0.117683 pop- 20 req- 21
+0: des- 0.0952654 pop- 128 req- 129
+16: des- 0.0802187 pop- 55 req- 56
+14: des- 0.0759828 pop- 35 req- 36
+15: des- 0.0721826 pop- 55 req- 56
+6: des- 0.0652619 pop- 46 req- 47
+10: des- 0.0583831 pop- 57 req- 58
+9: des- 0.0571709 pop- 57 req- 58
+4: des- 0.054293 pop- 79 req- 80
+11: des- 0.0533669 pop- 20 req- 21
+17: des- 0.0531542 pop- 60 req- 61
+3: des- 0.0510405 pop- 79 req- 80
+20: des- 0.0493443 pop- 54 req- 0
+7: des- 0.0481393 pop- 67 req- 68
+22: des- 0.0463374 pop- 53 req- 0
+19: des- 0.0451607 pop- 48 req- 49
+21: des- 0.0449413 pop- 20 req- 21
+18: des- 0.0421957 pop- 16 req- 0
+13: des- 0.0306955 pop- 57 req- 0
+1: des- 0.0240001 pop- 50 req- 51
+
+moves:
+time: 0.001122
+sp 13 : 0.0306955 tp 2 : 0.159529
+time: 0.001146
+reinforcements
+next
+sp 18 : 0.0421957 tp 8 : 0.120939
+time: 0.001181
+sp 22 : 0.0463374 tp 8 : 0.120939
+time: 0.001203
+sending some ships
+order: 22=>8(3)
+dec ships tp send
+++iter
+done
+next
+sp 20 : 0.0493443 tp 8 : 0.120939
+time: 0.001262
+sending some ships
+order: 20=>8(4)
+dec ships tp send
+++iter
+done
+next
+orders: 3
+
+all done
+
+time: 0.001319
+
+
+making a move
+time: 0.000362
+counts
+time: 0.000542
+ships: 289, 5
+centre
+time: 0.000579
+get desires
+time: 0.000601
+sorting
+time: 0.000628
+logging
+time: 0.000657
+
+Mine:
+2: des- 0.154141 pop- 96 req- 0
+20: des- 0.048919 pop- 58 req- 0
+22: des- 0.0458628 pop- 56 req- 0
+18: des- 0.0422738 pop- 17 req- 0
+13: des- 0.0306571 pop- 62 req- 0
+
+All:
+2: des- 0.154141 pop- 96 req- 0
+8: des- 0.122708 pop- 49 req- 50
+5: des- 0.119583 pop- 46 req- 47
+12: des- 0.117664 pop- 20 req- 21
+0: des- 0.0951839 pop- 128 req- 129
+16: des- 0.0802583 pop- 55 req- 56
+14: des- 0.0760913 pop- 35 req- 36
+15: des- 0.0721767 pop- 55 req- 56
+6: des- 0.0653064 pop- 46 req- 47
+10: des- 0.0583581 pop- 57 req- 58
+9: des- 0.0571192 pop- 57 req- 58
+4: des- 0.0541926 pop- 79 req- 80
+11: des- 0.0534233 pop- 20 req- 21
+17: des- 0.0531425 pop- 60 req- 61
+3: des- 0.0509753 pop- 79 req- 80
+20: des- 0.048919 pop- 58 req- 0
+7: des- 0.0481049 pop- 67 req- 68
+22: des- 0.0458628 pop- 56 req- 0
+19: des- 0.0451588 pop- 48 req- 49
+21: des- 0.0449799 pop- 20 req- 21
+18: des- 0.0422738 pop- 17 req- 0
+13: des- 0.0306571 pop- 62 req- 0
+1: des- 0.0249282 pop- 5 req- 6
+
+adjusting for fleets
+time: 0.001013
+
+adjusted:
+2: des- 0.154141 pop- 96 req- 0
+8: des- 0.122708 pop- 49 req- -1
+5: des- 0.119583 pop- 46 req- 47
+12: des- 0.117664 pop- 20 req- 21
+0: des- 0.0951839 pop- 128 req- 129
+16: des- 0.0802583 pop- 55 req- 56
+14: des- 0.0760913 pop- 35 req- 36
+15: des- 0.0721767 pop- 55 req- 56
+6: des- 0.0653064 pop- 46 req- 47
+10: des- 0.0583581 pop- 57 req- 58
+9: des- 0.0571192 pop- 57 req- 58
+4: des- 0.0541926 pop- 79 req- 80
+11: des- 0.0534233 pop- 20 req- 21
+17: des- 0.0531425 pop- 60 req- 61
+3: des- 0.0509753 pop- 79 req- 80
+20: des- 0.048919 pop- 58 req- 0
+7: des- 0.0481049 pop- 67 req- 68
+22: des- 0.0458628 pop- 56 req- 0
+19: des- 0.0451588 pop- 48 req- 49
+21: des- 0.0449799 pop- 20 req- 21
+18: des- 0.0422738 pop- 17 req- 0
+13: des- 0.0306571 pop- 62 req- 0
+1: des- 0.0249282 pop- 5 req- 6
+
+moves:
+time: 0.001318
+sp 13 : 0.0306571 tp 2 : 0.154141
+time: 0.001341
+reinforcements
+next
+sp 18 : 0.0422738 tp 8 : 0.122708
+time: 0.001375
+sp 22 : 0.0458628 tp 8 : 0.122708
+time: 0.001397
+sending some ships
+order: 22=>8(6)
+dec ships tp send
+++iter
+done
+next
+sp 20 : 0.048919 tp 8 : 0.122708
+time: 0.001462
+sending some ships
+order: 20=>8(8)
+dec ships tp send
+++iter
+done
+next
+orders: 3
+
+all done
+
+time: 0.001521
+
+
+making a move
+time: 0.000692
+counts
+time: 0.00075
+ships: 243, 10
+centre
+time: 0.000785
+get desires
+time: 0.000806
+sorting
+time: 0.000834
+logging
+time: 0.000862
+
+Mine:
+2: des- 0.118565 pop- 51 req- 0
+20: des- 0.0461557 pop- 54 req- 0
+18: des- 0.0434615 pop- 18 req- 0
+22: des- 0.0426971 pop- 53 req- 0
+13: des- 0.0326192 pop- 67 req- 0
+
+All:
+5: des- 0.123381 pop- 46 req- 47
+8: des- 0.123304 pop- 49 req- 50
+12: des- 0.11879 pop- 20 req- 21
+2: des- 0.118565 pop- 51 req- 0
+0: des- 0.0992365 pop- 128 req- 129
+16: des- 0.0822782 pop- 55 req- 56
+14: des- 0.0786052 pop- 35 req- 36
+15: des- 0.0737992 pop- 55 req- 56
+6: des- 0.0669964 pop- 46 req- 47
+10: des- 0.0591515 pop- 57 req- 58
+9: des- 0.0578019 pop- 57 req- 58
+4: des- 0.0546408 pop- 79 req- 80
+11: des- 0.0545362 pop- 20 req- 21
+17: des- 0.0542675 pop- 60 req- 61
+3: des- 0.0515604 pop- 79 req- 80
+7: des- 0.0489487 pop- 67 req- 68
+20: des- 0.0461557 pop- 54 req- 0
+19: des- 0.0459871 pop- 48 req- 49
+21: des- 0.045833 pop- 20 req- 21
+18: des- 0.0434615 pop- 18 req- 0
+22: des- 0.0426971 pop- 53 req- 0
+13: des- 0.0326192 pop- 67 req- 0
+1: des- 0.0253525 pop- 10 req- 11
+
+adjusting for fleets
+time: 0.004169
+
+adjusted:
+5: des- 0.123381 pop- 46 req- 47
+8: des- 0.123304 pop- 49 req- -15
+12: des- 0.11879 pop- 20 req- 21
+2: des- 0.118565 pop- 51 req- 0
+0: des- 0.0992365 pop- 128 req- 129
+16: des- 0.0822782 pop- 55 req- 56
+14: des- 0.0786052 pop- 35 req- 36
+15: des- 0.0737992 pop- 55 req- 56
+6: des- 0.0669964 pop- 46 req- 47
+10: des- 0.0591515 pop- 57 req- 58
+9: des- 0.0578019 pop- 57 req- 58
+4: des- 0.0546408 pop- 79 req- 80
+11: des- 0.0545362 pop- 20 req- 21
+17: des- 0.0542675 pop- 60 req- 61
+3: des- 0.0515604 pop- 79 req- 80
+7: des- 0.0489487 pop- 67 req- 68
+20: des- 0.0461557 pop- 54 req- 0
+19: des- 0.0459871 pop- 48 req- 49
+21: des- 0.045833 pop- 20 req- 21
+18: des- 0.0434615 pop- 18 req- 0
+22: des- 0.0426971 pop- 53 req- 0
+13: des- 0.0326192 pop- 67 req- 0
+1: des- 0.0253525 pop- 10 req- 11
+
+moves:
+time: 0.004482
+sp 13 : 0.0326192 tp 5 : 0.123381
+time: 0.004505
+sending some ships
+order: 13=>5(17)
+dec ships tp send
+++iter
+done
+next
+sp 22 : 0.0426971 tp 5 : 0.123381
+time: 0.004577
+sending some ships
+order: 22=>5(3)
+dec ships tp send
+++iter
+done
+next
+sp 18 : 0.0434615 tp 5 : 0.123381
+time: 0.004634
+sp 20 : 0.0461557 tp 5 : 0.123381
+time: 0.004655
+sending some ships
+order: 20=>5(4)
+dec ships tp send
+++iter
+done
+next
+sp 2 : 0.118565 tp 5 : 0.123381
+time: 0.004712
+sending some ships
+order: 2=>5(1)
+dec ships tp send
+++iter
+done
+next
+orders: 4
+
+all done
+
+time: 0.004768
+
+
+making a move
+time: 0.000276
+counts
+time: 0.000333
+ships: 244, 15
+centre
+time: 0.000369
+get desires
+time: 0.000391
+sorting
+time: 0.000419
+logging
+time: 0.000447
+
+Mine:
+2: des- 0.152552 pop- 56 req- 0
+20: des- 0.049634 pop- 58 req- 0
+22: des- 0.044697 pop- 56 req- 0
+18: des- 0.0431669 pop- 19 req- 0
+13: des- 0.0308069 pop- 55 req- 0
+
+All:
+2: des- 0.152552 pop- 56 req- 0
+8: des- 0.1276 pop- 18 req- 19
+5: des- 0.118455 pop- 46 req- 47
+12: des- 0.116266 pop- 20 req- 21
+0: des- 0.0948385 pop- 128 req- 129
+16: des- 0.0806786 pop- 55 req- 56
+14: des- 0.076194 pop- 35 req- 36
+15: des- 0.0717505 pop- 55 req- 56
+6: des- 0.0654688 pop- 46 req- 47
+10: des- 0.0585633 pop- 57 req- 58
+9: des- 0.0567288 pop- 57 req- 58
+4: des- 0.0537376 pop- 79 req- 80
+11: des- 0.0535829 pop- 20 req- 21
+17: des- 0.0529931 pop- 60 req- 61
+3: des- 0.0510577 pop- 79 req- 80
+20: des- 0.049634 pop- 58 req- 0
+7: des- 0.0479098 pop- 67 req- 68
+19: des- 0.0450816 pop- 48 req- 49
+21: des- 0.0450273 pop- 20 req- 21
+22: des- 0.044697 pop- 56 req- 0
+18: des- 0.0431669 pop- 19 req- 0
+13: des- 0.0308069 pop- 55 req- 0
+1: des- 0.0247428 pop- 15 req- 16
+
+adjusting for fleets
+time: 0.000823
+
+adjusted:
+2: des- 0.152552 pop- 56 req- 0
+8: des- 0.1276 pop- 18 req- -15
+5: des- 0.118455 pop- 46 req- 30
+12: des- 0.116266 pop- 20 req- 21
+0: des- 0.0948385 pop- 128 req- 129
+16: des- 0.0806786 pop- 55 req- 56
+14: des- 0.076194 pop- 35 req- 36
+15: des- 0.0717505 pop- 55 req- 56
+6: des- 0.0654688 pop- 46 req- 47
+10: des- 0.0585633 pop- 57 req- 58
+9: des- 0.0567288 pop- 57 req- 58
+4: des- 0.0537376 pop- 79 req- 80
+11: des- 0.0535829 pop- 20 req- 21
+17: des- 0.0529931 pop- 60 req- 61
+3: des- 0.0510577 pop- 79 req- 80
+20: des- 0.049634 pop- 58 req- 0
+7: des- 0.0479098 pop- 67 req- 68
+19: des- 0.0450816 pop- 48 req- 49
+21: des- 0.0450273 pop- 20 req- 21
+22: des- 0.044697 pop- 56 req- 0
+18: des- 0.0431669 pop- 19 req- 0
+13: des- 0.0308069 pop- 55 req- 0
+1: des- 0.0247428 pop- 15 req- 16
+
+moves:
+time: 0.00137
+sp 13 : 0.0308069 tp 2 : 0.152552
+time: 0.001393
+reinforcements
+next
+sp 18 : 0.0431669 tp 8 : 0.1276
+time: 0.001427
+sp 22 : 0.044697 tp 8 : 0.1276
+time: 0.001449
+sending some ships
+order: 22=>8(6)
+dec ships tp send
+++iter
+done
+next
+sp 20 : 0.049634 tp 8 : 0.1276
+time: 0.001513
+sending all ships needed
+order: 20=>8(-12)
+next
+sp 20 : 0.049634 tp 5 : 0.118455
+time: 0.001554
+sending some ships
+order: 20=>5(20)
+dec ships tp send
+++iter
+done
+next
+orders: 4
+
+all done
+
+time: 0.001613
+
+
+making a move
+time: 0.000388
+counts
+time: 0.000446
+ships: 236, 20
+centre
+time: 0.000482
+get desires
+time: 0.000504
+sorting
+time: 0.000532
+logging
+time: 0.000561
+
+Mine:
+2: des- 0.125359 pop- 61 req- 0
+20: des- 0.0463886 pop- 42 req- 0
+22: des- 0.0439764 pop- 53 req- 0
+18: des- 0.0422621 pop- 20 req- 0
+13: des- 0.0323824 pop- 60 req- 0
+
+All:
+2: des- 0.125359 pop- 61 req- 0
+8: des- 0.124981 pop- 18 req- 19
+5: des- 0.123539 pop- 46 req- 47
+12: des- 0.119841 pop- 20 req- 21
+0: des- 0.0979327 pop- 128 req- 129
+16: des- 0.0812293 pop- 55 req- 56
+14: des- 0.0779088 pop- 35 req- 36
+15: des- 0.0736718 pop- 55 req- 56
+6: des- 0.0663502 pop- 46 req- 47
+10: des- 0.0585917 pop- 57 req- 58
+9: des- 0.0578342 pop- 57 req- 58
+4: des- 0.0546879 pop- 79 req- 80
+11: des- 0.0541324 pop- 20 req- 21
+17: des- 0.0539982 pop- 60 req- 61
+3: des- 0.0510916 pop- 79 req- 80
+7: des- 0.0487644 pop- 67 req- 68
+20: des- 0.0463886 pop- 42 req- 0
+19: des- 0.0457727 pop- 48 req- 49
+21: des- 0.0455899 pop- 20 req- 21
+22: des- 0.0439764 pop- 53 req- 0
+18: des- 0.0422621 pop- 20 req- 0
+13: des- 0.0323824 pop- 60 req- 0
+1: des- 0.0250048 pop- 20 req- 21
+
+adjusting for fleets
+time: 0.000905
+
+adjusted:
+2: des- 0.125359 pop- 61 req- 0
+8: des- 0.124981 pop- 18 req- -21
+5: des- 0.123539 pop- 46 req- 10
+12: des- 0.119841 pop- 20 req- 21
+0: des- 0.0979327 pop- 128 req- 129
+16: des- 0.0812293 pop- 55 req- 56
+14: des- 0.0779088 pop- 35 req- 36
+15: des- 0.0736718 pop- 55 req- 56
+6: des- 0.0663502 pop- 46 req- 47
+10: des- 0.0585917 pop- 57 req- 58
+9: des- 0.0578342 pop- 57 req- 58
+4: des- 0.0546879 pop- 79 req- 80
+11: des- 0.0541324 pop- 20 req- 21
+17: des- 0.0539982 pop- 60 req- 61
+3: des- 0.0510916 pop- 79 req- 80
+7: des- 0.0487644 pop- 67 req- 68
+20: des- 0.0463886 pop- 42 req- 0
+19: des- 0.0457727 pop- 48 req- 49
+21: des- 0.0455899 pop- 20 req- 21
+22: des- 0.0439764 pop- 53 req- 0
+18: des- 0.0422621 pop- 20 req- 0
+13: des- 0.0323824 pop- 60 req- 0
+1: des- 0.0250048 pop- 20 req- 21
+
+moves:
+time: 0.001242
+sp 13 : 0.0323824 tp 2 : 0.125359
+time: 0.001266
+reinforcements
+next
+sp 18 : 0.0422621 tp 8 : 0.124981
+time: 0.001299
+sp 22 : 0.0439764 tp 8 : 0.124981
+time: 0.001321
+sending some ships
+order: 22=>8(3)
+dec ships tp send
+++iter
+done
+next
+sp 20 : 0.0463886 tp 8 : 0.124981
+time: 0.001379
+orders: 2
+
+all done
+
+time: 0.0014
+
+
+making a move
+time: 0.000379
+counts
+time: 0.000426
+ships: 254, 25
+centre
+time: 0.000461
+get desires
+time: 0.000483
+sorting
+time: 0.000509
+logging
+time: 0.000538
+
+Mine:
+2: des- 0.123959 pop- 66 req- 0
+20: des- 0.046272 pop- 46 req- 0
+22: des- 0.0437333 pop- 56 req- 0
+18: des- 0.0423553 pop- 21 req- 0
+13: des- 0.0323029 pop- 65 req- 0
+
+All:
+8: des- 0.126068 pop- 10 req- 11
+2: des- 0.123959 pop- 66 req- 0
+5: des- 0.123577 pop- 46 req- 47
+12: des- 0.119746 pop- 20 req- 21
+0: des- 0.0982037 pop- 128 req- 129
+16: des- 0.0813869 pop- 55 req- 56
+14: des- 0.0780112 pop- 35 req- 36
+15: des- 0.0737246 pop- 55 req- 56
+6: des- 0.0664501 pop- 46 req- 47
+10: des- 0.058685 pop- 57 req- 58
+9: des- 0.0578619 pop- 57 req- 58
+4: des- 0.0547244 pop- 79 req- 80
+11: des- 0.0541869 pop- 20 req- 21
+17: des- 0.0540589 pop- 60 req- 61
+3: des- 0.0511822 pop- 79 req- 80
+7: des- 0.0488161 pop- 67 req- 68
+20: des- 0.046272 pop- 46 req- 0
+19: des- 0.0458171 pop- 48 req- 49
+21: des- 0.0456252 pop- 20 req- 21
+22: des- 0.0437333 pop- 56 req- 0
+18: des- 0.0423553 pop- 21 req- 0
+13: des- 0.0323029 pop- 65 req- 0
+1: des- 0.0249141 pop- 25 req- 26
+
+adjusting for fleets
+time: 0.000876
+
+adjusted:
+8: des- 0.126068 pop- 10 req- -21
+2: des- 0.123959 pop- 66 req- 0
+5: des- 0.123577 pop- 46 req- 10
+12: des- 0.119746 pop- 20 req- 21
+0: des- 0.0982037 pop- 128 req- 129
+16: des- 0.0813869 pop- 55 req- 56
+14: des- 0.0780112 pop- 35 req- 36
+15: des- 0.0737246 pop- 55 req- 56
+6: des- 0.0664501 pop- 46 req- 47
+10: des- 0.058685 pop- 57 req- 58
+9: des- 0.0578619 pop- 57 req- 58
+4: des- 0.0547244 pop- 79 req- 80
+11: des- 0.0541869 pop- 20 req- 21
+17: des- 0.0540589 pop- 60 req- 61
+3: des- 0.0511822 pop- 79 req- 80
+7: des- 0.0488161 pop- 67 req- 68
+20: des- 0.046272 pop- 46 req- 0
+19: des- 0.0458171 pop- 48 req- 49
+21: des- 0.0456252 pop- 20 req- 21
+22: des- 0.0437333 pop- 56 req- 0
+18: des- 0.0423553 pop- 21 req- 0
+13: des- 0.0323029 pop- 65 req- 0
+1: des- 0.0249141 pop- 25 req- 26
+
+moves:
+time: 0.001179
+sp 13 : 0.0323029 tp 8 : 0.126068
+time: 0.001202
+sending all ships needed
+order: 13=>8(13)
+next
+sp 13 : 0.0323029 tp 2 : 0.123959
+time: 0.001249
+reinforcements
+next
+sp 18 : 0.0423553 tp 5 : 0.123577
+time: 0.001283
+sp 22 : 0.0437333 tp 5 : 0.123577
+time: 0.001304
+sending some ships
+order: 22=>5(6)
+dec ships tp send
+++iter
+done
+next
+sp 20 : 0.046272 tp 5 : 0.123577
+time: 0.001363
+orders: 3
+
+all done
+
+time: 0.001388
+
+
+making a move
+time: 0.000325
+counts
+time: 0.000432
+ships: 253, 30
+centre
+time: 0.000469
+get desires
+time: 0.000491
+sorting
+time: 0.00052
+logging
+time: 0.000549
+
+Mine:
+2: des- 0.140712 pop- 71 req- 0
+20: des- 0.048884 pop- 50 req- 0
+22: des- 0.0444267 pop- 53 req- 0
+18: des- 0.0430071 pop- 22 req- 0
+13: des- 0.031303 pop- 57 req- 0
+
+All:
+2: des- 0.140712 pop- 71 req- 0
+8: des- 0.128036 pop- 10 req- 11
+5: des- 0.119907 pop- 46 req- 47
+12: des- 0.117156 pop- 20 req- 21
+0: des- 0.0960213 pop- 128 req- 129
+16: des- 0.0810393 pop- 55 req- 56
+14: des- 0.0768041 pop- 35 req- 36
+15: des- 0.072349 pop- 55 req- 56
+6: des- 0.0658442 pop- 46 req- 47
+10: des- 0.0586903 pop- 57 req- 58
+9: des- 0.0570698 pop- 57 req- 58
+4: des- 0.0540443 pop- 79 req- 80
+11: des- 0.0538093 pop- 20 req- 21
+17: des- 0.053348 pop- 60 req- 61
+3: des- 0.0511797 pop- 79 req- 80
+20: des- 0.048884 pop- 50 req- 0
+7: des- 0.0482107 pop- 67 req- 68
+19: des- 0.04533 pop- 48 req- 49
+21: des- 0.0452313 pop- 20 req- 21
+22: des- 0.0444267 pop- 53 req- 0
+18: des- 0.0430071 pop- 22 req- 0
+13: des- 0.031303 pop- 57 req- 0
+1: des- 0.0245462 pop- 30 req- 31
+
+adjusting for fleets
+time: 0.00089
+
+adjusted:
+2: des- 0.140712 pop- 71 req- 0
+8: des- 0.128036 pop- 10 req- -34
+5: des- 0.119907 pop- 46 req- 4
+12: des- 0.117156 pop- 20 req- 21
+0: des- 0.0960213 pop- 128 req- 129
+16: des- 0.0810393 pop- 55 req- 56
+14: des- 0.0768041 pop- 35 req- 36
+15: des- 0.072349 pop- 55 req- 56
+6: des- 0.0658442 pop- 46 req- 47
+10: des- 0.0586903 pop- 57 req- 58
+9: des- 0.0570698 pop- 57 req- 58
+4: des- 0.0540443 pop- 79 req- 80
+11: des- 0.0538093 pop- 20 req- 21
+17: des- 0.053348 pop- 60 req- 61
+3: des- 0.0511797 pop- 79 req- 80
+20: des- 0.048884 pop- 50 req- 0
+7: des- 0.0482107 pop- 67 req- 68
+19: des- 0.04533 pop- 48 req- 49
+21: des- 0.0452313 pop- 20 req- 21
+22: des- 0.0444267 pop- 53 req- 0
+18: des- 0.0430071 pop- 22 req- 0
+13: des- 0.031303 pop- 57 req- 0
+1: des- 0.0245462 pop- 30 req- 31
+
+moves:
+time: 0.00123
+sp 13 : 0.031303 tp 2 : 0.140712
+time: 0.001253
+reinforcements
+next
+sp 18 : 0.0430071 tp 8 : 0.128036
+time: 0.001287
+sp 22 : 0.0444267 tp 8 : 0.128036
+time: 0.001308
+sending all ships needed
+order: 22=>8(-8)
+next
+sp 22 : 0.0444267 tp 5 : 0.119907
+time: 0.00135
+sending some ships
+order: 22=>5(11)
+dec ships tp send
+++iter
+done
+next
+sp 20 : 0.048884 tp 5 : 0.119907
+time: 0.001414
+sending all ships needed
+order: 20=>5(-2)
+next
+sp 20 : 0.048884 tp 12 : 0.117156
+time: 0.001454
+sending some ships
+order: 20=>12(2)
+dec ships tp send
+++iter
+done
+next
+orders: 5
+
+all done
+
+time: 0.001508
+
+
+making a move
+time: 0.000287
+counts
+time: 0.000346
+ships: 260, 35
+centre
+time: 0.000381
+get desires
+time: 0.000402
+sorting
+time: 0.00043
+logging
+time: 0.000458
+
+Mine:
+2: des- 0.123524 pop- 76 req- 0
+20: des- 0.0487972 pop- 54 req- 0
+18: des- 0.0446058 pop- 23 req- 0
+22: des- 0.0427476 pop- 45 req- 0
+13: des- 0.0317646 pop- 62 req- 0
+
+All:
+8: des- 0.131328 pop- 2 req- 3
+2: des- 0.123524 pop- 76 req- 0
+5: des- 0.121628 pop- 29 req- 30
+12: des- 0.115873 pop- 20 req- 21
+0: des- 0.0974465 pop- 128 req- 129
+16: des- 0.0823899 pop- 55 req- 56
+14: des- 0.077764 pop- 35 req- 36
+15: des- 0.0724782 pop- 55 req- 56
+6: des- 0.0666849 pop- 46 req- 47
+10: des- 0.0593611 pop- 57 req- 58
+9: des- 0.0569605 pop- 57 req- 58
+11: des- 0.0543716 pop- 20 req- 21
+4: des- 0.0538602 pop- 79 req- 80
+17: des- 0.0536513 pop- 60 req- 61
+3: des- 0.051686 pop- 79 req- 80
+20: des- 0.0487972 pop- 54 req- 0
+7: des- 0.0483854 pop- 67 req- 68
+19: des- 0.0455831 pop- 48 req- 49
+21: des- 0.0455713 pop- 20 req- 21
+18: des- 0.0446058 pop- 23 req- 0
+22: des- 0.0427476 pop- 45 req- 0
+13: des- 0.0317646 pop- 62 req- 0
+1: des- 0.0246166 pop- 35 req- 36
+
+adjusting for fleets
+time: 0.000791
+
+adjusted:
+8: des- 0.131328 pop- 2 req- -34
+2: des- 0.123524 pop- 76 req- 0
+5: des- 0.121628 pop- 29 req- -7
+12: des- 0.115873 pop- 20 req- 21
+0: des- 0.0974465 pop- 128 req- 129
+16: des- 0.0823899 pop- 55 req- 56
+14: des- 0.077764 pop- 35 req- 36
+15: des- 0.0724782 pop- 55 req- 56
+6: des- 0.0666849 pop- 46 req- 47
+10: des- 0.0593611 pop- 57 req- 58
+9: des- 0.0569605 pop- 57 req- 58
+11: des- 0.0543716 pop- 20 req- 21
+4: des- 0.0538602 pop- 79 req- 80
+17: des- 0.0536513 pop- 60 req- 61
+3: des- 0.051686 pop- 79 req- 80
+20: des- 0.0487972 pop- 54 req- 0
+7: des- 0.0483854 pop- 67 req- 68
+19: des- 0.0455831 pop- 48 req- 49
+21: des- 0.0455713 pop- 20 req- 21
+18: des- 0.0446058 pop- 23 req- 0
+22: des- 0.0427476 pop- 45 req- 0
+13: des- 0.0317646 pop- 62 req- 0
+1: des- 0.0246166 pop- 35 req- 36
+
+moves:
+time: 0.001092
+sp 13 : 0.0317646 tp 8 : 0.131328
+time: 0.001114
+sending all ships needed
+order: 13=>8(-13)
+next
+sp 13 : 0.0317646 tp 2 : 0.123524
+time: 0.001156
+reinforcements
+next
+sp 22 : 0.0427476 tp 5 : 0.121628
+time: 0.001189
+sp 18 : 0.0446058 tp 5 : 0.121628
+time: 0.001211
+sp 20 : 0.0487972 tp 5 : 0.121628
+time: 0.001233
+sending all ships needed
+order: 20=>5(-2)
+next
+sp 20 : 0.0487972 tp 12 : 0.115873
+time: 0.001273
+sending some ships
+order: 20=>12(6)
+dec ships tp send
+++iter
+done
+next
+orders: 4
+
+all done
+
+time: 0.001335
+
+
+making a move
+time: 0.000299
+counts
+time: 0.000351
+ships: 272, 40
+centre
+time: 0.000387
+get desires
+time: 0.000409
+sorting
+time: 0.000436
+logging
+time: 0.000464
+
+Mine:
+2: des- 0.119297 pop- 81 req- 0
+20: des- 0.0476917 pop- 52 req- 0
+18: des- 0.0440417 pop- 24 req- 0
+22: des- 0.0426999 pop- 48 req- 0
+13: des- 0.0320933 pop- 67 req- 0
+
+All:
+8: des- 0.130134 pop- 2 req- 3
+5: des- 0.123219 pop- 29 req- 30
+2: des- 0.119297 pop- 81 req- 0
+12: des- 0.117114 pop- 20 req- 21
+0: des- 0.0983731 pop- 128 req- 129
+16: des- 0.0824222 pop- 55 req- 56
+14: des- 0.0781893 pop- 35 req- 36
+15: des- 0.073087 pop- 55 req- 56
+6: des- 0.0668746 pop- 46 req- 47
+10: des- 0.0593147 pop- 57 req- 58
+9: des- 0.057346 pop- 57 req- 58
+11: des- 0.0544728 pop- 20 req- 21
+4: des- 0.0542231 pop- 79 req- 80
+17: des- 0.0539542 pop- 60 req- 61
+3: des- 0.0516752 pop- 79 req- 80
+7: des- 0.0486601 pop- 67 req- 68
+20: des- 0.0476917 pop- 52 req- 0
+19: des- 0.0457843 pop- 48 req- 49
+21: des- 0.0457054 pop- 20 req- 21
+18: des- 0.0440417 pop- 24 req- 0
+22: des- 0.0426999 pop- 48 req- 0
+13: des- 0.0320933 pop- 67 req- 0
+1: des- 0.0246041 pop- 40 req- 41
+
+adjusting for fleets
+time: 0.001188
+
+adjusted:
+8: des- 0.130134 pop- 2 req- -34
+5: des- 0.123219 pop- 29 req- -7
+2: des- 0.119297 pop- 81 req- 0
+12: des- 0.117114 pop- 20 req- 15
+0: des- 0.0983731 pop- 128 req- 129
+16: des- 0.0824222 pop- 55 req- 56
+14: des- 0.0781893 pop- 35 req- 36
+15: des- 0.073087 pop- 55 req- 56
+6: des- 0.0668746 pop- 46 req- 47
+10: des- 0.0593147 pop- 57 req- 58
+9: des- 0.057346 pop- 57 req- 58
+11: des- 0.0544728 pop- 20 req- 21
+4: des- 0.0542231 pop- 79 req- 80
+17: des- 0.0539542 pop- 60 req- 61
+3: des- 0.0516752 pop- 79 req- 80
+7: des- 0.0486601 pop- 67 req- 68
+20: des- 0.0476917 pop- 52 req- 0
+19: des- 0.0457843 pop- 48 req- 49
+21: des- 0.0457054 pop- 20 req- 21
+18: des- 0.0440417 pop- 24 req- 0
+22: des- 0.0426999 pop- 48 req- 0
+13: des- 0.0320933 pop- 67 req- 0
+1: des- 0.0246041 pop- 40 req- 41
+
+moves:
+time: 0.001498
+sp 13 : 0.0320933 tp 8 : 0.130134
+time: 0.001521
+sending all ships needed
+order: 13=>8(-13)
+next
+sp 13 : 0.0320933 tp 5 : 0.123219
+time: 0.001565
+sending all ships needed
+order: 13=>5(-9)
+next
+sp 13 : 0.0320933 tp 2 : 0.119297
+time: 0.001606
+reinforcements
+order: 13=>2(4)
+next
+sp 22 : 0.0426999 tp 12 : 0.117114
+time: 0.001647
+sp 18 : 0.0440417 tp 12 : 0.117114
+time: 0.001669
+sp 20 : 0.0476917 tp 12 : 0.117114
+time: 0.001691
+sending some ships
+order: 20=>12(2)
+dec ships tp send
+++iter
+done
+next
+orders: 4
+
+all done
+
+time: 0.001748
+
+
+making a move
+time: 0.00486
+counts
+time: 0.004936
+ships: 265, 70
+centre
+time: 0.004974
+get desires
+time: 0.004995
+sorting
+time: 0.005024
+logging
+time: 0.005053
+
+Mine:
+2: des- 0.129953 pop- 86 req- 0
+22: des- 0.0462243 pop- 51 req- 0
+20: des- 0.0446236 pop- 56 req- 0
+13: des- 0.0318688 pop- 72 req- 0
+
+All:
+2: des- 0.129953 pop- 86 req- 0
+5: des- 0.127279 pop- 29 req- 30
+8: des- 0.123469 pop- 2 req- 3
+12: des- 0.122628 pop- 20 req- 21
+18: des- 0.100547 pop- 25 req- 26
+0: des- 0.0975219 pop- 128 req- 129
+16: des- 0.0800062 pop- 55 req- 56
+14: des- 0.0773842 pop- 35 req- 36
+15: des- 0.0742117 pop- 55 req- 56
+6: des- 0.0657372 pop- 46 req- 47
+9: des- 0.0583889 pop- 57 req- 58
+10: des- 0.0579401 pop- 57 req- 58
+4: des- 0.0553107 pop- 79 req- 80
+17: des- 0.0540326 pop- 60 req- 61
+11: des- 0.0536879 pop- 20 req- 21
+3: des- 0.0506408 pop- 79 req- 80
+7: des- 0.0489041 pop- 67 req- 68
+22: des- 0.0462243 pop- 51 req- 0
+19: des- 0.0457451 pop- 48 req- 49
+21: des- 0.0453938 pop- 20 req- 21
+20: des- 0.0446236 pop- 56 req- 0
+13: des- 0.0318688 pop- 72 req- 0
+1: des- 0.0243859 pop- 45 req- 46
+
+adjusting for fleets
+time: 0.005382
+
+adjusted:
+2: des- 0.129953 pop- 86 req- 0
+5: des- 0.127279 pop- 29 req- -7
+8: des- 0.123469 pop- 2 req- -34
+12: des- 0.122628 pop- 20 req- 15
+18: des- 0.100547 pop- 25 req- 26
+0: des- 0.0975219 pop- 128 req- 129
+16: des- 0.0800062 pop- 55 req- 56
+14: des- 0.0773842 pop- 35 req- 36
+15: des- 0.0742117 pop- 55 req- 56
+6: des- 0.0657372 pop- 46 req- 47
+9: des- 0.0583889 pop- 57 req- 58
+10: des- 0.0579401 pop- 57 req- 58
+4: des- 0.0553107 pop- 79 req- 80
+17: des- 0.0540326 pop- 60 req- 61
+11: des- 0.0536879 pop- 20 req- 21
+3: des- 0.0506408 pop- 79 req- 80
+7: des- 0.0489041 pop- 67 req- 68
+22: des- 0.0462243 pop- 51 req- 0
+19: des- 0.0457451 pop- 48 req- 49
+21: des- 0.0453938 pop- 20 req- 21
+20: des- 0.0446236 pop- 56 req- 0
+13: des- 0.0318688 pop- 72 req- 0
+1: des- 0.0243859 pop- 45 req- 46
+
+moves:
+time: 0.005687
+sp 13 : 0.0318688 tp 2 : 0.129953
+time: 0.005743
+reinforcements
+next
+sp 20 : 0.0446236 tp 5 : 0.127279
+time: 0.005777
+sending all ships needed
+order: 20=>5(-2)
+next
+sp 20 : 0.0446236 tp 8 : 0.123469
+time: 0.005819
+sending all ships needed
+order: 20=>8(-38)
+next
+sp 20 : 0.0446236 tp 12 : 0.122628
+time: 0.005858
+sending some ships
+order: 20=>12(46)
+dec ships tp send
+++iter
+done
+next
+sp 22 : 0.0462243 tp 12 : 0.122628
+time: 0.005924
+sending all ships needed
+order: 22=>12(-46)
+next
+sp 22 : 0.0462243 tp 18 : 0.100547
+time: 0.005965
+sending some ships
+order: 22=>18(47)
+dec ships tp send
+++iter
+done
+next
+orders: 6
+
+all done
+
+time: 0.006023
+
+
+making a move
+time: 0.000319
+counts
+time: 0.000378
+ships: 189, 51
+centre
+time: 0.000414
+get desires
+time: 0.000436
+sorting
+time: 0.000464
+logging
+time: 0.000493
+
+Mine:
+2: des- 0.0648782 pop- 91 req- 0
+13: des- 0.0413495 pop- 77 req- 0
+22: des- 0.0383077 pop- 7 req- 0
+20: des- 0.0371839 pop- 14 req- 0
+
+All:
+5: des- 0.14554 pop- 29 req- 30
+12: des- 0.128605 pop- 20 req- 21
+8: des- 0.120668 pop- 2 req- 3
+0: des- 0.11369 pop- 128 req- 129
+18: des- 0.102503 pop- 1 req- 2
+14: des- 0.0865717 pop- 35 req- 36
+16: des- 0.0853679 pop- 55 req- 56
+15: des- 0.0812356 pop- 55 req- 56
+6: des- 0.0711964 pop- 46 req- 47
+2: des- 0.0648782 pop- 91 req- 0
+9: des- 0.0615273 pop- 57 req- 58
+10: des- 0.0597488 pop- 57 req- 58
+17: des- 0.0583972 pop- 60 req- 61
+4: des- 0.0575814 pop- 79 req- 80
+11: des- 0.0572021 pop- 20 req- 21
+7: des- 0.052278 pop- 67 req- 68
+3: des- 0.0520063 pop- 79 req- 80
+19: des- 0.0488373 pop- 48 req- 49
+21: des- 0.0483351 pop- 20 req- 21
+13: des- 0.0413495 pop- 77 req- 0
+22: des- 0.0383077 pop- 7 req- 0
+20: des- 0.0371839 pop- 14 req- 0
+1: des- 0.0260154 pop- 50 req- 51
+
+adjusting for fleets
+time: 0.000826
+
+adjusted:
+5: des- 0.14554 pop- 29 req- -7
+12: des- 0.128605 pop- 20 req- -31
+8: des- 0.120668 pop- 2 req- -34
+0: des- 0.11369 pop- 128 req- 129
+18: des- 0.102503 pop- 1 req- -45
+14: des- 0.0865717 pop- 35 req- 36
+16: des- 0.0853679 pop- 55 req- 56
+15: des- 0.0812356 pop- 55 req- 56
+6: des- 0.0711964 pop- 46 req- 47
+2: des- 0.0648782 pop- 91 req- 0
+9: des- 0.0615273 pop- 57 req- 58
+10: des- 0.0597488 pop- 57 req- 58
+17: des- 0.0583972 pop- 60 req- 61
+4: des- 0.0575814 pop- 79 req- 80
+11: des- 0.0572021 pop- 20 req- 21
+7: des- 0.052278 pop- 67 req- 68
+3: des- 0.0520063 pop- 79 req- 80
+19: des- 0.0488373 pop- 48 req- 49
+21: des- 0.0483351 pop- 20 req- 21
+13: des- 0.0413495 pop- 77 req- 0
+22: des- 0.0383077 pop- 7 req- 0
+20: des- 0.0371839 pop- 14 req- 0
+1: des- 0.0260154 pop- 50 req- 51
+
+moves:
+time: 0.001136
+sp 20 : 0.0371839 tp 5 : 0.14554
+time: 0.001159
+sp 22 : 0.0383077 tp 5 : 0.14554
+time: 0.003208
+sp 13 : 0.0413495 tp 5 : 0.14554
+time: 0.003248
+sending all ships needed
+order: 13=>5(-9)
+next
+sp 13 : 0.0413495 tp 12 : 0.128605
+time: 0.003293
+sending all ships needed
+order: 13=>12(-46)
+next
+sp 13 : 0.0413495 tp 8 : 0.120668
+time: 0.003334
+sending all ships needed
+order: 13=>8(-13)
+next
+sp 13 : 0.0413495 tp 0 : 0.11369
+time: 0.003374
+sending some ships
+order: 13=>0(95)
+dec ships tp send
+++iter
+done
+next
+sp 2 : 0.0648782 tp 0 : 0.11369
+time: 0.003438
+sending some ships
+order: 2=>0(41)
+dec ships tp send
+++iter
+done
+next
+orders: 5
+
+all done
+
+time: 0.003497
