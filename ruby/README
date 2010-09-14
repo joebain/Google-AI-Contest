@@ -1,0 +1,4 @@
+Your AI logic should go in mybot.rb.
+
+To get started, create a new function with your AI code
+and edit do_turn to call your function instead of naive_strategy.
